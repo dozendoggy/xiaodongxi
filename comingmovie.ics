@@ -1,25 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《波提切利，佛罗伦萨和美第奇家族》
-DTSTART:20241213
-DESCRIPTION:在美第奇家族“伟大的洛伦佐”洛伦佐·德·美
- 第奇（Lorenzo de' Medici）势力影响下的佛罗伦萨，是意大
- 利文艺复兴的重镇，这也是该城市历史上最为辉煌的时
- 期之一。由于洛伦佐本人对艺术的热爱和支持，文化影
- 响力渗透到社会政治、经济领域，也布满了佛罗伦萨的
- 大街小巷：艺术家们在宫廷、教堂和贵族私宅中留下诸
- 多令人惊叹的艺术创作；然而在繁荣的另一面，当地教
- 会与罗马教廷的角力、银行家与商贾大家族的争端、以
- 及国家地区间的同盟选择，均伴生着复杂的权谋和残酷
- 的暴力。这个时期有一位艺术家的经历和作品，比其他
- 任何人都更能投射出一个非凡时代的风起云涌，他就是
- 桑德罗·波提切利（Sandro Botticelli，本名Alessandro Filipepi）
- 。波提切利在美第奇家族掌权期间，受到政治、经济和
- 文化地位上庇佑，他那些富于宗教人文主义思想、世俗
- 精神的创作应运而生...\n豆瓣主页：https://movie.douban.com/su
- bject/35590642/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《破·地狱》
 DTSTART:20241214
 DESCRIPTION:婚礼策划师道生（黄子华 饰）因婚礼市场萧条
@@ -47,10 +27,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《雄狮少年2》
 DTSTART:20241214
-DESCRIPTION:来上海打工的无名之辈阿娟，为了赚钱给父亲
- 治病，同意代表没落的传武拳馆参加“上海格斗之夜”
- 武术比赛，为此他必须战胜所有的高手、偏见和自己。\n
- 豆瓣主页：https://movie.douban.com/subject/35883131/
+DESCRIPTION:来上海打工的无名之辈阿娟（李昕 配音），为
+ 了赚钱给父亲治病，同意代表没落的传武拳馆参加“上
+ 海格斗之夜”武术比赛，为此他必须战胜所有的高手、
+ 偏见和自己。\n豆瓣主页：https://movie.douban.com/subject/358831
+ 31/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《猎人克莱文》
@@ -67,11 +48,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《多想和你再见一面》
 DTSTART:20241214
-DESCRIPTION:1998年，澳门女孩姗蒂结识大陆男孩乔明庄，短
- 暂相处后各奔东西。20年后，港珠澳大桥横跨海峡，两人
- 历经变迁后再次重逢，四目相对，心意两相知。岁月见
- 证了他们的等待、成长与坚持，亦见证了澳门的繁荣与
- 蜕变。\n豆瓣主页：https://movie.douban.com/subject/36809851/
+DESCRIPTION:1998年，澳门女孩姗蒂（何超莲 饰）结识大陆男
+ 孩乔明庄（此沙 饰），短暂相处后各奔东西。20年后，
+ 港珠澳大桥横跨海峡，两人历经变迁后再次重逢，四目
+ 相对，心意两相知。岁月见证了他们的等待、成长与坚
+ 持，亦见证了澳门的繁荣与蜕变。\n豆瓣主页：https://movi
+ e.douban.com/subject/36809851/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《巴铁女孩》
@@ -288,6 +270,18 @@ DESCRIPTION:“超”音速的索尼克（本·施瓦茨 Ben Schwartz 配
  于夏特的秘密也逐渐浮出水面，这场危机背后还有更狡
  猾的黑手。索尼克小队能否团结一致击败夏特并拯救世
  界？\n豆瓣主页：https://movie.douban.com/subject/35771832/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《假爸爸》
+DTSTART:20250110
+DESCRIPTION:往昔歌坛巨星杨浩良（贾冰 饰）意外发现有人
+ 借着自己的身份招摇撞骗，随即命令自己的儿子杨十月
+ （尹正 饰）去查明真相。然而杨十月为了给父亲凑够手
+ 术费，与假爸爸王春生（贾冰 饰）联手，开启了一段含
+ 冰量100%的啼笑皆非“坑爹捞金”之旅。鸡飞狗跳的走穴
+ 之旅止步在最后一场演出前，他们也意外收获了一段“
+ 人间第一情”。\n豆瓣主页：https://movie.douban.com/subject/361
+ 40062/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《射雕英雄传：侠之大者》
@@ -374,26 +368,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《波提切利，佛罗伦萨和美第奇家族》
-DTSTART:20241213
-DESCRIPTION:在美第奇家族“伟大的洛伦佐”洛伦佐·德·美
- 第奇（Lorenzo de' Medici）势力影响下的佛罗伦萨，是意大
- 利文艺复兴的重镇，这也是该城市历史上最为辉煌的时
- 期之一。由于洛伦佐本人对艺术的热爱和支持，文化影
- 响力渗透到社会政治、经济领域，也布满了佛罗伦萨的
- 大街小巷：艺术家们在宫廷、教堂和贵族私宅中留下诸
- 多令人惊叹的艺术创作；然而在繁荣的另一面，当地教
- 会与罗马教廷的角力、银行家与商贾大家族的争端、以
- 及国家地区间的同盟选择，均伴生着复杂的权谋和残酷
- 的暴力。这个时期有一位艺术家的经历和作品，比其他
- 任何人都更能投射出一个非凡时代的风起云涌，他就是
- 桑德罗·波提切利（Sandro Botticelli，本名Alessandro Filipepi）
- 。波提切利在美第奇家族掌权期间，受到政治、经济和
- 文化地位上庇佑，他那些富于宗教人文主义思想、世俗
- 精神的创作应运而生...\n豆瓣主页：https://movie.douban.com/su
- bject/35590642/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《破·地狱》
 DTSTART:20241214
 DESCRIPTION:婚礼策划师道生（黄子华 饰）因婚礼市场萧条
@@ -421,10 +395,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《雄狮少年2》
 DTSTART:20241214
-DESCRIPTION:来上海打工的无名之辈阿娟，为了赚钱给父亲
- 治病，同意代表没落的传武拳馆参加“上海格斗之夜”
- 武术比赛，为此他必须战胜所有的高手、偏见和自己。\n
- 豆瓣主页：https://movie.douban.com/subject/35883131/
+DESCRIPTION:来上海打工的无名之辈阿娟（李昕 配音），为
+ 了赚钱给父亲治病，同意代表没落的传武拳馆参加“上
+ 海格斗之夜”武术比赛，为此他必须战胜所有的高手、
+ 偏见和自己。\n豆瓣主页：https://movie.douban.com/subject/358831
+ 31/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《猎人克莱文》
@@ -441,11 +416,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《多想和你再见一面》
 DTSTART:20241214
-DESCRIPTION:1998年，澳门女孩姗蒂结识大陆男孩乔明庄，短
- 暂相处后各奔东西。20年后，港珠澳大桥横跨海峡，两人
- 历经变迁后再次重逢，四目相对，心意两相知。岁月见
- 证了他们的等待、成长与坚持，亦见证了澳门的繁荣与
- 蜕变。\n豆瓣主页：https://movie.douban.com/subject/36809851/
+DESCRIPTION:1998年，澳门女孩姗蒂（何超莲 饰）结识大陆男
+ 孩乔明庄（此沙 饰），短暂相处后各奔东西。20年后，
+ 港珠澳大桥横跨海峡，两人历经变迁后再次重逢，四目
+ 相对，心意两相知。岁月见证了他们的等待、成长与坚
+ 持，亦见证了澳门的繁荣与蜕变。\n豆瓣主页：https://movi
+ e.douban.com/subject/36809851/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《巴铁女孩》
@@ -662,6 +638,18 @@ DESCRIPTION:“超”音速的索尼克（本·施瓦茨 Ben Schwartz 配
  于夏特的秘密也逐渐浮出水面，这场危机背后还有更狡
  猾的黑手。索尼克小队能否团结一致击败夏特并拯救世
  界？\n豆瓣主页：https://movie.douban.com/subject/35771832/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《假爸爸》
+DTSTART:20250110
+DESCRIPTION:往昔歌坛巨星杨浩良（贾冰 饰）意外发现有人
+ 借着自己的身份招摇撞骗，随即命令自己的儿子杨十月
+ （尹正 饰）去查明真相。然而杨十月为了给父亲凑够手
+ 术费，与假爸爸王春生（贾冰 饰）联手，开启了一段含
+ 冰量100%的啼笑皆非“坑爹捞金”之旅。鸡飞狗跳的走穴
+ 之旅止步在最后一场演出前，他们也意外收获了一段“
+ 人间第一情”。\n豆瓣主页：https://movie.douban.com/subject/361
+ 40062/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《射雕英雄传：侠之大者》
