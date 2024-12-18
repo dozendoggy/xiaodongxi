@@ -1,17 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《幸运阁》
-DTSTART:20241219
-DESCRIPTION:人生路上，你可否会为谁按下暂停键？这是一
- 趟迫不得已的回乡之旅，北漂的奥利赶回家乡澳门，从
- 小带她长大的奶奶病重，而家人各自忙碌，这让自由职
- 业的奥利成了照顾奶奶的最佳人选。祖孙二人在幸运阁
- 的点滴相处中重拾美好时光，然而事业的停滞让奥利倍
- 感焦虑，似乎奶奶正在成为拖累她的原因……在爱与忍
- 耐等复杂情绪交织下，两代人各自探寻着关于幸福的答
- 案。\n豆瓣主页：https://movie.douban.com/subject/36099510/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《疯狂的外星人》
 DTSTART:20241220
 DESCRIPTION:号称银河系最先进的外星文明试图和地球建交
@@ -239,9 +227,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《封神第二部：战火西岐》
 DTSTART:20250129
-DESCRIPTION:殷商大军兵临城下，西岐保卫战一触即发，关
- 于“封神榜” 的争夺仍在继续......\n豆瓣主页：https://mov
- ie.douban.com/subject/30181250/
+DESCRIPTION:姜子牙、姬发带队坚守西岐，家园保卫战一触
+ 即发！邓婵玉、闻仲奉商王殷寿之命，率魔家四将等殷
+ 商大军征伐西岐，西岐一方得殷郊、雷震子、杨戬、哪
+ 吒等相助，更聚全民之力守卫家园。兵戈相对、法术交
+ 锋，两大阵营掀起强强对决，关于“封神榜” 的争夺正
+ 在继续......\n豆瓣主页：https://movie.douban.com/subject/30181250/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《哪吒之魔童闹海》
@@ -308,18 +299,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《幸运阁》
-DTSTART:20241219
-DESCRIPTION:人生路上，你可否会为谁按下暂停键？这是一
- 趟迫不得已的回乡之旅，北漂的奥利赶回家乡澳门，从
- 小带她长大的奶奶病重，而家人各自忙碌，这让自由职
- 业的奥利成了照顾奶奶的最佳人选。祖孙二人在幸运阁
- 的点滴相处中重拾美好时光，然而事业的停滞让奥利倍
- 感焦虑，似乎奶奶正在成为拖累她的原因……在爱与忍
- 耐等复杂情绪交织下，两代人各自探寻着关于幸福的答
- 案。\n豆瓣主页：https://movie.douban.com/subject/36099510/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《疯狂的外星人》
 DTSTART:20241220
 DESCRIPTION:号称银河系最先进的外星文明试图和地球建交
@@ -547,9 +526,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《封神第二部：战火西岐》
 DTSTART:20250129
-DESCRIPTION:殷商大军兵临城下，西岐保卫战一触即发，关
- 于“封神榜” 的争夺仍在继续......\n豆瓣主页：https://mov
- ie.douban.com/subject/30181250/
+DESCRIPTION:姜子牙、姬发带队坚守西岐，家园保卫战一触
+ 即发！邓婵玉、闻仲奉商王殷寿之命，率魔家四将等殷
+ 商大军征伐西岐，西岐一方得殷郊、雷震子、杨戬、哪
+ 吒等相助，更聚全民之力守卫家园。兵戈相对、法术交
+ 锋，两大阵营掀起强强对决，关于“封神榜” 的争夺正
+ 在继续......\n豆瓣主页：https://movie.douban.com/subject/30181250/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《哪吒之魔童闹海》
