@@ -5,5 +5,5 @@
 https://dozendoggy.github.io/xiaodongxi/comingmovie.ics
 在日历app中订阅，可以在日历中看到未来将上映的电影上映日期和db链接
 有意见或者建议请多多提出，谢谢☺️
-预计下次更新日期：1月6日
+
 # xiaodongxi
