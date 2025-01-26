@@ -1,14 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《在他乡》
-DTSTART:20250122
-DESCRIPTION:北漂青年李名扬（李明阳 饰）的事业生活窘迫
- ，春节将至，为了在以他为荣的家人面前维护自己的面
- 子，他买了两条假中华烟，坐上了回家的大巴车，然而
- 谎言说得越多，闹出的笑话也越多。\n豆瓣主页：https://m
- ovie.douban.com/subject/36375231/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《射雕英雄传：侠之大者》
 DTSTART:20250129
 DESCRIPTION:恩怨情仇的江湖，权势角力的战乱时代，郭靖
@@ -131,6 +122,32 @@ DESCRIPTION:人一生会碰到2920万人，但相遇的几率只有0.00487
  主页：https://movie.douban.com/subject/36464817/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《边海》
+DTSTART:20250214
+DESCRIPTION:中国京族小伙阿勇和好兄弟阿成在边贸互市邂
+ 逅越南姑娘阿花，三个人依托中越边贸互市合作生意，
+ 在长期交往中互生爱慕，情感纠葛不休。奈何惹人眼馋
+ ，遭陷害血本无归。6年后，阿勇逐渐发展成越南海鲜产
+ 品的国内供货商；阿成出狱后也和当年所救女孩阿梅终
+ 成眷属，造就了这份中越跨境爱情的美好；阿勇四处寻
+ 找阿花，在不断的追逐着阿花的脚步，正所谓“跨越山
+ 海只为遇见你……\n豆瓣主页：https://movie.douban.com/subject/
+ 36228673/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《诡才之道》
+DTSTART:20250222
+DESCRIPTION:所有人都只关心闹鬼吓不吓人，却没人关心鬼
+ 闹得累不累。在著名闹鬼圣地“旺来温泉大饭店”414号
+ 房里，过气女鬼天后「凯萨琳」（张榕容 饰）和三流阴
+ 间经纪人「Makoto」（陈柏霖 饰）正在为培养菜鸟新鬼「
+ 同学」（王净 饰）发愁。做人难，做鬼也不易，要脱「
+ 鬼」而出、吓出「冥」堂、「鬼」尽皆知，人模「鬼」
+ 样的三位必须携手合作，吓出风格、吓出水平，打造新
+ 的都市传说！\n豆瓣主页：https://movie.douban.com/subject/353646
+ 91/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《猫猫的奇幻漂流》
 DTSTART:20250228
 DESCRIPTION:影片讲述洪水淹没世界，猫猫爬上了一艘帆船
@@ -138,6 +155,17 @@ DESCRIPTION:影片讲述洪水淹没世界，猫猫爬上了一艘帆船
  了水豚、狗狗、狐猴、蛇鹫等动物。性格迥异的它们从
  彼此看不顺眼到并肩作战，共同面对波涛汹涌的大海和
  重重困难。\n豆瓣主页：https://movie.douban.com/subject/35603727/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《想飞的女孩》
+DTSTART:20250308
+DESCRIPTION:影片讲述了一对表姐妹二十余年的成长与救赎
+ ：拼死逃离毒窟的田恬（刘浩存 饰）走投无路，前去寻
+ 找已决裂五年的表姐方笛（文淇 饰）。但此时，为了生
+ 存和梦想已伤痕累累的方笛并没有做好接纳表妹的准备
+ 。随着犯罪分子的步步紧逼，姐妹二人命运的齿轮不得
+ 不重新咬合在一起……\n豆瓣主页：https://movie.douban.com/su
+ bject/36678379/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《了不起的乔西娅》
@@ -189,6 +217,14 @@ DESCRIPTION:影片根据真实事件改编。\n豆瓣主页：https://movi
  e.douban.com/subject/34800604/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《东四十条》
+DTSTART:20250415
+DESCRIPTION:东四（杨凯航 饰）和十条（钱赓 饰）是租住在
+ 北京胡同里的两个外来年轻人。春天，他们在胡同里看
+ 到了一张重金悬赏的寻鸽启示，从此开始了他们的寻找
+ ……\n豆瓣主页：https://movie.douban.com/subject/36215199/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《苍茫的天涯是我的爱》
 DTSTART:20250501
 DESCRIPTION:古板遇上鬼马，铁树遇上火花。阴差阳错，让
@@ -211,6 +247,13 @@ DTSTART:20250731
 DESCRIPTION:影片以侵华日军731部队在中国东北进行的细菌
  实验为背景，通过一个小人物的曲折命运，揭露731部队
  的罪行。\n豆瓣主页：https://movie.douban.com/subject/27605659/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《熊猫计划2》
+DTSTART:20251001
+DESCRIPTION:“双国宝”又双叒回来了！熊猫“糊糊”和功
+ 夫巨星Jackie（成龙 饰）将展开怎样的新奇冒险？\n豆瓣
+ 主页：https://movie.douban.com/subject/37211128/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
@@ -224,15 +267,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《在他乡》
-DTSTART:20250122
-DESCRIPTION:北漂青年李名扬（李明阳 饰）的事业生活窘迫
- ，春节将至，为了在以他为荣的家人面前维护自己的面
- 子，他买了两条假中华烟，坐上了回家的大巴车，然而
- 谎言说得越多，闹出的笑话也越多。\n豆瓣主页：https://m
- ovie.douban.com/subject/36375231/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《射雕英雄传：侠之大者》
 DTSTART:20250129
 DESCRIPTION:恩怨情仇的江湖，权势角力的战乱时代，郭靖
@@ -355,6 +389,32 @@ DESCRIPTION:人一生会碰到2920万人，但相遇的几率只有0.00487
  主页：https://movie.douban.com/subject/36464817/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《边海》
+DTSTART:20250214
+DESCRIPTION:中国京族小伙阿勇和好兄弟阿成在边贸互市邂
+ 逅越南姑娘阿花，三个人依托中越边贸互市合作生意，
+ 在长期交往中互生爱慕，情感纠葛不休。奈何惹人眼馋
+ ，遭陷害血本无归。6年后，阿勇逐渐发展成越南海鲜产
+ 品的国内供货商；阿成出狱后也和当年所救女孩阿梅终
+ 成眷属，造就了这份中越跨境爱情的美好；阿勇四处寻
+ 找阿花，在不断的追逐着阿花的脚步，正所谓“跨越山
+ 海只为遇见你……\n豆瓣主页：https://movie.douban.com/subject/
+ 36228673/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《诡才之道》
+DTSTART:20250222
+DESCRIPTION:所有人都只关心闹鬼吓不吓人，却没人关心鬼
+ 闹得累不累。在著名闹鬼圣地“旺来温泉大饭店”414号
+ 房里，过气女鬼天后「凯萨琳」（张榕容 饰）和三流阴
+ 间经纪人「Makoto」（陈柏霖 饰）正在为培养菜鸟新鬼「
+ 同学」（王净 饰）发愁。做人难，做鬼也不易，要脱「
+ 鬼」而出、吓出「冥」堂、「鬼」尽皆知，人模「鬼」
+ 样的三位必须携手合作，吓出风格、吓出水平，打造新
+ 的都市传说！\n豆瓣主页：https://movie.douban.com/subject/353646
+ 91/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《猫猫的奇幻漂流》
 DTSTART:20250228
 DESCRIPTION:影片讲述洪水淹没世界，猫猫爬上了一艘帆船
@@ -362,6 +422,17 @@ DESCRIPTION:影片讲述洪水淹没世界，猫猫爬上了一艘帆船
  了水豚、狗狗、狐猴、蛇鹫等动物。性格迥异的它们从
  彼此看不顺眼到并肩作战，共同面对波涛汹涌的大海和
  重重困难。\n豆瓣主页：https://movie.douban.com/subject/35603727/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《想飞的女孩》
+DTSTART:20250308
+DESCRIPTION:影片讲述了一对表姐妹二十余年的成长与救赎
+ ：拼死逃离毒窟的田恬（刘浩存 饰）走投无路，前去寻
+ 找已决裂五年的表姐方笛（文淇 饰）。但此时，为了生
+ 存和梦想已伤痕累累的方笛并没有做好接纳表妹的准备
+ 。随着犯罪分子的步步紧逼，姐妹二人命运的齿轮不得
+ 不重新咬合在一起……\n豆瓣主页：https://movie.douban.com/su
+ bject/36678379/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《了不起的乔西娅》
@@ -413,6 +484,14 @@ DESCRIPTION:影片根据真实事件改编。\n豆瓣主页：https://movi
  e.douban.com/subject/34800604/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《东四十条》
+DTSTART:20250415
+DESCRIPTION:东四（杨凯航 饰）和十条（钱赓 饰）是租住在
+ 北京胡同里的两个外来年轻人。春天，他们在胡同里看
+ 到了一张重金悬赏的寻鸽启示，从此开始了他们的寻找
+ ……\n豆瓣主页：https://movie.douban.com/subject/36215199/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《苍茫的天涯是我的爱》
 DTSTART:20250501
 DESCRIPTION:古板遇上鬼马，铁树遇上火花。阴差阳错，让
@@ -435,6 +514,13 @@ DTSTART:20250731
 DESCRIPTION:影片以侵华日军731部队在中国东北进行的细菌
  实验为背景，通过一个小人物的曲折命运，揭露731部队
  的罪行。\n豆瓣主页：https://movie.douban.com/subject/27605659/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《熊猫计划2》
+DTSTART:20251001
+DESCRIPTION:“双国宝”又双叒回来了！熊猫“糊糊”和功
+ 夫巨星Jackie（成龙 饰）将展开怎样的新奇冒险？\n豆瓣
+ 主页：https://movie.douban.com/subject/37211128/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
