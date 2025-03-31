@@ -1,43 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《追幸福的人》
-DTSTART:20250325
-DESCRIPTION:巧巧（南吉 饰）与身患脆骨病的女儿茯苓、儿
- 子子苓及其丈夫，一家人命运辗转羁绊的故事。为照顾
- 女儿，二十出头的巧巧不得不与自己的青春和梦想告别
- ，在经历了失业、居无定所、亲友接连意外离世等一系
- 列人生波折之后，巧巧依然对前途渺茫的生活保有无比
- 的热情，始终坚信在乌云密布的未来，终有一道属于他
- 们自己的光。不仅如此，身边多年的同窗好友林树林的
- 突然离世激发了她向死而生的生命动力，顺着那道希望
- 之光，巧巧带领一家人再次踏上追寻幸福的未知旅程。\n
- 豆瓣主页：https://movie.douban.com/subject/35247652/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《制暴：无限杀机》
-DTSTART:20250328
-DESCRIPTION:影片改编自查克·迪克逊所著同名系列小说，主
- 人公莱文·凯德（杰森·斯坦森 Jason Statham 饰）是黑色行
- 动界的传奇人物，他放弃职业从事建筑工作，想过简单
- 的生活，做女儿的好父亲，而当他老板的十几岁女儿珍
- 妮突然消失后，莱文被召回要求重操旧业。在追踪过程
- 中，莱文卷入到 一个邪恶的犯罪阴谋的中心，产生了连
- 锁反应，将威胁到他的新生活方式。\n豆瓣主页：https://m
- ovie.douban.com/subject/33415953/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《周末狂飙》
-DTSTART:20250328
-DESCRIPTION:15年前，顶级“车手”乔伊（桂纶镁 饰）与美
- 国缉毒局探员约翰（路克·伊凡斯 饰）坠入爱河，又被
- 迫分开。15年后，乔伊已嫁给大毒枭康俊（姜成镐 饰）
- ，本以为从此相忘于江湖，不料约翰突然出现在中国台
- 北街头，势要将康俊捉拿归案……在情感的岔路口，一
- 边是念念不忘的恋人，一边是深情专横的丈夫，乔伊将
- 做出怎样的抉择？惊险刺激的大战，一触即发！\n豆瓣主
- 页：https://movie.douban.com/subject/36453867/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《特别的你》
 DTSTART:20250402
 DESCRIPTION:影片聚焦三个孤独症孩子及其家庭的故事。当
@@ -79,6 +41,17 @@ DESCRIPTION:女大学生白佳宜（卜冠今 饰）意外卷入一宗迷
  瓣主页：https://movie.douban.com/subject/35295042/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《猎狐·行动》
+DTSTART:20250404
+DESCRIPTION:外逃7年的上海特大金融诈骗犯戴逸宸（梁朝伟 
+ 饰）现身法国巴黎，中国经侦警察叶钧（段奕宏 饰）带
+ 领“猎狐小队”跨国追赃。昔日老赖凭借国内骗取的百
+ 亿赃款跻身海外上流社会，上万百姓毕生积蓄尽毁，家
+ 破人亡……黑钱流向成谜，街头追杀、人体炸弹、恶徒
+ 设局围剿，步步紧逼！当猎手沦为猎物，猎狐小队能否
+ 逆风翻盘？\n豆瓣主页：https://movie.douban.com/subject/26938697/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《我的世界大电影》
 DTSTART:20250404
 DESCRIPTION:影片讲述四个“异类”——“垃圾侠”加雷特·
@@ -104,19 +77,6 @@ DESCRIPTION:锒铛入狱，天崩开局，刑满释放女囚如何困境
  和生活硬碰硬”的态度，不服输、不认命的她们，面对
  命运挑战一路为彼此撑腰，向阳而生。\n豆瓣主页：https:
  //movie.douban.com/subject/36954004/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《下一个台风》
-DTSTART:20250404
-DESCRIPTION:台风刚过的海岛之上，一只眼受伤的城市女生
- 林沫沫（张子枫 饰），与岛上土生土长的失语女孩阿汐
- （张伟丽 饰）猝然相遇。当无情的风暴逐渐撕开两人隐
- 秘哀伤的过往，两个看似另类但炽热的青春，相互慰藉
- ，彼此支撑，用友情的力量对抗人生的台风。随着青蚵
- 嫂（李心洁 饰）临终透露的惊天秘密和陈淑楠（姚晨 饰
- ）的突然闯入，席卷沫沫与阿汐的下一个台风突如其来
- ，风眼之下，望风而逃还是迎风而上？她们必须做出抉
- 择。\n豆瓣主页：https://movie.douban.com/subject/36752985/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《阳光照耀青春里》
@@ -147,6 +107,14 @@ DESCRIPTION:故事发生在夏亚引领吉翁公国军赢得一年战争
  伊藤也出现在她们面前。自此，少女与少年的相遇，梦
  想就此交织，宇宙世纪开启了新的未来......\n豆瓣主页：
  https://movie.douban.com/subject/37143373/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《东四十条》
+DTSTART:20250408
+DESCRIPTION:东四（杨凯航 饰）和十条（钱赓 饰）是租住在
+ 北京胡同里的两个外来年轻人。春天，他们在胡同里看
+ 到了一张重金悬赏的寻鸽启示，从此开始了他们的寻找
+ ……\n豆瓣主页：https://movie.douban.com/subject/36215199/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《荒蛮故事》
@@ -201,12 +169,32 @@ DESCRIPTION:中央情报局密码专家Charlie Heller（拉米·马雷克
  ovie.douban.com/subject/36251574/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《东四十条》
-DTSTART:20250415
-DESCRIPTION:东四（杨凯航 饰）和十条（钱赓 饰）是租住在
- 北京胡同里的两个外来年轻人。春天，他们在胡同里看
- 到了一张重金悬赏的寻鸽启示，从此开始了他们的寻找
- ……\n豆瓣主页：https://movie.douban.com/subject/36215199/
+SUMMARY:《黎明的一切》
+DTSTART:20250418
+DESCRIPTION:影片改编自濑尾麻衣子的同名小说，讲述拥有
+ 常人难以理解的疾病和烦恼的同事二人互相帮助度过各
+ 自创伤的故事。患有经前综合征的藤沢美纱，因为刚转
+ 职来的山添孝俊做的某件事而爆发怒火。陷入自我厌恶
+ 的美纱才知道孝俊其实患有恐慌症，逐渐两人为了获得
+ 其他同事们的理解，彼此间变成了既不是朋友也不是恋
+ 人的同志关系，即使自己的症状没有改善也会想着能否
+ 帮到对方。\n豆瓣主页：https://movie.douban.com/subject/36135198/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《孤独的美食家 剧场版》
+DTSTART:20250418
+DESCRIPTION:从事进口杂货销售的井之头五郎（松重丰 饰）
+ ，是个喜欢在工作之余到处品尝美馔的老饕。只要肚子
+ 一饿，就会秉持“吃饭皇帝大”的信念，抛下一切直奔
+ 周遭的餐厅食堂大快朵颐。他最爱享受用餐时不被人打
+ 扰，细细品尝料理的美好时光，更爱在内心自言自语品
+ 评美食滋味。这回，他接到前女友的女儿——千秋（杏 
+ 饰）的委托，前往法国拜访千秋的祖父一郎（盐见三省 
+ 饰），并要帮助一郎找出童年时曾喝过的汤头食谱。尽
+ 管线索相当稀少，五郎依旧踏上寻找“究极汤头”的旅
+ 程，足迹遍及法国、韩国、长崎和东京。不过在这趟旅
+ 程当中，他却意外卷入到一场更大的风暴当中。\n豆瓣主
+ 页：https://movie.douban.com/subject/36959346/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《火之鸟 伊甸之花》
@@ -259,6 +247,17 @@ DESCRIPTION:金融大师张托德（刘德华 饰）堪称业界最强“
  页：https://movie.douban.com/subject/35929258/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《大风杀》
+DTSTART:20250501
+DESCRIPTION:边陲小镇突遇44名荷枪实弹、要钱也要命的悍匪
+ 突袭，整个小镇陷入了断油断通信的恐慌死局。镇上只
+ 有三个民警一把枪，“夜猫子”夏然（白客 饰）与越狱
+ 的悍匪大哥北山（辛柏青 饰）展开周旋，以命换命！忙
+ 崖枪声四起，匪帮内部暗流涌动，一场沙暴之下的“大
+ 风杀”拉开序幕。\n豆瓣主页：https://movie.douban.com/subject/
+ 36512371/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《苍茫的天涯是我的爱》
 DTSTART:20250501
 DESCRIPTION:古板遇上鬼马，铁树遇上火花。阴差阳错，让
@@ -305,6 +304,18 @@ DESCRIPTION:渔村少女千筱乘船来到向往已久的大都会，因
  控时间的超能力是命运的馈赠吗？时轮轻轻转动，命运
  就此巨变……\n豆瓣主页：https://movie.douban.com/subject/364694
  77/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《戈壁行者》
+DTSTART:20250531
+DESCRIPTION:本片根据第七届千人走戈壁故事原型创作，以21
+ 28位徒友为“演员”，互不相识的 9 个陌生人因为各不相
+ 同的理由来到戈壁，在荒芜的大漠里，在极端的天气下
+ ，在汹涌的人潮中，共走 108 公里，见天地，见众生，见
+ 自我。每一帧画面都是真实生命故事的重现，每一次挑
+ 战都是一次唤醒与重生。影片献给每一位在戈壁走过、
+ 修行过、重生过的人。\n豆瓣主页：https://movie.douban.com/su
+ bject/35592008/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《星河入梦》
@@ -354,44 +365,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《追幸福的人》
-DTSTART:20250325
-DESCRIPTION:巧巧（南吉 饰）与身患脆骨病的女儿茯苓、儿
- 子子苓及其丈夫，一家人命运辗转羁绊的故事。为照顾
- 女儿，二十出头的巧巧不得不与自己的青春和梦想告别
- ，在经历了失业、居无定所、亲友接连意外离世等一系
- 列人生波折之后，巧巧依然对前途渺茫的生活保有无比
- 的热情，始终坚信在乌云密布的未来，终有一道属于他
- 们自己的光。不仅如此，身边多年的同窗好友林树林的
- 突然离世激发了她向死而生的生命动力，顺着那道希望
- 之光，巧巧带领一家人再次踏上追寻幸福的未知旅程。\n
- 豆瓣主页：https://movie.douban.com/subject/35247652/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《制暴：无限杀机》
-DTSTART:20250328
-DESCRIPTION:影片改编自查克·迪克逊所著同名系列小说，主
- 人公莱文·凯德（杰森·斯坦森 Jason Statham 饰）是黑色行
- 动界的传奇人物，他放弃职业从事建筑工作，想过简单
- 的生活，做女儿的好父亲，而当他老板的十几岁女儿珍
- 妮突然消失后，莱文被召回要求重操旧业。在追踪过程
- 中，莱文卷入到 一个邪恶的犯罪阴谋的中心，产生了连
- 锁反应，将威胁到他的新生活方式。\n豆瓣主页：https://m
- ovie.douban.com/subject/33415953/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《周末狂飙》
-DTSTART:20250328
-DESCRIPTION:15年前，顶级“车手”乔伊（桂纶镁 饰）与美
- 国缉毒局探员约翰（路克·伊凡斯 饰）坠入爱河，又被
- 迫分开。15年后，乔伊已嫁给大毒枭康俊（姜成镐 饰）
- ，本以为从此相忘于江湖，不料约翰突然出现在中国台
- 北街头，势要将康俊捉拿归案……在情感的岔路口，一
- 边是念念不忘的恋人，一边是深情专横的丈夫，乔伊将
- 做出怎样的抉择？惊险刺激的大战，一触即发！\n豆瓣主
- 页：https://movie.douban.com/subject/36453867/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《特别的你》
 DTSTART:20250402
 DESCRIPTION:影片聚焦三个孤独症孩子及其家庭的故事。当
@@ -433,6 +406,17 @@ DESCRIPTION:女大学生白佳宜（卜冠今 饰）意外卷入一宗迷
  瓣主页：https://movie.douban.com/subject/35295042/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《猎狐·行动》
+DTSTART:20250404
+DESCRIPTION:外逃7年的上海特大金融诈骗犯戴逸宸（梁朝伟 
+ 饰）现身法国巴黎，中国经侦警察叶钧（段奕宏 饰）带
+ 领“猎狐小队”跨国追赃。昔日老赖凭借国内骗取的百
+ 亿赃款跻身海外上流社会，上万百姓毕生积蓄尽毁，家
+ 破人亡……黑钱流向成谜，街头追杀、人体炸弹、恶徒
+ 设局围剿，步步紧逼！当猎手沦为猎物，猎狐小队能否
+ 逆风翻盘？\n豆瓣主页：https://movie.douban.com/subject/26938697/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《我的世界大电影》
 DTSTART:20250404
 DESCRIPTION:影片讲述四个“异类”——“垃圾侠”加雷特·
@@ -458,19 +442,6 @@ DESCRIPTION:锒铛入狱，天崩开局，刑满释放女囚如何困境
  和生活硬碰硬”的态度，不服输、不认命的她们，面对
  命运挑战一路为彼此撑腰，向阳而生。\n豆瓣主页：https:
  //movie.douban.com/subject/36954004/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《下一个台风》
-DTSTART:20250404
-DESCRIPTION:台风刚过的海岛之上，一只眼受伤的城市女生
- 林沫沫（张子枫 饰），与岛上土生土长的失语女孩阿汐
- （张伟丽 饰）猝然相遇。当无情的风暴逐渐撕开两人隐
- 秘哀伤的过往，两个看似另类但炽热的青春，相互慰藉
- ，彼此支撑，用友情的力量对抗人生的台风。随着青蚵
- 嫂（李心洁 饰）临终透露的惊天秘密和陈淑楠（姚晨 饰
- ）的突然闯入，席卷沫沫与阿汐的下一个台风突如其来
- ，风眼之下，望风而逃还是迎风而上？她们必须做出抉
- 择。\n豆瓣主页：https://movie.douban.com/subject/36752985/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《阳光照耀青春里》
@@ -501,6 +472,14 @@ DESCRIPTION:故事发生在夏亚引领吉翁公国军赢得一年战争
  伊藤也出现在她们面前。自此，少女与少年的相遇，梦
  想就此交织，宇宙世纪开启了新的未来......\n豆瓣主页：
  https://movie.douban.com/subject/37143373/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《东四十条》
+DTSTART:20250408
+DESCRIPTION:东四（杨凯航 饰）和十条（钱赓 饰）是租住在
+ 北京胡同里的两个外来年轻人。春天，他们在胡同里看
+ 到了一张重金悬赏的寻鸽启示，从此开始了他们的寻找
+ ……\n豆瓣主页：https://movie.douban.com/subject/36215199/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《荒蛮故事》
@@ -555,12 +534,32 @@ DESCRIPTION:中央情报局密码专家Charlie Heller（拉米·马雷克
  ovie.douban.com/subject/36251574/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《东四十条》
-DTSTART:20250415
-DESCRIPTION:东四（杨凯航 饰）和十条（钱赓 饰）是租住在
- 北京胡同里的两个外来年轻人。春天，他们在胡同里看
- 到了一张重金悬赏的寻鸽启示，从此开始了他们的寻找
- ……\n豆瓣主页：https://movie.douban.com/subject/36215199/
+SUMMARY:《黎明的一切》
+DTSTART:20250418
+DESCRIPTION:影片改编自濑尾麻衣子的同名小说，讲述拥有
+ 常人难以理解的疾病和烦恼的同事二人互相帮助度过各
+ 自创伤的故事。患有经前综合征的藤沢美纱，因为刚转
+ 职来的山添孝俊做的某件事而爆发怒火。陷入自我厌恶
+ 的美纱才知道孝俊其实患有恐慌症，逐渐两人为了获得
+ 其他同事们的理解，彼此间变成了既不是朋友也不是恋
+ 人的同志关系，即使自己的症状没有改善也会想着能否
+ 帮到对方。\n豆瓣主页：https://movie.douban.com/subject/36135198/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《孤独的美食家 剧场版》
+DTSTART:20250418
+DESCRIPTION:从事进口杂货销售的井之头五郎（松重丰 饰）
+ ，是个喜欢在工作之余到处品尝美馔的老饕。只要肚子
+ 一饿，就会秉持“吃饭皇帝大”的信念，抛下一切直奔
+ 周遭的餐厅食堂大快朵颐。他最爱享受用餐时不被人打
+ 扰，细细品尝料理的美好时光，更爱在内心自言自语品
+ 评美食滋味。这回，他接到前女友的女儿——千秋（杏 
+ 饰）的委托，前往法国拜访千秋的祖父一郎（盐见三省 
+ 饰），并要帮助一郎找出童年时曾喝过的汤头食谱。尽
+ 管线索相当稀少，五郎依旧踏上寻找“究极汤头”的旅
+ 程，足迹遍及法国、韩国、长崎和东京。不过在这趟旅
+ 程当中，他却意外卷入到一场更大的风暴当中。\n豆瓣主
+ 页：https://movie.douban.com/subject/36959346/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《火之鸟 伊甸之花》
@@ -613,6 +612,17 @@ DESCRIPTION:金融大师张托德（刘德华 饰）堪称业界最强“
  页：https://movie.douban.com/subject/35929258/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《大风杀》
+DTSTART:20250501
+DESCRIPTION:边陲小镇突遇44名荷枪实弹、要钱也要命的悍匪
+ 突袭，整个小镇陷入了断油断通信的恐慌死局。镇上只
+ 有三个民警一把枪，“夜猫子”夏然（白客 饰）与越狱
+ 的悍匪大哥北山（辛柏青 饰）展开周旋，以命换命！忙
+ 崖枪声四起，匪帮内部暗流涌动，一场沙暴之下的“大
+ 风杀”拉开序幕。\n豆瓣主页：https://movie.douban.com/subject/
+ 36512371/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《苍茫的天涯是我的爱》
 DTSTART:20250501
 DESCRIPTION:古板遇上鬼马，铁树遇上火花。阴差阳错，让
@@ -659,6 +669,18 @@ DESCRIPTION:渔村少女千筱乘船来到向往已久的大都会，因
  控时间的超能力是命运的馈赠吗？时轮轻轻转动，命运
  就此巨变……\n豆瓣主页：https://movie.douban.com/subject/364694
  77/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《戈壁行者》
+DTSTART:20250531
+DESCRIPTION:本片根据第七届千人走戈壁故事原型创作，以21
+ 28位徒友为“演员”，互不相识的 9 个陌生人因为各不相
+ 同的理由来到戈壁，在荒芜的大漠里，在极端的天气下
+ ，在汹涌的人潮中，共走 108 公里，见天地，见众生，见
+ 自我。每一帧画面都是真实生命故事的重现，每一次挑
+ 战都是一次唤醒与重生。影片献给每一位在戈壁走过、
+ 修行过、重生过的人。\n豆瓣主页：https://movie.douban.com/su
+ bject/35592008/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《星河入梦》
