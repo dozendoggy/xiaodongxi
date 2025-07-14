@@ -1,68 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《天宝》
-DTSTART:20250710
-DESCRIPTION:电影以红军长征翻越雪山，尤其是走过被称为
- 死亡之地的草地这一段最为艰难的历程为背景，以藏族
- 红军的代表天宝（藏名桑吉悦希）从一个小扎巴在朝圣
- 路上巧遇红军从此改变一生命运为切入点，讲述以桑吉
- 悦希为代表的藏民如何倾其所有帮助红军穿越茫茫草地
- ，影片将第一次全景式地描述红军过草地的整个艰难过
- 程……\n豆瓣主页：https://movie.douban.com/subject/35613194/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《超人》
-DTSTART:20250711
-DESCRIPTION:导演詹姆斯·古恩这次带来了一个前所未见的超
- 人故事：聚焦英雄的成长烦恼，展现超人在力量与责任
- 之间的艰难抉择。\n豆瓣主页：https://movie.douban.com/subject/
- 36188176/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《八戒之天蓬下界》
-DTSTART:20250711
-DESCRIPTION:作为首次以猪八戒为主角的国漫大片，也着重
- 将笔墨用于塑造人物的角色成长与变化。比起以往充满
- 反叛精神的传统国漫英雄，猪八戒向来是一个充满争议
- 与话题的角色形象。虽然贪吃懒惰小自私，但同样拥有
- 自己的底线与坚持，这也使他成为了一个有缺陷的暖男
- 。本次影片中还铺设了猪八戒与其初恋福陵山云栈洞“
- 卵二姐”的爱情线，让猪八戒有情有义的形象更加突出
- ，“美女与野兽”般的相遇虽然美丽而短暂，却更想让
- 人为他们真挚的爱情流泪。\n豆瓣主页：https://movie.douban.
- com/subject/35623555/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《聊斋：兰若寺》
-DTSTART:20250712
-DESCRIPTION:年青书生蒲松龄行路遇险，不得已夜宿兰若寺
- ，却被一蛤蟆一乌龟抓到了一口奇异的古井底，两只精
- 怪比赛讲故事并逼迫蒲松龄评判故事的好坏……最终，
- 被逼无奈的蒲松龄也讲出了自己的奇妙故事。本片为篇
- 章式结构，分为一条主线《井下故事》以及五个经典聊
- 斋故事改编的《崂山道士》《莲花公主》《聂小倩》《
- 画皮》《鲁公女》，共六个篇章。\n豆瓣主页：https://movi
- e.douban.com/subject/36289419/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《戏台》
-DTSTART:20250717
-DESCRIPTION:民国年间，战乱频发。五庆班班主侯喜亭（陈
- 佩斯 饰）带着一众名角儿来到德祥大戏院演出，谁成想
- 首演压轴登场的却是包子铺的伙计大嗓儿（黄渤 饰）？
- 全场观众都在翘首以盼名角儿金啸天（尹正 饰）亮相，
- 可刚攻城称王的洪大帅（姜武 饰）却偏偏指名让大嗓儿
- 唱这出《霸王别姬》！眼看戏班的招牌就要砸了，前台
- 戏迷退票砸场让戏院吴经理（杨皓宇 饰）苦不堪言，后
- 台洪大帅持枪闹事更是让人吓破了胆！台前台后都乱了
- 套，男旦凤小桐（余少群 饰）、教化处处长徐明礼（陈
- 大愚 饰）、怀有异心的六姨太（徐卓儿 饰）等人也被卷
- 入这场令人啼笑皆非的闹剧之中……台上霸王声声唱，
- 台下荒唐众生相，既要保住戏班饭碗，又要哄好台下观
- 众，大幕拉开之后，这场戏到底要怎么唱？影片改编自
- 同名话剧。\n豆瓣主页：https://movie.douban.com/subject/35483395/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《小王子》
 DTSTART:20250718
 DESCRIPTION:灰蒙蒙的都市丛林，美丽的小女孩眼神中没有
@@ -77,6 +14,26 @@ DESCRIPTION:灰蒙蒙的都市丛林，美丽的小女孩眼神中没有
  般瑰丽色彩的往事，不知不觉间心驰神往……本片根据
  安东尼·德·圣-埃克苏佩里的经典同名作品改编。\n豆瓣
  主页：https://movie.douban.com/subject/20645098/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《你行！你上！》
+DTSTART:20250718
+DESCRIPTION:这是一对父子的传奇历险，也是两个野心家的
+ 一拍即合。从沈阳到美国，从3岁到17岁，弹琴胜似取经
+ ，八十八键多过八十一难，父子心无杂念，只管埋头向
+ 前，两人赤手空拳让美国殿堂艺术精英们刮目相看。\n豆
+ 瓣主页：https://movie.douban.com/subject/36767956/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《长安的荔枝》
+DTSTART:20250718
+DESCRIPTION:影片改编自马伯庸同名小说，唐天宝年间，人
+ 到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠
+ 搜搜花了不少钱，到头来却还是个无名小吏。然而这一
+ 切随着一次召见似乎有了转机，某天有人安排给他一个
+ “荔枝使”的肥差，只要办成，那就是荣华富贵人生逆
+ 袭，但要是办不成……\n豆瓣主页：https://movie.douban.com/su
+ bject/36185502/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《花漾少女杀人事件》
@@ -111,9 +68,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《疯狂海盗团2》
 DTSTART:20250719
-DESCRIPTION:Set sail for a new pirate adventure – a battle that can only
-  be won with courage\, friendship and rat soup!\n豆瓣主页：https://mo
- vie.douban.com/subject/37199520/
+DESCRIPTION:挚友雷文和粉红公主在令人闻风丧胆的海盗、
+ 七海之王剑齿虎船长的麾下服役。狡猾的格罗尔伯爵夫
+ 人西比拉袭击了他们的船，偷走了珍贵的船首像并绑架
+ 了粉红公主—这一切都是她精心策划的，旨在诱捕剑齿
+ 虎船长，征服海盗的家园。\n豆瓣主页：https://movie.douban.
+ com/subject/37199520/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《淘金记》
@@ -136,26 +96,6 @@ DESCRIPTION:流浪汉查理（查理·卓别林 Charlie Chaplin 饰）随
  金...\n豆瓣主页：https://movie.douban.com/subject/1298817/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《你行！你上！》
-DTSTART:20250725
-DESCRIPTION:这是一对父子的传奇历险，也是两个野心家的
- 一拍即合。从沈阳到美国，从3岁到17岁，弹琴胜似取经
- ，八十八键多过八十一难，父子心无杂念，只管埋头向
- 前，两人赤手空拳让美国殿堂艺术精英们刮目相看。\n豆
- 瓣主页：https://movie.douban.com/subject/36767956/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《长安的荔枝》
-DTSTART:20250725
-DESCRIPTION:影片改编自马伯庸同名小说，唐天宝年间，人
- 到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠
- 搜搜花了不少钱，到头来却还是个无名小吏。然而这一
- 切随着一次召见似乎有了转机，某天有人安排给他一个
- “荔枝使”的肥差，只要办成，那就是荣华富贵人生逆
- 袭，但要是办不成……\n豆瓣主页：https://movie.douban.com/su
- bject/36185502/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《神奇4侠：初露锋芒》
 DTSTART:20250725
 DESCRIPTION:神奇先生（佩德罗·帕斯卡 饰）、隐形女（凡
@@ -167,6 +107,35 @@ DESCRIPTION:神奇先生（佩德罗·帕斯卡 饰）、隐形女（凡
  所未有的严峻挑战。更令人措手不及的是，这场关乎地
  球存亡的危机竟与他们有着意想不到的关联。\n豆瓣主页
  ：https://movie.douban.com/subject/34825559/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《戏台》
+DTSTART:20250725
+DESCRIPTION:民国年间，战乱频发。五庆班班主侯喜亭（陈
+ 佩斯 饰）带着一众名角儿来到德祥大戏院演出，谁成想
+ 首演压轴登场的却是包子铺的伙计大嗓儿（黄渤 饰）？
+ 全场观众都在翘首以盼名角儿金啸天（尹正 饰）亮相，
+ 可刚攻城称王的洪大帅（姜武 饰）却偏偏指名让大嗓儿
+ 唱这出《霸王别姬》！眼看戏班的招牌就要砸了，前台
+ 戏迷退票砸场让戏院吴经理（杨皓宇 饰）苦不堪言，后
+ 台洪大帅持枪闹事更是让人吓破了胆！台前台后都乱了
+ 套，男旦凤小桐（余少群 饰）、教化处处长徐明礼（陈
+ 大愚 饰）、怀有异心的六姨太（徐卓儿 饰）等人也被卷
+ 入这场令人啼笑皆非的闹剧之中……台上霸王声声唱，
+ 台下荒唐众生相，既要保住戏班饭碗，又要哄好台下观
+ 众，大幕拉开之后，这场戏到底要怎么唱？影片改编自
+ 同名话剧。\n豆瓣主页：https://movie.douban.com/subject/35483395/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《南京照相馆》
+DTSTART:20250725
+DESCRIPTION:影片故事取材于南京大屠杀期间日军真实罪证
+ 影像。一群生活在南京的百姓躲在吉祥照相馆中避难，
+ 为了尽可能的多活一日，他们被迫帮助日军摄影师冲洗
+ 底片，却意外冲印出了能证明日军屠城的罪证照片。日
+ 军企图掩盖大屠杀真相，他们则在日军眼皮底下谋划着
+ 如何将底片运送出去……\n豆瓣主页：https://movie.douban.com
+ /subject/36809864/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《奇幻西游：新世界》
@@ -206,17 +175,6 @@ DESCRIPTION:Big胆！无名小妖也想成佛长生不老。小猪妖决
  取经队。西行路上，小妖怪们将经历怎样的磨难？这场
  冒险究竟是痴心妄想还是梦想成真？\n豆瓣主页：https://m
  ovie.douban.com/subject/36438475/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《南京照相馆》
-DTSTART:20250802
-DESCRIPTION:影片故事取材于南京大屠杀期间日军真实罪证
- 影像。一群生活在南京的百姓躲在吉祥照相馆中避难，
- 为了尽可能的多活一日，他们被迫帮助日军摄影师冲洗
- 底片，却意外冲印出了能证明日军屠城的罪证照片。日
- 军企图掩盖大屠杀真相，他们则在日军眼皮底下谋划着
- 如何将底片运送出去……\n豆瓣主页：https://movie.douban.com
- /subject/36809864/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《东极岛》
@@ -261,6 +219,19 @@ DESCRIPTION:汤姆和杰瑞意外穿越时空开启一场欢乐的奇幻
  https://movie.douban.com/subject/37263706/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《山河为证》
+DTSTART:20250815
+DESCRIPTION:首部全景式展现中国人民14年抗战艰辛历程的纪
+ 录电影。它深刻铭记了80年前，中国人民经过长达14年艰
+ 苦卓绝的浴血奋战，打败了穷凶极恶的日本军国主义侵
+ 略者，取得了中国人民抗日战争的伟大胜利。作为纪念
+ 中国人民抗日战争暨世界反法西斯战争胜利80周年的重点
+ 作品，影片以线性叙事还原1931年至1945年间，从民族危机
+ 到团结抗争的历史脉络，深刻讲述一个国家和民族长达14
+ 年的救亡图存史。\n豆瓣主页：https://movie.douban.com/subject/
+ 37355513/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《坪石先生》
 DTSTART:20250815
 DESCRIPTION:1944年冬，日军南北夹击，粤北坪石镇已成危巢
@@ -290,19 +261,6 @@ DESCRIPTION:九一八事变爆发后，日本帝国主义侵略者染指
  ouban.com/subject/37296895/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《山河为证》
-DTSTART:20250815
-DESCRIPTION:首部全景式展现中国人民14年抗战艰辛历程的纪
- 录电影。它深刻铭记了80年前，中国人民经过长达14年艰
- 苦卓绝的浴血奋战，打败了穷凶极恶的日本军国主义侵
- 略者，取得了中国人民抗日战争的伟大胜利。作为纪念
- 中国人民抗日战争暨世界反法西斯战争胜利80周年的重点
- 作品，影片以线性叙事还原1931年至1945年间，从民族危机
- 到团结抗争的历史脉络，深刻讲述一个国家和民族长达14
- 年的救亡图存史。\n豆瓣主页：https://movie.douban.com/subject/
- 37355513/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《坏蛋联盟2》
 DTSTART:20250816
 DESCRIPTION:续集中几位正在努力适应作为好人的新生活，
@@ -322,6 +280,27 @@ DESCRIPTION:一伙天才盗匪劫走数亿资产，却凭借超强反侦
  生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也
  设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷
  幕......\n豆瓣主页：https://movie.douban.com/subject/36600459/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《浪浪人生》
+DTSTART:20250822
+DESCRIPTION:小镇少年心目中的“江湖大哥”黄荣发（黄渤 
+ 饰）重回故乡，与儿子黑狗达（范丞丞 饰）以及全家人
+ 踏浪前行，与生活交手！他们能否在风雨中乘风破局，
+ 再赢一次？\n豆瓣主页：https://movie.douban.com/subject/36207392/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《赎梦》
+DTSTART:20250823
+DESCRIPTION:行为怪异的夜班司机蔡辛强（张家辉 饰）因不
+ 堪面对谋财害友的过去，整日精神恍惚……经历一场离
+ 奇车祸后，窥私成瘾的心理诡医文思豪（刘俊谦 饰）意
+ 外成了蔡辛强的心理医生。随着治疗的深入，文思豪也
+ 身陷诡谲臆想无法逃离，恶鬼倾巢、蝇虫环绕，这一切
+ 到底是背友求财的沉痛代价？还是已掩藏不住的血腥往
+ 事重现？当灵异风俗渗入，当噩梦侵蚀现实，当身边人
+ 成为索命人，务必小心……\n豆瓣主页：https://movie.douban.
+ com/subject/35480795/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无名指》
@@ -407,69 +386,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《天宝》
-DTSTART:20250710
-DESCRIPTION:电影以红军长征翻越雪山，尤其是走过被称为
- 死亡之地的草地这一段最为艰难的历程为背景，以藏族
- 红军的代表天宝（藏名桑吉悦希）从一个小扎巴在朝圣
- 路上巧遇红军从此改变一生命运为切入点，讲述以桑吉
- 悦希为代表的藏民如何倾其所有帮助红军穿越茫茫草地
- ，影片将第一次全景式地描述红军过草地的整个艰难过
- 程……\n豆瓣主页：https://movie.douban.com/subject/35613194/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《超人》
-DTSTART:20250711
-DESCRIPTION:导演詹姆斯·古恩这次带来了一个前所未见的超
- 人故事：聚焦英雄的成长烦恼，展现超人在力量与责任
- 之间的艰难抉择。\n豆瓣主页：https://movie.douban.com/subject/
- 36188176/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《八戒之天蓬下界》
-DTSTART:20250711
-DESCRIPTION:作为首次以猪八戒为主角的国漫大片，也着重
- 将笔墨用于塑造人物的角色成长与变化。比起以往充满
- 反叛精神的传统国漫英雄，猪八戒向来是一个充满争议
- 与话题的角色形象。虽然贪吃懒惰小自私，但同样拥有
- 自己的底线与坚持，这也使他成为了一个有缺陷的暖男
- 。本次影片中还铺设了猪八戒与其初恋福陵山云栈洞“
- 卵二姐”的爱情线，让猪八戒有情有义的形象更加突出
- ，“美女与野兽”般的相遇虽然美丽而短暂，却更想让
- 人为他们真挚的爱情流泪。\n豆瓣主页：https://movie.douban.
- com/subject/35623555/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《聊斋：兰若寺》
-DTSTART:20250712
-DESCRIPTION:年青书生蒲松龄行路遇险，不得已夜宿兰若寺
- ，却被一蛤蟆一乌龟抓到了一口奇异的古井底，两只精
- 怪比赛讲故事并逼迫蒲松龄评判故事的好坏……最终，
- 被逼无奈的蒲松龄也讲出了自己的奇妙故事。本片为篇
- 章式结构，分为一条主线《井下故事》以及五个经典聊
- 斋故事改编的《崂山道士》《莲花公主》《聂小倩》《
- 画皮》《鲁公女》，共六个篇章。\n豆瓣主页：https://movi
- e.douban.com/subject/36289419/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《戏台》
-DTSTART:20250717
-DESCRIPTION:民国年间，战乱频发。五庆班班主侯喜亭（陈
- 佩斯 饰）带着一众名角儿来到德祥大戏院演出，谁成想
- 首演压轴登场的却是包子铺的伙计大嗓儿（黄渤 饰）？
- 全场观众都在翘首以盼名角儿金啸天（尹正 饰）亮相，
- 可刚攻城称王的洪大帅（姜武 饰）却偏偏指名让大嗓儿
- 唱这出《霸王别姬》！眼看戏班的招牌就要砸了，前台
- 戏迷退票砸场让戏院吴经理（杨皓宇 饰）苦不堪言，后
- 台洪大帅持枪闹事更是让人吓破了胆！台前台后都乱了
- 套，男旦凤小桐（余少群 饰）、教化处处长徐明礼（陈
- 大愚 饰）、怀有异心的六姨太（徐卓儿 饰）等人也被卷
- 入这场令人啼笑皆非的闹剧之中……台上霸王声声唱，
- 台下荒唐众生相，既要保住戏班饭碗，又要哄好台下观
- 众，大幕拉开之后，这场戏到底要怎么唱？影片改编自
- 同名话剧。\n豆瓣主页：https://movie.douban.com/subject/35483395/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《小王子》
 DTSTART:20250718
 DESCRIPTION:灰蒙蒙的都市丛林，美丽的小女孩眼神中没有
@@ -484,6 +400,26 @@ DESCRIPTION:灰蒙蒙的都市丛林，美丽的小女孩眼神中没有
  般瑰丽色彩的往事，不知不觉间心驰神往……本片根据
  安东尼·德·圣-埃克苏佩里的经典同名作品改编。\n豆瓣
  主页：https://movie.douban.com/subject/20645098/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《你行！你上！》
+DTSTART:20250718
+DESCRIPTION:这是一对父子的传奇历险，也是两个野心家的
+ 一拍即合。从沈阳到美国，从3岁到17岁，弹琴胜似取经
+ ，八十八键多过八十一难，父子心无杂念，只管埋头向
+ 前，两人赤手空拳让美国殿堂艺术精英们刮目相看。\n豆
+ 瓣主页：https://movie.douban.com/subject/36767956/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《长安的荔枝》
+DTSTART:20250718
+DESCRIPTION:影片改编自马伯庸同名小说，唐天宝年间，人
+ 到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠
+ 搜搜花了不少钱，到头来却还是个无名小吏。然而这一
+ 切随着一次召见似乎有了转机，某天有人安排给他一个
+ “荔枝使”的肥差，只要办成，那就是荣华富贵人生逆
+ 袭，但要是办不成……\n豆瓣主页：https://movie.douban.com/su
+ bject/36185502/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《花漾少女杀人事件》
@@ -518,9 +454,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《疯狂海盗团2》
 DTSTART:20250719
-DESCRIPTION:Set sail for a new pirate adventure – a battle that can only
-  be won with courage\, friendship and rat soup!\n豆瓣主页：https://mo
- vie.douban.com/subject/37199520/
+DESCRIPTION:挚友雷文和粉红公主在令人闻风丧胆的海盗、
+ 七海之王剑齿虎船长的麾下服役。狡猾的格罗尔伯爵夫
+ 人西比拉袭击了他们的船，偷走了珍贵的船首像并绑架
+ 了粉红公主—这一切都是她精心策划的，旨在诱捕剑齿
+ 虎船长，征服海盗的家园。\n豆瓣主页：https://movie.douban.
+ com/subject/37199520/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《淘金记》
@@ -543,26 +482,6 @@ DESCRIPTION:流浪汉查理（查理·卓别林 Charlie Chaplin 饰）随
  金...\n豆瓣主页：https://movie.douban.com/subject/1298817/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《你行！你上！》
-DTSTART:20250725
-DESCRIPTION:这是一对父子的传奇历险，也是两个野心家的
- 一拍即合。从沈阳到美国，从3岁到17岁，弹琴胜似取经
- ，八十八键多过八十一难，父子心无杂念，只管埋头向
- 前，两人赤手空拳让美国殿堂艺术精英们刮目相看。\n豆
- 瓣主页：https://movie.douban.com/subject/36767956/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《长安的荔枝》
-DTSTART:20250725
-DESCRIPTION:影片改编自马伯庸同名小说，唐天宝年间，人
- 到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠
- 搜搜花了不少钱，到头来却还是个无名小吏。然而这一
- 切随着一次召见似乎有了转机，某天有人安排给他一个
- “荔枝使”的肥差，只要办成，那就是荣华富贵人生逆
- 袭，但要是办不成……\n豆瓣主页：https://movie.douban.com/su
- bject/36185502/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《神奇4侠：初露锋芒》
 DTSTART:20250725
 DESCRIPTION:神奇先生（佩德罗·帕斯卡 饰）、隐形女（凡
@@ -574,6 +493,35 @@ DESCRIPTION:神奇先生（佩德罗·帕斯卡 饰）、隐形女（凡
  所未有的严峻挑战。更令人措手不及的是，这场关乎地
  球存亡的危机竟与他们有着意想不到的关联。\n豆瓣主页
  ：https://movie.douban.com/subject/34825559/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《戏台》
+DTSTART:20250725
+DESCRIPTION:民国年间，战乱频发。五庆班班主侯喜亭（陈
+ 佩斯 饰）带着一众名角儿来到德祥大戏院演出，谁成想
+ 首演压轴登场的却是包子铺的伙计大嗓儿（黄渤 饰）？
+ 全场观众都在翘首以盼名角儿金啸天（尹正 饰）亮相，
+ 可刚攻城称王的洪大帅（姜武 饰）却偏偏指名让大嗓儿
+ 唱这出《霸王别姬》！眼看戏班的招牌就要砸了，前台
+ 戏迷退票砸场让戏院吴经理（杨皓宇 饰）苦不堪言，后
+ 台洪大帅持枪闹事更是让人吓破了胆！台前台后都乱了
+ 套，男旦凤小桐（余少群 饰）、教化处处长徐明礼（陈
+ 大愚 饰）、怀有异心的六姨太（徐卓儿 饰）等人也被卷
+ 入这场令人啼笑皆非的闹剧之中……台上霸王声声唱，
+ 台下荒唐众生相，既要保住戏班饭碗，又要哄好台下观
+ 众，大幕拉开之后，这场戏到底要怎么唱？影片改编自
+ 同名话剧。\n豆瓣主页：https://movie.douban.com/subject/35483395/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《南京照相馆》
+DTSTART:20250725
+DESCRIPTION:影片故事取材于南京大屠杀期间日军真实罪证
+ 影像。一群生活在南京的百姓躲在吉祥照相馆中避难，
+ 为了尽可能的多活一日，他们被迫帮助日军摄影师冲洗
+ 底片，却意外冲印出了能证明日军屠城的罪证照片。日
+ 军企图掩盖大屠杀真相，他们则在日军眼皮底下谋划着
+ 如何将底片运送出去……\n豆瓣主页：https://movie.douban.com
+ /subject/36809864/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《奇幻西游：新世界》
@@ -613,17 +561,6 @@ DESCRIPTION:Big胆！无名小妖也想成佛长生不老。小猪妖决
  取经队。西行路上，小妖怪们将经历怎样的磨难？这场
  冒险究竟是痴心妄想还是梦想成真？\n豆瓣主页：https://m
  ovie.douban.com/subject/36438475/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《南京照相馆》
-DTSTART:20250802
-DESCRIPTION:影片故事取材于南京大屠杀期间日军真实罪证
- 影像。一群生活在南京的百姓躲在吉祥照相馆中避难，
- 为了尽可能的多活一日，他们被迫帮助日军摄影师冲洗
- 底片，却意外冲印出了能证明日军屠城的罪证照片。日
- 军企图掩盖大屠杀真相，他们则在日军眼皮底下谋划着
- 如何将底片运送出去……\n豆瓣主页：https://movie.douban.com
- /subject/36809864/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《东极岛》
@@ -668,6 +605,19 @@ DESCRIPTION:汤姆和杰瑞意外穿越时空开启一场欢乐的奇幻
  https://movie.douban.com/subject/37263706/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《山河为证》
+DTSTART:20250815
+DESCRIPTION:首部全景式展现中国人民14年抗战艰辛历程的纪
+ 录电影。它深刻铭记了80年前，中国人民经过长达14年艰
+ 苦卓绝的浴血奋战，打败了穷凶极恶的日本军国主义侵
+ 略者，取得了中国人民抗日战争的伟大胜利。作为纪念
+ 中国人民抗日战争暨世界反法西斯战争胜利80周年的重点
+ 作品，影片以线性叙事还原1931年至1945年间，从民族危机
+ 到团结抗争的历史脉络，深刻讲述一个国家和民族长达14
+ 年的救亡图存史。\n豆瓣主页：https://movie.douban.com/subject/
+ 37355513/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《坪石先生》
 DTSTART:20250815
 DESCRIPTION:1944年冬，日军南北夹击，粤北坪石镇已成危巢
@@ -697,19 +647,6 @@ DESCRIPTION:九一八事变爆发后，日本帝国主义侵略者染指
  ouban.com/subject/37296895/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《山河为证》
-DTSTART:20250815
-DESCRIPTION:首部全景式展现中国人民14年抗战艰辛历程的纪
- 录电影。它深刻铭记了80年前，中国人民经过长达14年艰
- 苦卓绝的浴血奋战，打败了穷凶极恶的日本军国主义侵
- 略者，取得了中国人民抗日战争的伟大胜利。作为纪念
- 中国人民抗日战争暨世界反法西斯战争胜利80周年的重点
- 作品，影片以线性叙事还原1931年至1945年间，从民族危机
- 到团结抗争的历史脉络，深刻讲述一个国家和民族长达14
- 年的救亡图存史。\n豆瓣主页：https://movie.douban.com/subject/
- 37355513/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《坏蛋联盟2》
 DTSTART:20250816
 DESCRIPTION:续集中几位正在努力适应作为好人的新生活，
@@ -729,6 +666,27 @@ DESCRIPTION:一伙天才盗匪劫走数亿资产，却凭借超强反侦
  生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也
  设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷
  幕......\n豆瓣主页：https://movie.douban.com/subject/36600459/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《浪浪人生》
+DTSTART:20250822
+DESCRIPTION:小镇少年心目中的“江湖大哥”黄荣发（黄渤 
+ 饰）重回故乡，与儿子黑狗达（范丞丞 饰）以及全家人
+ 踏浪前行，与生活交手！他们能否在风雨中乘风破局，
+ 再赢一次？\n豆瓣主页：https://movie.douban.com/subject/36207392/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《赎梦》
+DTSTART:20250823
+DESCRIPTION:行为怪异的夜班司机蔡辛强（张家辉 饰）因不
+ 堪面对谋财害友的过去，整日精神恍惚……经历一场离
+ 奇车祸后，窥私成瘾的心理诡医文思豪（刘俊谦 饰）意
+ 外成了蔡辛强的心理医生。随着治疗的深入，文思豪也
+ 身陷诡谲臆想无法逃离，恶鬼倾巢、蝇虫环绕，这一切
+ 到底是背友求财的沉痛代价？还是已掩藏不住的血腥往
+ 事重现？当灵异风俗渗入，当噩梦侵蚀现实，当身边人
+ 成为索命人，务必小心……\n豆瓣主页：https://movie.douban.
+ com/subject/35480795/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无名指》
