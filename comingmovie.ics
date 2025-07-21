@@ -1,81 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《小王子》
-DTSTART:20250718
-DESCRIPTION:灰蒙蒙的都市丛林，美丽的小女孩眼神中没有
- 渴望和雀跃，她跟随妈妈穿梭钢筋水泥的光影之间，按
- 照社会既定法则亦步亦趋。她的未来似乎早被注定和规
- 划，即使生日礼物也找不到些许惊奇。为了进入好学校
- ，母女俩搬到郊外一幢独栋房子里，旁边则是一间与周
- 遭格格不入的破房子。某天，一个飞机螺旋桨突然破墙
- 而入，从而建立起女孩和隔壁那个怪爷爷的友谊。老人
- 自称曾是一名飞行员，年轻时他迫降沙漠，在那里认识
- 了有着纯真心灵的小王子。女孩听老人讲述着有着童话
- 般瑰丽色彩的往事，不知不觉间心驰神往……本片根据
- 安东尼·德·圣-埃克苏佩里的经典同名作品改编。\n豆瓣
- 主页：https://movie.douban.com/subject/20645098/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《你行！你上！》
-DTSTART:20250718
-DESCRIPTION:这是一对父子的传奇历险，也是两个野心家的
- 一拍即合。从沈阳到美国，从3岁到17岁，弹琴胜似取经
- ，八十八键多过八十一难，父子心无杂念，只管埋头向
- 前，两人赤手空拳让美国殿堂艺术精英们刮目相看。\n豆
- 瓣主页：https://movie.douban.com/subject/36767956/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《长安的荔枝》
-DTSTART:20250718
-DESCRIPTION:影片改编自马伯庸同名小说，唐天宝年间，人
- 到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠
- 搜搜花了不少钱，到头来却还是个无名小吏。然而这一
- 切随着一次召见似乎有了转机，某天有人安排给他一个
- “荔枝使”的肥差，只要办成，那就是荣华富贵人生逆
- 袭，但要是办不成……\n豆瓣主页：https://movie.douban.com/su
- bject/36185502/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《花漾少女杀人事件》
-DTSTART:20250718
-DESCRIPTION:单亲家庭下长大的江宁（张子枫 饰）正为职业
- 生涯的最后机会拼命训练，不料天才对手钟灵（丁湘源 
- 饰）的横空出世，夺走了母亲/教练王霜（马伊琍 饰）的
- 青睐，三人的关系开始变得扑朔迷离，一场“杀人”的
- 致命意外正悄然上演……\n豆瓣主页：https://movie.douban.com
- /subject/35183324/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《罗小黑战记2》
-DTSTART:20250718
-DESCRIPTION:小黑跟随师父在小镇上过着安宁日子，分会馆
- 遇袭，打破了妖精世界维系多年的和平，来自妖灵会馆
- 的“全新任务”也让两人陷入分离危机，更让师父无限
- 的处境发生翻天覆地的变化。面对环环相扣的谜团，小
- 黑与师姐鹿野共同开启了寻找真相的新冒险。这一次小
- 黑能否经受住考验，顺利保护师父化险为夷？\n豆瓣主页
- ：https://movie.douban.com/subject/36448279/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《魔法蓝精灵》
-DTSTART:20250718
-DESCRIPTION:蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸
- 爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了
- 平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现
- 实世界，用魔法和智慧开启冒险。\n豆瓣主页：https://movi
- e.douban.com/subject/35929770/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《疯狂海盗团2》
-DTSTART:20250719
-DESCRIPTION:挚友雷文和粉红公主在令人闻风丧胆的海盗、
- 七海之王剑齿虎船长的麾下服役。狡猾的格罗尔伯爵夫
- 人西比拉袭击了他们的船，偷走了珍贵的船首像并绑架
- 了粉红公主—这一切都是她精心策划的，旨在诱捕剑齿
- 虎船长，征服海盗的家园。\n豆瓣主页：https://movie.douban.
- com/subject/37199520/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《淘金记》
 DTSTART:20250725
 DESCRIPTION:流浪汉查理（查理·卓别林 Charlie Chaplin 饰）随
@@ -412,6 +336,17 @@ DESCRIPTION:曾经陪伴大家成长的GG Bond已经淡出观众视线，
  调动了浑身五花肉，却总是阴差阳错，bug频出，GG Bond最
  终能否逆袭成功呢？\n豆瓣主页：https://movie.douban.com/subje
  ct/37282414/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《三滴血》
+DTSTART:20251115
+DESCRIPTION:三，是家的最小单位。血脉，是维系家庭的纽
+ 带。然而，三个素不相识的人却被命运交织在一起！善
+ 恶难辨的男人“驯鹿”，身怀六甲的女人李棋，哑巴男
+ 孩冰棍，三人假扮成一家人，游走于猎物与猎人之间，
+ 暗流已至，生死一瞬，一个关于家族式人口贩卖的黑暗
+ 链条逐渐浮出水面！\n豆瓣主页：https://movie.douban.com/subje
+ ct/30286126/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无名之辈：意义非凡》
@@ -435,82 +370,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《小王子》
-DTSTART:20250718
-DESCRIPTION:灰蒙蒙的都市丛林，美丽的小女孩眼神中没有
- 渴望和雀跃，她跟随妈妈穿梭钢筋水泥的光影之间，按
- 照社会既定法则亦步亦趋。她的未来似乎早被注定和规
- 划，即使生日礼物也找不到些许惊奇。为了进入好学校
- ，母女俩搬到郊外一幢独栋房子里，旁边则是一间与周
- 遭格格不入的破房子。某天，一个飞机螺旋桨突然破墙
- 而入，从而建立起女孩和隔壁那个怪爷爷的友谊。老人
- 自称曾是一名飞行员，年轻时他迫降沙漠，在那里认识
- 了有着纯真心灵的小王子。女孩听老人讲述着有着童话
- 般瑰丽色彩的往事，不知不觉间心驰神往……本片根据
- 安东尼·德·圣-埃克苏佩里的经典同名作品改编。\n豆瓣
- 主页：https://movie.douban.com/subject/20645098/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《你行！你上！》
-DTSTART:20250718
-DESCRIPTION:这是一对父子的传奇历险，也是两个野心家的
- 一拍即合。从沈阳到美国，从3岁到17岁，弹琴胜似取经
- ，八十八键多过八十一难，父子心无杂念，只管埋头向
- 前，两人赤手空拳让美国殿堂艺术精英们刮目相看。\n豆
- 瓣主页：https://movie.douban.com/subject/36767956/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《长安的荔枝》
-DTSTART:20250718
-DESCRIPTION:影片改编自马伯庸同名小说，唐天宝年间，人
- 到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠
- 搜搜花了不少钱，到头来却还是个无名小吏。然而这一
- 切随着一次召见似乎有了转机，某天有人安排给他一个
- “荔枝使”的肥差，只要办成，那就是荣华富贵人生逆
- 袭，但要是办不成……\n豆瓣主页：https://movie.douban.com/su
- bject/36185502/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《花漾少女杀人事件》
-DTSTART:20250718
-DESCRIPTION:单亲家庭下长大的江宁（张子枫 饰）正为职业
- 生涯的最后机会拼命训练，不料天才对手钟灵（丁湘源 
- 饰）的横空出世，夺走了母亲/教练王霜（马伊琍 饰）的
- 青睐，三人的关系开始变得扑朔迷离，一场“杀人”的
- 致命意外正悄然上演……\n豆瓣主页：https://movie.douban.com
- /subject/35183324/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《罗小黑战记2》
-DTSTART:20250718
-DESCRIPTION:小黑跟随师父在小镇上过着安宁日子，分会馆
- 遇袭，打破了妖精世界维系多年的和平，来自妖灵会馆
- 的“全新任务”也让两人陷入分离危机，更让师父无限
- 的处境发生翻天覆地的变化。面对环环相扣的谜团，小
- 黑与师姐鹿野共同开启了寻找真相的新冒险。这一次小
- 黑能否经受住考验，顺利保护师父化险为夷？\n豆瓣主页
- ：https://movie.douban.com/subject/36448279/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《魔法蓝精灵》
-DTSTART:20250718
-DESCRIPTION:蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸
- 爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了
- 平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现
- 实世界，用魔法和智慧开启冒险。\n豆瓣主页：https://movi
- e.douban.com/subject/35929770/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《疯狂海盗团2》
-DTSTART:20250719
-DESCRIPTION:挚友雷文和粉红公主在令人闻风丧胆的海盗、
- 七海之王剑齿虎船长的麾下服役。狡猾的格罗尔伯爵夫
- 人西比拉袭击了他们的船，偷走了珍贵的船首像并绑架
- 了粉红公主—这一切都是她精心策划的，旨在诱捕剑齿
- 虎船长，征服海盗的家园。\n豆瓣主页：https://movie.douban.
- com/subject/37199520/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《淘金记》
 DTSTART:20250725
 DESCRIPTION:流浪汉查理（查理·卓别林 Charlie Chaplin 饰）随
@@ -847,6 +706,17 @@ DESCRIPTION:曾经陪伴大家成长的GG Bond已经淡出观众视线，
  调动了浑身五花肉，却总是阴差阳错，bug频出，GG Bond最
  终能否逆袭成功呢？\n豆瓣主页：https://movie.douban.com/subje
  ct/37282414/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《三滴血》
+DTSTART:20251115
+DESCRIPTION:三，是家的最小单位。血脉，是维系家庭的纽
+ 带。然而，三个素不相识的人却被命运交织在一起！善
+ 恶难辨的男人“驯鹿”，身怀六甲的女人李棋，哑巴男
+ 孩冰棍，三人假扮成一家人，游走于猎物与猎人之间，
+ 暗流已至，生死一瞬，一个关于家族式人口贩卖的黑暗
+ 链条逐渐浮出水面！\n豆瓣主页：https://movie.douban.com/subje
+ ct/30286126/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无名之辈：意义非凡》
