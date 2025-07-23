@@ -118,6 +118,15 @@ DESCRIPTION:没有通天本领也能踏上取经路？小猪妖决定离
  e.douban.com/subject/36438475/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《麦克白》
+DTSTART:20250802
+DESCRIPTION:“万福麦克白，未来的国王！”一句预言叫响
+ 了一场惊心动魄的权力角逐，影片仿佛人性显微镜，精
+ 确真实地呈现出人的欲望及欲望决斗之下鲜血淋漓的悲
+ 剧。该片改编自莎士比亚四大悲剧之一《麦克白》。\n豆
+ 瓣主页：https://movie.douban.com/subject/37070636/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《玛丽和麦克斯》
 DTSTART:20250808
 DESCRIPTION:1976年，8岁的玛丽·黛西·丁格尔（贝丝妮·惠特
@@ -255,14 +264,6 @@ DESCRIPTION:平平无奇的打工狐九月与神仙同伴敖烈、哪吒
  https://movie.douban.com/subject/37179769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《浪浪人生》
-DTSTART:20250822
-DESCRIPTION:小镇少年心目中的“江湖大哥”黄荣发（黄渤 
- 饰）重回故乡，与儿子黑狗达（范丞丞 饰）以及全家人
- 踏浪前行，与生活交手！他们能否在风雨中乘风破局，
- 再赢一次？\n豆瓣主页：https://movie.douban.com/subject/36207392/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《赎梦》
 DTSTART:20250823
 DESCRIPTION:行为怪异的夜班司机蔡辛强（张家辉 饰）因不
@@ -357,6 +358,20 @@ DESCRIPTION:Made in Yiwu，go global.（义乌制造，走向世界。）
  次讨债无果的轻生，让债主身陷精心策划的绑架漩涡。
  他们的故事有着怎样的联系，各自又将如何化险为夷？\n
  豆瓣主页：https://movie.douban.com/subject/36311677/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《浪浪人生》
+DTSTART:20251231
+DESCRIPTION:曾经叱咤小镇的“大哥”黄荣发（黄渤 饰）如
+ 今嘴硬腿软，开启人生困难模式，但他和家人都没有被
+ 命运的风浪裹挟。儿子黑狗达（范丞丞 饰）看似是黄家
+ 唯一“淡人”，暗地却密谋如何发家又“治父”；妻子
+ 陈梨珍（殷桃 饰）样样全能横扫困难，是小镇人尽皆知
+ 不太好惹的“妈系超人”；胆大手“黑”的女儿黄娇娇
+ （李嘉琦 饰）和“神”通广大的阿太（刘雪华 饰）也各
+ 出奇招笑料百出。逆境当前，一家唯有兴“疯”作浪跟
+ 生活贴脸硬刚，没准真能让他们绝地翻盘？\n豆瓣主页：
+ https://movie.douban.com/subject/36207392/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
@@ -488,6 +503,15 @@ DESCRIPTION:没有通天本领也能踏上取经路？小猪妖决定离
  e.douban.com/subject/36438475/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《麦克白》
+DTSTART:20250802
+DESCRIPTION:“万福麦克白，未来的国王！”一句预言叫响
+ 了一场惊心动魄的权力角逐，影片仿佛人性显微镜，精
+ 确真实地呈现出人的欲望及欲望决斗之下鲜血淋漓的悲
+ 剧。该片改编自莎士比亚四大悲剧之一《麦克白》。\n豆
+ 瓣主页：https://movie.douban.com/subject/37070636/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《玛丽和麦克斯》
 DTSTART:20250808
 DESCRIPTION:1976年，8岁的玛丽·黛西·丁格尔（贝丝妮·惠特
@@ -625,14 +649,6 @@ DESCRIPTION:平平无奇的打工狐九月与神仙同伴敖烈、哪吒
  https://movie.douban.com/subject/37179769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《浪浪人生》
-DTSTART:20250822
-DESCRIPTION:小镇少年心目中的“江湖大哥”黄荣发（黄渤 
- 饰）重回故乡，与儿子黑狗达（范丞丞 饰）以及全家人
- 踏浪前行，与生活交手！他们能否在风雨中乘风破局，
- 再赢一次？\n豆瓣主页：https://movie.douban.com/subject/36207392/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《赎梦》
 DTSTART:20250823
 DESCRIPTION:行为怪异的夜班司机蔡辛强（张家辉 饰）因不
@@ -727,6 +743,20 @@ DESCRIPTION:Made in Yiwu，go global.（义乌制造，走向世界。）
  次讨债无果的轻生，让债主身陷精心策划的绑架漩涡。
  他们的故事有着怎样的联系，各自又将如何化险为夷？\n
  豆瓣主页：https://movie.douban.com/subject/36311677/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《浪浪人生》
+DTSTART:20251231
+DESCRIPTION:曾经叱咤小镇的“大哥”黄荣发（黄渤 饰）如
+ 今嘴硬腿软，开启人生困难模式，但他和家人都没有被
+ 命运的风浪裹挟。儿子黑狗达（范丞丞 饰）看似是黄家
+ 唯一“淡人”，暗地却密谋如何发家又“治父”；妻子
+ 陈梨珍（殷桃 饰）样样全能横扫困难，是小镇人尽皆知
+ 不太好惹的“妈系超人”；胆大手“黑”的女儿黄娇娇
+ （李嘉琦 饰）和“神”通广大的阿太（刘雪华 饰）也各
+ 出奇招笑料百出。逆境当前，一家唯有兴“疯”作浪跟
+ 生活贴脸硬刚，没准真能让他们绝地翻盘？\n豆瓣主页：
+ https://movie.douban.com/subject/36207392/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
