@@ -1,12 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《731》
-DTSTART:20250731
-DESCRIPTION:影片以侵华日军731部队在中国东北进行的细菌
- 实验为背景，通过一个小人物的曲折命运，揭露731部队
- 的罪行。\n豆瓣主页：https://movie.douban.com/subject/27605659/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《无名》
 DTSTART:20250802
 DESCRIPTION:20世纪40年代，上海正处于孤岛时期。各方势力
@@ -205,6 +198,15 @@ DESCRIPTION:清朝末年，从不败诉的潮汕第一鬼才状师夏雨
  官。最后，父女同心，团结潮汕百姓，展开了“胶己人
  ”与外敌的殊死对决……\n豆瓣主页：https://movie.douban.com
  /subject/36135242/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《再见，坏蛋》
+DTSTART:20250822
+DESCRIPTION:影片讲述住在“幸福里”的小市民大武（陈明
+ 昊 饰），生活过得一塌糊涂，为了帮人追债认识了小男
+ 孩豆豆（陈宇喆 饰），他的世界因此似乎有了改变...嘈
+ 杂市井的“幸福里”也因此慢慢变成了一个“新世界”
+ 。\n豆瓣主页：https://movie.douban.com/subject/36590987/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《赎梦》
@@ -348,13 +350,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《731》
-DTSTART:20250731
-DESCRIPTION:影片以侵华日军731部队在中国东北进行的细菌
- 实验为背景，通过一个小人物的曲折命运，揭露731部队
- 的罪行。\n豆瓣主页：https://movie.douban.com/subject/27605659/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《无名》
 DTSTART:20250802
 DESCRIPTION:20世纪40年代，上海正处于孤岛时期。各方势力
@@ -553,6 +548,15 @@ DESCRIPTION:清朝末年，从不败诉的潮汕第一鬼才状师夏雨
  官。最后，父女同心，团结潮汕百姓，展开了“胶己人
  ”与外敌的殊死对决……\n豆瓣主页：https://movie.douban.com
  /subject/36135242/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《再见，坏蛋》
+DTSTART:20250822
+DESCRIPTION:影片讲述住在“幸福里”的小市民大武（陈明
+ 昊 饰），生活过得一塌糊涂，为了帮人追债认识了小男
+ 孩豆豆（陈宇喆 饰），他的世界因此似乎有了改变...嘈
+ 杂市井的“幸福里”也因此慢慢变成了一个“新世界”
+ 。\n豆瓣主页：https://movie.douban.com/subject/36590987/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《赎梦》
