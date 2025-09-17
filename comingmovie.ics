@@ -74,18 +74,6 @@ DESCRIPTION:影片多方位还原了作曲大师汉斯·季默迪拜音乐
  ouban.com/subject/37234302/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《旁观者》
-DTSTART:20250920
-DESCRIPTION:该片讲述了离家16年的陈家辉（陈坤 饰）在得
- 知父亲陈为民（王劲松 饰）病危后重返家乡，但父亲未
- 留下只言片语便匆匆离世。当拿到父亲的骨灰后，陈家
- 辉与哥哥陈家兴（王砚辉 饰）、姐姐陈家媛（刘敏涛 饰
- ）却发现父亲的身上似乎藏着许多秘密。随后陈家辉通
- 过探寻父亲的生活轨迹，逐渐揭开了这个关于父亲的秘
- 密，而秘密的背后正是家辉与父亲一生也没有解开的结
- ……\n豆瓣主页：https://movie.douban.com/subject/35614162/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《志愿军：浴血和平》
 DTSTART:20250930
 DESCRIPTION:电影《志愿军》三部曲系列终章《志愿军：浴
@@ -220,6 +208,16 @@ DESCRIPTION:故事发生在泰国一所高中，描述转学生佩伊与
  让自己上好大学的机率？佩伊发起这次热血行动背后的
  秘密即将揭晓。\n豆瓣主页：https://movie.douban.com/subject/365
  14438/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《绮梦之旅》
+DTSTART:20251018
+DESCRIPTION:机缘巧合之下，莎拉（玛格特·罗比 饰）和大
+ 卫（科林·法瑞尔 饰）两个陌生人穿过时空之门，踏上
+ 了一场大胆、绚烂，充满未知的冒险之旅。他们回到过
+ 去，重历了各自生命中至关重要的时刻，也见证了对方
+ 命运的转折点，而他们之间的关系，又是否会因此改写
+ ？\n豆瓣主页：https://movie.douban.com/subject/35295232/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷天盗日》
@@ -456,18 +454,6 @@ DESCRIPTION:影片多方位还原了作曲大师汉斯·季默迪拜音乐
  ouban.com/subject/37234302/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《旁观者》
-DTSTART:20250920
-DESCRIPTION:该片讲述了离家16年的陈家辉（陈坤 饰）在得
- 知父亲陈为民（王劲松 饰）病危后重返家乡，但父亲未
- 留下只言片语便匆匆离世。当拿到父亲的骨灰后，陈家
- 辉与哥哥陈家兴（王砚辉 饰）、姐姐陈家媛（刘敏涛 饰
- ）却发现父亲的身上似乎藏着许多秘密。随后陈家辉通
- 过探寻父亲的生活轨迹，逐渐揭开了这个关于父亲的秘
- 密，而秘密的背后正是家辉与父亲一生也没有解开的结
- ……\n豆瓣主页：https://movie.douban.com/subject/35614162/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《志愿军：浴血和平》
 DTSTART:20250930
 DESCRIPTION:电影《志愿军》三部曲系列终章《志愿军：浴
@@ -602,6 +588,16 @@ DESCRIPTION:故事发生在泰国一所高中，描述转学生佩伊与
  让自己上好大学的机率？佩伊发起这次热血行动背后的
  秘密即将揭晓。\n豆瓣主页：https://movie.douban.com/subject/365
  14438/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《绮梦之旅》
+DTSTART:20251018
+DESCRIPTION:机缘巧合之下，莎拉（玛格特·罗比 饰）和大
+ 卫（科林·法瑞尔 饰）两个陌生人穿过时空之门，踏上
+ 了一场大胆、绚烂，充满未知的冒险之旅。他们回到过
+ 去，重历了各自生命中至关重要的时刻，也见证了对方
+ 命运的转折点，而他们之间的关系，又是否会因此改写
+ ？\n豆瓣主页：https://movie.douban.com/subject/35295232/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷天盗日》
