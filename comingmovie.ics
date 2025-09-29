@@ -1,30 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《志愿军：浴血和平》
-DTSTART:20250930
-DESCRIPTION:电影《志愿军》三部曲系列终章《志愿军：浴
- 血和平》聚焦抗美援朝第五次战役后直至签署停战协议
- 期间“边打边谈”的作战历程。前线战斗血火交锋，谈
- 判桌上唇枪舌剑，面对敌人的一再挑衅，中华儿女合力
- 反击，誓要奉陪到底，经过747天的抵死奋战，终于打破
- 了美军不可战胜的神话，搏来了期盼已久的和平。\n豆瓣
- 主页：https://movie.douban.com/subject/36296619/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《浪浪人生》
-DTSTART:20250930
-DESCRIPTION:曾经叱咤小镇的“大哥”黄荣发（黄渤 饰）如
- 今嘴硬腿软，开启人生困难模式，但他和家人都没有被
- 命运的风浪裹挟。儿子黑狗达（范丞丞 饰）看似是黄家
- 唯一“淡人”，暗地却密谋如何发家又“治父”；妻子
- 陈梨珍（殷桃 饰）样样全能横扫困难，是小镇人尽皆知
- 不太好惹的“妈系超人”；胆大手“黑”的女儿黄娇娇
- （李嘉琦 饰）和“神”通广大的阿太（刘雪华 饰）也各
- 出奇招笑料百出。逆境当前，一家唯有兴“疯”作浪跟
- 生活贴脸硬刚，没准真能让他们绝地翻盘？\n豆瓣主页：
- https://movie.douban.com/subject/36207392/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《风林火山》
 DTSTART:20251001
 DESCRIPTION:港岛雪夜，街头无差别扫射，血流成河；医院
@@ -150,15 +125,6 @@ DESCRIPTION:故事发生在泰国一所高中，描述转学生佩伊与
  14438/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《偷天盗日》
-DTSTART:20251018
-DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒 Austin
-  Butler 饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡
- 命之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风
- 血雨的罪魁祸首，竟是一只猫？\n豆瓣主页：https://movie.d
- ouban.com/subject/36779171/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《小山河》
 DTSTART:20251018
 DESCRIPTION:二十五岁的青禾（陈昊宇 饰）从深圳回到阔别
@@ -202,6 +168,15 @@ DESCRIPTION:全世界50%以上的名画仿制品都出自这里——深
  责任等压力纷至沓来，将他们推到了人生的十字路口，
  徘徊在理想与现实生活之间，思索着前路该去向何方…
  …\n豆瓣主页：https://movie.douban.com/subject/36582434/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《偷天盗日》
+DTSTART:20251024
+DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒 Austin
+  Butler 饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡
+ 命之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风
+ 血雨的罪魁祸首，竟是一只猫？\n豆瓣主页：https://movie.d
+ ouban.com/subject/36779171/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《向光花盛开》
@@ -327,6 +302,25 @@ DESCRIPTION:处于各种困顿中的华侨后人司徒光明偶然发现
  格在华侨先祖的家国情怀当中获得了行动上和思想上的
  升华，从小切口反映大时代的赞歌。\n豆瓣主页：https://m
  ovie.douban.com/subject/36659309/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《狂野时代》
+DTSTART:20251122
+DESCRIPTION:在一个人类已经不再做梦的世界里，有一个怪
+ 物依然整日沉迷于梦的幻觉中，他迷失了。而一个女人
+ 可以看清幻觉，于是她潜入了他的梦中去寻找……\n豆瓣
+ 主页：https://movie.douban.com/subject/35416174/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《疯狂动物城2》
+DTSTART:20251126
+DESCRIPTION:在《疯狂动物城2》中，警官兔朱迪（金妮弗·
+ 古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason
+  Bateman 配音）这对备受全球观众喜爱的搭档将再度携手
+ ，带领观众重返充满活力的动物城，开启全新冒险。故
+ 事紧接前作，这对默契十足的搭档将直面职业与关系上
+ 的新挑战，揭开动物城深藏的秘密。\n豆瓣主页：https://m
+ ovie.douban.com/subject/26817136/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《半夜叫你别回头2》
@@ -393,31 +387,6 @@ END:VEVENT
 END:VCALENDAR
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:《志愿军：浴血和平》
-DTSTART:20250930
-DESCRIPTION:电影《志愿军》三部曲系列终章《志愿军：浴
- 血和平》聚焦抗美援朝第五次战役后直至签署停战协议
- 期间“边打边谈”的作战历程。前线战斗血火交锋，谈
- 判桌上唇枪舌剑，面对敌人的一再挑衅，中华儿女合力
- 反击，誓要奉陪到底，经过747天的抵死奋战，终于打破
- 了美军不可战胜的神话，搏来了期盼已久的和平。\n豆瓣
- 主页：https://movie.douban.com/subject/36296619/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《浪浪人生》
-DTSTART:20250930
-DESCRIPTION:曾经叱咤小镇的“大哥”黄荣发（黄渤 饰）如
- 今嘴硬腿软，开启人生困难模式，但他和家人都没有被
- 命运的风浪裹挟。儿子黑狗达（范丞丞 饰）看似是黄家
- 唯一“淡人”，暗地却密谋如何发家又“治父”；妻子
- 陈梨珍（殷桃 饰）样样全能横扫困难，是小镇人尽皆知
- 不太好惹的“妈系超人”；胆大手“黑”的女儿黄娇娇
- （李嘉琦 饰）和“神”通广大的阿太（刘雪华 饰）也各
- 出奇招笑料百出。逆境当前，一家唯有兴“疯”作浪跟
- 生活贴脸硬刚，没准真能让他们绝地翻盘？\n豆瓣主页：
- https://movie.douban.com/subject/36207392/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《风林火山》
 DTSTART:20251001
 DESCRIPTION:港岛雪夜，街头无差别扫射，血流成河；医院
@@ -543,15 +512,6 @@ DESCRIPTION:故事发生在泰国一所高中，描述转学生佩伊与
  14438/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《偷天盗日》
-DTSTART:20251018
-DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒 Austin
-  Butler 饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡
- 命之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风
- 血雨的罪魁祸首，竟是一只猫？\n豆瓣主页：https://movie.d
- ouban.com/subject/36779171/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《小山河》
 DTSTART:20251018
 DESCRIPTION:二十五岁的青禾（陈昊宇 饰）从深圳回到阔别
@@ -595,6 +555,15 @@ DESCRIPTION:全世界50%以上的名画仿制品都出自这里——深
  责任等压力纷至沓来，将他们推到了人生的十字路口，
  徘徊在理想与现实生活之间，思索着前路该去向何方…
  …\n豆瓣主页：https://movie.douban.com/subject/36582434/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《偷天盗日》
+DTSTART:20251024
+DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒 Austin
+  Butler 饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡
+ 命之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风
+ 血雨的罪魁祸首，竟是一只猫？\n豆瓣主页：https://movie.d
+ ouban.com/subject/36779171/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《向光花盛开》
@@ -720,6 +689,25 @@ DESCRIPTION:处于各种困顿中的华侨后人司徒光明偶然发现
  格在华侨先祖的家国情怀当中获得了行动上和思想上的
  升华，从小切口反映大时代的赞歌。\n豆瓣主页：https://m
  ovie.douban.com/subject/36659309/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《狂野时代》
+DTSTART:20251122
+DESCRIPTION:在一个人类已经不再做梦的世界里，有一个怪
+ 物依然整日沉迷于梦的幻觉中，他迷失了。而一个女人
+ 可以看清幻觉，于是她潜入了他的梦中去寻找……\n豆瓣
+ 主页：https://movie.douban.com/subject/35416174/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《疯狂动物城2》
+DTSTART:20251126
+DESCRIPTION:在《疯狂动物城2》中，警官兔朱迪（金妮弗·
+ 古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason
+  Bateman 配音）这对备受全球观众喜爱的搭档将再度携手
+ ，带领观众重返充满活力的动物城，开启全新冒险。故
+ 事紧接前作，这对默契十足的搭档将直面职业与关系上
+ 的新挑战，揭开动物城深藏的秘密。\n豆瓣主页：https://m
+ ovie.douban.com/subject/26817136/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《半夜叫你别回头2》
