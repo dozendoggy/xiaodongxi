@@ -1,117 +1,43 @@
 BEGIN:VCALENDAR
-BEGIN:VEVENT
-SUMMARY:《风林火山》
-DTSTART:20251001
-DESCRIPTION:港岛雪夜，街头无差别扫射，血流成河；医院
- 爆炸火光冲天，惨叫此起彼伏。这不是末日，是毒品操
- 控下的城市炼狱。毒贩以毒品掌控城市命脉，杀手为争
- 夺货源血洗街头，警方在阴谋中艰难前行——当三方势
- 力陷入混战，最令人窒息的逆转突然降临：操纵一切的
- 毒贩，竟开始全面禁毒？雪夜之下，谁是幕后推手？谁
- 能从这场罪恶风暴中全身而退？\n豆瓣主页：https://movie.d
- ouban.com/subject/26351864/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《刺杀小说家2》
-DTSTART:20251001
-DESCRIPTION:陷入人生低谷的小说家路空文（董子健 饰）被
- 巨大的诱惑牵引，导致他自己和书中的角色都陷入了不
- 可逆转的危机。最终小说家找回了信念，与书中人一起
- 拯救了双世界危机。\n豆瓣主页：https://movie.douban.com/subje
- ct/35382381/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《毕正明的证明》
-DTSTART:20251001
-DESCRIPTION:从小立志成为警察的毕正明（王安宇 饰），在
- 报到第一天便被意外致残，沦为“一日警察”。渴望证 
- 明自己的他，怀揣一腔孤勇闯入盗贼团伙“荣门”。伪
- 装后的毕正明长期蛰伏，一次偶然机会，成功加入大白
- 桃（张天爱 饰）带领的盗贼“团队”，在反扒队长大周
- （聂远 饰）的指引下，逐渐揭开荣门背后的神秘面纱。
- 身藏贼伙如履薄冰，热血少年能否保持初心证明自己？
- 当时代车轮滚滚而逝，贼帮猖獗“奇观”不再， 如今的
- 安定和安全也是我们最好的“证明”。\n豆瓣主页：https:
- //movie.douban.com/subject/36402017/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《三国的星空第一部》
-DTSTART:20251001
-DESCRIPTION:东汉末年，天下大乱。曹操讨董卓、迎天子、
- 战官渡，成为一代英豪，与袁绍和刘协等人一起用选择
- 和行动回答了“我从哪里来？我的使命是什么？我是天
- 上哪颗星？”\n豆瓣主页：https://movie.douban.com/subject/368301
- 73/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《猪猪侠·一只老猪的逆袭》
-DTSTART:20251001
-DESCRIPTION:过气顶流也有逆袭梦！曾经的男神猪猪爆竟沦
- 落到以送外卖为生？！一次偶然之下，他获得了担任电
- 影男主的机会，但这个剧组并不“简单”，为猪猪爆的
- 男主之路埋下重重关卡。面对N重考验，他能否逆袭成功
- ？\n豆瓣主页：https://movie.douban.com/subject/37282414/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《震耳欲聋》
-DTSTART:20251004
-DESCRIPTION:灰度律师李淇（檀健次饰）因出身于聋人家庭
- ，被卷入一场聋人反诈案中。当他利用案件名利双收之
- 时，却未曾想诈骗案远比想象的复杂。这一次，在欲望
- 和良知的抉择中，他会如何破局？本片部分取材自CODA律
- 师张琪真实从业经历。\n豆瓣主页：https://movie.douban.com/su
- bject/37107063/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《疯狂电脑城》
-DTSTART:20251006
-DESCRIPTION:“电路城”，一座不存在于现实世界的虚拟都
- 市，电子计算机的元件构架起这座科技之城。失去记忆
- 的未知程序扎普被误判为病毒关押在回收站里，但他始
- 终想“要做一个伟大程序”，相信每个人都有选择自己
- 道路的权利。同时，大病毒迪凯在狱中释放了回收站里
- 关押的全部病毒，并占领回收站，他企图将病毒感染整
- 座电路城甚至通过光纤连结现实世界，摧毁全球网络。
- 危急关头，扎普挺身而出与其对抗，意外发现了自身对
- 病毒的免疫能力。逃离回收站后，扎普与皮克西、教授
- 组成拯救电路城危机的疯狂小队。他们共同冒险，一起
- 解密了扎普的真实身份，而获得真实身份力量的扎普也
- 迎来了与迪凯的最终决战…\n豆瓣主页：https://movie.douban.
- com/subject/37317062/
-END:VEVENT
+VERSION:2.0
+PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《一战再战》
-DTSTART:20251017
+DTSTART;VALUE=DATE:20251017
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥
-  饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只
- 和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命
- 。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身
- ，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻
- 女之路，父女二人不得不直面他过往行为种下的恶果…
- …\n豆瓣主页：https://movie.douban.com/subject/36176155/
+ 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只
+ 和坚韧自立的女儿薇拉（蔡斯·英菲尼迪饰）相依为命。
+ 然而，当鲍勃的宿敌（西恩·潘饰）在16年后再度现身，
+ 女儿也突然失踪，这位曾经的激进分子仓促踏上了寻女
+ 之路，父女二人不得不直面他过往行为种下的恶果……\n
+ 豆瓣链接：https://movie.douban.com/subject/36176155/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《创：战神》
-DTSTART:20251017
+DTSTART;VALUE=DATE:20251017
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:《创：战神》围绕高度智能程序“战神”阿瑞
  斯（Ares）展开。随着这个来自数字世界的人工智能体被
  派遣至现实世界执行高危任务，他的行动将引发人类与
- 人工智能体的首次正面相遇。\n豆瓣主页：https://movie.doub
+ 人工智能体的首次正面相遇。\n豆瓣链接：https://movie.doub
  an.com/subject/30246476/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《绮梦之旅》
-DTSTART:20251018
-DESCRIPTION:机缘巧合之下，莎拉（玛格特·罗比 饰）和大
- 卫（科林·法瑞尔 饰）两个陌生人穿过时空之门，踏上
- 了一场大胆、绚烂，充满未知的冒险之旅。他们回到过
- 去，重历了各自生命中至关重要的时刻，也见证了对方
- 命运的转折点，而他们之间的关系，又是否会因此改写
- ？\n豆瓣主页：https://movie.douban.com/subject/35295232/
+DTSTART;VALUE=DATE:20251018
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:机缘巧合之下，莎拉（玛格特·罗比饰）和大卫
+ （科林·法瑞尔饰）两个陌生人穿过时空之门，踏上了一
+ 场大胆、绚烂，充满未知的冒险之旅。他们回到过去，
+ 重历了各自生命中至关重要的时刻，也见证了对方命运
+ 的转折点，而他们之间的关系，又是否会因此改写？\n豆
+ 瓣链接：https://movie.douban.com/subject/35295232/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不亲密朋友》
-DTSTART:20251018
+DTSTART;VALUE=DATE:20251018
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:故事发生在泰国一所高中，描述转学生佩伊与
  班上的风云人物乔两人在因缘际会下成为了好友。然而
  ，当乔向佩伊提到人的一生只能交到150个真正的朋友时
@@ -121,45 +47,46 @@ DESCRIPTION:故事发生在泰国一所高中，描述转学生佩伊与
  随着计划进行，众人发现佩伊拍摄视频的动机并未像表
  面如此简单，究竟是为了提升个人形象？还是为了增加
  让自己上好大学的机率？佩伊发起这次热血行动背后的
- 秘密即将揭晓。\n豆瓣主页：https://movie.douban.com/subject/365
+ 秘密即将揭晓。\n豆瓣链接：https://movie.douban.com/subject/365
  14438/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《小山河》
-DTSTART:20251018
-DESCRIPTION:二十五岁的青禾（陈昊宇 饰）从深圳回到阔别
+DTSTART;VALUE=DATE:20251018
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:二十五岁的青禾（陈昊宇饰）从深圳回到阔别
  已久的故乡。家乡面貌焕然一新，令她有了回乡创业的
- 冲动。而在和外婆（吴彦姝 饰）相伴的日子里，在一粥
+ 冲动。而在和外婆（吴彦姝饰）相伴的日子里，在一粥
  一饭之间，青禾回忆起在这栋老屋里发生过的一切，她
  看到了早逝的父亲，原谅了改嫁的母亲，也在和同村好
  友美素、小龙的相处中得到慰籍，更得到另一种成长。\n
- 豆瓣主页：https://movie.douban.com/subject/33454896/
+ 豆瓣链接：https://movie.douban.com/subject/33454896/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《醉刀客》
-DTSTART:20251018
+DTSTART;VALUE=DATE:20251018
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:影片讲述威震江湖的“冷血刀客”寒月刃（李
- 炳渊 饰），因一饭之恩重返枹罕镇，而此时的枹罕镇正
+ 炳渊饰），因一饭之恩重返枹罕镇，而此时的枹罕镇正
  遭受强权恶霸的欺凌压迫，寒月刃决定出手相助，却惊
- 觉人性中的软弱与恐惧远比暴力更加可怕……而他与曼
- 陀罗（孙艺燃 饰）的纠缠如毒刃绞心，在心动与背叛间
- 撕裂挣扎。当强权无德，弱者无公，必将有一把刀，劈
- 开跪着的时代。\n豆瓣主页：https://movie.douban.com/subject/368
- 47664/
+ 觉人性中的软弱与恐惧远比暴力更加可怕……\n豆瓣链接
+ ：https://movie.douban.com/subject/36847664/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《父辈的天空》
-DTSTART:20251018
+DTSTART;VALUE=DATE:20251018
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:影片以独特视角聚焦二战时期被称为“死亡航
  线”的悲壮奇迹，通过参与飞行的亲历者及其子女、家
  人的口述，展开时空对话，记录了这条二战期间开辟的
  物资空运生命线上的故事，讲述一段关乎中国航空从业
- 者们勇气与奉献的天空传奇。\n豆瓣主页：https://movie.doub
+ 者们勇气与奉献的天空传奇。\n豆瓣链接：https://movie.doub
  an.com/subject/37491016/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《成为大师》
-DTSTART:20251018
+DTSTART;VALUE=DATE:20251018
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:全世界50%以上的名画仿制品都出自这里——深
  圳大芬村，村中有三位心怀梦想的原创画家，庞大师、
  一凡、冬天，与充满现实功利的商业环境格格不入。他
@@ -167,85 +94,100 @@ DESCRIPTION:全世界50%以上的名画仿制品都出自这里——深
  自己的画布上描绘纯粹的诗意。然而，高昂房租、家庭
  责任等压力纷至沓来，将他们推到了人生的十字路口，
  徘徊在理想与现实生活之间，思索着前路该去向何方…
- …\n豆瓣主页：https://movie.douban.com/subject/36582434/
+ …\n豆瓣链接：https://movie.douban.com/subject/36582434/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷天盗日》
-DTSTART:20251024
-DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒 Austin
-  Butler 饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡
- 命之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风
- 血雨的罪魁祸首，竟是一只猫？\n豆瓣主页：https://movie.d
- ouban.com/subject/36779171/
+DTSTART;VALUE=DATE:20251024
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒AustinB
+ utler饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡命
+ 之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风血
+ 雨的罪魁祸首，竟是一只猫？\n豆瓣链接：https://movie.doub
+ an.com/subject/36779171/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《向光花盛开》
-DTSTART:20251024
+DTSTART;VALUE=DATE:20251024
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:夏津生是个天津人，幽默风趣，生活幸福。然
  而，儿子夏阳突然自杀，令他陷入绝望。朋友们和妻子
  贾萍竭力帮助，但他依然痛苦。直到遇到问题少年陈晨
  ，他和朋友们帮助陈晨走出困境，重燃生活希望。最终
  ，两个人都重新找回生活的勇气，共同克服困难，开启
- 新生活。\n豆瓣主页：https://movie.douban.com/subject/36956915/
+ 新生活。\n豆瓣链接：https://movie.douban.com/subject/36956915/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《陪你到清晨》
+DTSTART;VALUE=DATE:20251024
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:这是首部用真实影像记录的非虚构电影，讲述
+ 了孩子在心理与精神困境中求救与自救的故事。\n豆瓣链
+ 接：https://movie.douban.com/subject/37562114/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《下一个台风》
-DTSTART:20251025
+DTSTART;VALUE=DATE:20251025
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:台风刚过的海岛之上，一只眼受伤的城市女生
- 林沫沫（张子枫 饰），与岛上土生土长的失语女孩阿汐
- （张伟丽 饰）猝然相遇。当无情的风暴逐渐撕开两人隐
+ 林沫沫（张子枫饰），与岛上土生土长的失语女孩阿汐
+ （张伟丽饰）猝然相遇。当无情的风暴逐渐撕开两人隐
  秘哀伤的过往，两个看似另类但炽热的青春，相互慰藉
  ，彼此支撑，用友情的力量对抗人生的台风。随着青蚵
- 嫂（李心洁 饰）临终透露的惊天秘密和陈淑楠（姚晨 饰
+ 嫂（李心洁饰）临终透露的惊天秘密和陈淑楠（姚晨饰
  ）的突然闯入，席卷沫沫与阿汐的下一个台风突如其来
  ，风眼之下，望风而逃还是迎风而上？她们必须做出抉
- 择。\n豆瓣主页：https://movie.douban.com/subject/36752985/
+ 择。\n豆瓣链接：https://movie.douban.com/subject/36752985/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《旁观者》
-DTSTART:20251025
-DESCRIPTION:离家十六年的陈家辉（陈坤 饰）在得知父亲陈
- 为民（王劲松 饰）病危后，重返故乡。但父亲未留下只
+DTSTART;VALUE=DATE:20251025
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:离家十六年的陈家辉（陈坤饰）在得知父亲陈
+ 为民（王劲松饰）病危后，重返故乡。但父亲未留下只
  言片语便匆匆离世。葬礼之后，陈家辉与哥哥陈家兴（
- 王砚辉 饰）、姐姐陈家媛（刘敏涛 饰）在整理父亲遗物
+ 王砚辉饰）、姐姐陈家媛（刘敏涛饰）在整理父亲遗物
  时，逐渐察觉父亲身上似乎隐藏着许多不为人知的秘密
  。带着困惑与心结，陈家辉开始探寻父亲生前的生活轨
  迹，试图拼凑出父亲真实的模样。在这个过程中，一段
  埋藏了16年的家庭秘密逐渐被揭开，而这个秘密的核心，
- 正是家辉与父亲之间一生都未能解开的那个结。\n豆瓣主
- 页：https://movie.douban.com/subject/35614162/
+ 正是家辉与父亲之间一生都未能解开的那个结。\n豆瓣链
+ 接：https://movie.douban.com/subject/35614162/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《带你回家》
-DTSTART:20251025
-DESCRIPTION:为了实现父亲的遗愿 ，从小跟着父亲生活在美
- 国的张缘缘（王真儿 饰）带着女儿回国，恰逢被她认定
- 为“抛弃了自己”的母亲（李萍 饰）被确诊为阿尔兹海
+DTSTART;VALUE=DATE:20251025
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:为了实现父亲的遗愿，从小跟着父亲生活在美
+ 国的张缘缘（王真儿饰）带着女儿回国，恰逢被她认定
+ 为“抛弃了自己”的母亲（李萍饰）被确诊为阿尔兹海
  默症，张缘缘与女儿一起经历了母亲逐渐失忆的过程。
  随着现实和记忆的拼凑，张缘缘的思绪去到了80年代，“
- 遇到”了年轻时的母亲（赫林 饰）。年轻时的母亲不仅
+ 遇到”了年轻时的母亲（赫林饰）。年轻时的母亲不仅
  样貌出众，学习更是拔尖，而年轻时的父亲是那么不起
  眼，在刚恢复高考的那年，母亲本该走出一条更光明的
  人生，但一次意外，彻底改变了母亲、父亲以及张缘缘
- 的人生轨迹。\n豆瓣主页：https://movie.douban.com/subject/373591
+ 的人生轨迹。\n豆瓣链接：https://movie.douban.com/subject/373591
  80/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《即兴谋杀》
-DTSTART:20251031
+DTSTART;VALUE=DATE:20251031
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:神秘孤岛上只有一座何家古堡，以前死过很多
- 人。半瘫少女何思怡（李庚希 饰）离家17年后归来，父
- 亲却离奇失踪，迎接她的是美艳温柔的继母（邓家佳 饰
- ）、风度翩翩的私人医生（黄晓明 饰）、年轻健硕的司
- 机（刘奕铁 饰）和万般贴心的女佣等人。这一切看似平
- 静，但不时响起的古怪声音，似有若无的血腥气味，似
- 乎都藏着这座古堡不可言说的秘密，一步步将这家人 拖
- 入万劫不复的深渊，一场蓄谋已久的复仇大戏渐渐拉开
- 帷幕……\n豆瓣主页：https://movie.douban.com/subject/36596912/
+ 人。半瘫少女何思怡（李庚希饰）离家17年后归来，父亲
+ 却离奇失踪，迎接她的是美艳温柔的继母（邓家佳饰）
+ 、风度翩翩的私人医生（黄晓明饰）、年轻健硕的司机
+ （刘奕铁饰）和万般贴心的女佣等人。这一切看似平静
+ ，但不时响起的古怪声音，似有若无的血腥气味，似乎
+ 都藏着这座古堡不可言说的秘密，一步步将这家人拖入
+ 万劫不复的深渊，一场蓄谋已久的复仇大戏渐渐拉开帷
+ 幕……\n豆瓣链接：https://movie.douban.com/subject/36596912/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《象山发光事件》
-DTSTART:20251031
+DTSTART;VALUE=DATE:20251031
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:十年前的一次超自然发光事件导致张鹏的好友
  神秘失踪。十年后摄制组找到张鹏，提出重回事发地象
  山拍摄一部找寻真相的影片。在象山受访者对当年事件
@@ -254,43 +196,64 @@ DESCRIPTION:十年前的一次超自然发光事件导致张鹏的好友
  导演的蓄意安排。但真相只是这样吗？在这个谜一样的
  洞穴里，谁是操纵者，谁是被操纵者已经无法确定。随
  着那扇尘封的水泥大门被推开，眼前发生的一切远超他
- 们的想象……\n豆瓣主页：https://movie.douban.com/subject/366170
+ 们的想象……\n豆瓣链接：https://movie.douban.com/subject/366170
  18/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《红嫁衣：纸新娘》
+DTSTART;VALUE=DATE:20251031
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:中元鬼节，阴间大门洞开！滔天鬼气喷涌，无
+ 数怨灵哀嚎爬入人间！凶神恶煞的五猖兵马手持染血铁
+ 链，当街撕扯活人魂魄，惨叫声撕裂夜空！修罗城瞬间
+ 化成鬼域！阴阳师叶无双与厉飞云临危受命踏入死地。
+ 然而，他们遭遇的，是远超想象的极恶凶灵：红嫁衣纸
+ 新娘！夜半三更，回魂之夜，四名惨白纸人，脸颊涂着
+ 诡异腮红，嘴角裂至耳根，关节咔咔作响，抬一口薄皮
+ 棺材，脚不沾地，直扑国舅府。翌日，国舅仅剩一张人
+ 皮，被折成纸偶塞进棺中。红嫁衣所过之处，寸草不生
+ ，活物绝迹！街坊邻里，前日犹在寒暄，一夜之间，整
+ 条街住户尽化僵硬纸人，脸上凝固着死前极致的恐惧！
+ 孩童捡起一张飘落的红纸钱，当晚全家七窍流血，身体
+ 在惨叫中干瘪脆裂，化作纸屑！纸新娘索命降临，无人
+ 生还！修罗城，这座活人之城，被无法抗拒的怨气拖向
+ 无间鬼蜮深渊………\n豆瓣链接：https://movie.douban.com/subje
+ ct/37143065/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《极地大冒险3》
-DTSTART:20251101
+DTSTART;VALUE=DATE:20251101
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:尼科的梦想要实现了！他和他的父亲可以成为
  圣诞老人驯鹿队的一员。然后突然斯特拉出现了，想要
  占有他的位置。虽然他们都在争夺这个位置，但他们也
  成了朋友。但是，圣诞节前一天，雪橇被偷了！圣诞节
- 有被取消的危险，只有尼科能救它。\n豆瓣主页：https://m
+ 有被取消的危险，只有尼科能救它。\n豆瓣链接：https://m
  ovie.douban.com/subject/35861110/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《日掛中天》
-DTSTART:20251107
+DTSTART;VALUE=DATE:20251107
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:困于七年前一桩意外的两人再度相遇，美云（
- 辛芷蕾 饰）与葆树（张颂文 饰）开始了一段爱恨交织、
- 扭曲而痛苦的共生关系。在美云试图借其峰（冯绍峰 饰
+ 辛芷蕾饰）与葆树（张颂文饰）开始了一段爱恨交织、
+ 扭曲而痛苦的共生关系。在美云试图借其峰（冯绍峰饰
  ）展望新的未来时，却发现自己仍深陷旧日漩涡。那些
  关于情与债的执念，再度将所有人推向命运的十字路口
- ……\n豆瓣主页：https://movie.douban.com/subject/36964147/
+ ……\n豆瓣链接：https://movie.douban.com/subject/36964147/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三滴血》
-DTSTART:20251115
+DTSTART;VALUE=DATE:20251115
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:三，是家的最小单位。血脉，是维系家庭的纽
- 带。然而，三个素不相识的人却被命运交织在一起！善
- 恶难辨的男人“驯鹿”，身怀六甲的女人李棋，哑巴男
- 孩冰棍，三人假扮成一家人，游走于猎物与猎人之间，
- 暗流已至，生死一瞬，一个关于家族式人口贩卖的黑暗
- 链条逐渐浮出水面！\n豆瓣主页：https://movie.douban.com/subje
- ct/30286126/
+ 带。然而，三个素不相识的人却被命运交织在一起！\n豆
+ 瓣链接：https://movie.douban.com/subject/30286126/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《神秘家书》
-DTSTART:20251118
+DTSTART;VALUE=DATE:20251118
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:处于各种困顿中的华侨后人司徒光明偶然发现
  了家里的一封家书，他根据家书上的指引，与女朋友梅
  淑怡、发小胖子和富家子弟关子兴组成团队，开启了揭
@@ -300,475 +263,114 @@ DESCRIPTION:处于各种困顿中的华侨后人司徒光明偶然发现
  猜疑、妒忌以及反目等事件当中进行反转。随着真相一
  步一步揭露，两条主线在一个点上汇合。最后，人物性
  格在华侨先祖的家国情怀当中获得了行动上和思想上的
- 升华，从小切口反映大时代的赞歌。\n豆瓣主页：https://m
+ 升华，从小切口反映大时代的赞歌。\n豆瓣链接：https://m
  ovie.douban.com/subject/36659309/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《狂野时代》
-DTSTART:20251122
+DTSTART;VALUE=DATE:20251122
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:在一个人类已经不再做梦的世界里，有一个怪
  物依然整日沉迷于梦的幻觉中，他迷失了。而一个女人
  可以看清幻觉，于是她潜入了他的梦中去寻找……\n豆瓣
- 主页：https://movie.douban.com/subject/35416174/
+ 链接：https://movie.douban.com/subject/35416174/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《疯狂动物城2》
-DTSTART:20251126
+DTSTART;VALUE=DATE:20251126
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:在《疯狂动物城2》中，警官兔朱迪（金妮弗·
- 古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason
-  Bateman 配音）这对备受全球观众喜爱的搭档将再度携手
- ，带领观众重返充满活力的动物城，开启全新冒险。故
- 事紧接前作，这对默契十足的搭档将直面职业与关系上
- 的新挑战，揭开动物城深藏的秘密。\n豆瓣主页：https://m
- ovie.douban.com/subject/26817136/
+ 古德温GinniferGoodwin配音）与狐尼克（杰森·贝特曼JasonBate
+ man配音）这对备受全球观众喜爱的搭档将再度携手，带
+ 领观众重返充满活力的动物城，开启全新冒险。故事紧
+ 接前作，这对默契十足的搭档将直面职业与关系上的新
+ 挑战，揭开动物城深藏的秘密。\n豆瓣链接：https://movie.d
+ ouban.com/subject/26817136/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《半夜叫你别回头2》
-DTSTART:20251128
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:孤儿村是一座被废弃了无人荒村，因灵异事件
  频发而人烟绝迹。萧流苏、林轩等几个大学生步入孤儿
  村，拍摄一部名为《午夜探灵人》的纪录片，意外地遭
  遇了一系列诡异事件，揭开了孤儿村背后的疑云。\n豆瓣
- 主页：https://movie.douban.com/subject/37515166/
+ 链接：https://movie.douban.com/subject/37515166/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无名之辈：意义非凡》
-DTSTART:20251231
-DESCRIPTION:Made in Yiwu，go global.（义乌制造，走向世界。）
- 一笔无法兑现的货款，让义乌小老板的工厂摇摇欲坠；
- 一根不应出现的断指，让华人黑帮被当地警察盯上；一
- 次讨债无果的轻生，让债主身陷精心策划的绑架漩涡。
- 他们的故事有着怎样的联系，各自又将如何化险为夷？\n
- 豆瓣主页：https://movie.douban.com/subject/36311677/
+DTSTART;VALUE=DATE:20251231
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:MadeinYiwu，goglobal.（义乌制造，走向世界。）一
+ 笔无法兑现的货款，让义乌小老板的工厂摇摇欲坠；一
+ 根不应出现的断指，让华人黑帮被当地警察盯上；一次
+ 讨债无果的轻生，让债主身陷精心策划的绑架漩涡。他
+ 们的故事有着怎样的联系，各自又将如何化险为夷？\n豆
+ 瓣链接：https://movie.douban.com/subject/36311677/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《寻秦记》
+DTSTART;VALUE=DATE:20251231
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:2030年，香港诸多现代物被抽取到秦朝，抽送中
+ 的生命体更是因此灰飞烟灭。拯救行动迫在眉睫，项少
+ 龙带领众人孤注一掷。秦王的欲望，家人的安危，是离
+ 开还是留下，都将在这秘境之地寻找答案。\n豆瓣链接：
+ https://movie.douban.com/subject/26389539/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《匿杀》
-DTSTART:20251231
+DTSTART;VALUE=DATE:20251231
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:地狱空荡荡，恶魔在人间。十五年前，一群身
  份各异的罪恶权贵将都马市染黑成一座“地狱岛”，十
  五年后，这些背后操盘者接连惨死，死状惨烈。桩桩命
  案，层层黑幕，尘封太久的罪恶被权贵们的血逐步冲刷
  显形。那张权力、金钱、欲望织就的黑色秘网背后究竟
- 藏着多少不为人知的罪孽？\n豆瓣主页：https://movie.douban.
+ 藏着多少不为人知的罪孽？\n豆瓣链接：https://movie.douban.
  com/subject/36073533/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《不过是上班》
+DTSTART;VALUE=DATE:20251231
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:如果你发现领导只要一句“什么狗屁方案”，
+ 自己的人生就会进入无休止的循环.....\n豆瓣链接：https:/
+ /movie.douban.com/subject/37193378/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《凌晨两点半3》
-DTSTART:20260403
+DTSTART;VALUE=DATE:20260403
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:影片聚焦一群好奇者深夜闯入废弃跨国医院寻
  鬼。走廊贴满带泰国邪术符号的符咒，病房藏着中国民
- 间传说中的 “回魂镜”。凌晨两点半一到，怨灵接连现
+ 间传说中的“回魂镜”。凌晨两点半一到，怨灵接连现
  身——穿泰式病服的女孩飘在输液架旁，中式旗袍虚影
  在病房门后闪现。他们本想探寻医院当年中泰医生离奇
  失踪真相，却触发古老诅咒，每一步都在逼近死亡……\n
- 豆瓣主页：https://movie.douban.com/subject/36990246/
+ 豆瓣链接：https://movie.douban.com/subject/36990246/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《千金不换》
-DTSTART:20260501
-DESCRIPTION:妈妈万芸（马丽 饰）决心让身患自闭症却热爱
- 跑步的儿子楚星辰（范丞丞 饰）完成一场真正的全程马
+DTSTART;VALUE=DATE:20260501
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
+DESCRIPTION:妈妈万芸（马丽饰）决心让身患自闭症却热爱
+ 跑步的儿子楚星辰（范丞丞饰）完成一场真正的全程马
  拉松比赛，于是她“瞄准”了昔日的东北马拉松之王何
- 秋生（乔杉 饰），相信这位嗜赌如命的落魄教练就是最
+ 秋生（乔杉饰），相信这位嗜赌如命的落魄教练就是最
  合适的人选。几番波折后，原本毫不相干的他们在命运
  的齿轮转动下开启了一场鸡飞狗跳的“人生马拉松”，
- 而每个人能否顺利跑向充满希望的“终点”？\n豆瓣主页
+ 而每个人能否顺利跑向充满希望的“终点”？\n豆瓣链接
  ：https://movie.douban.com/subject/36918875/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
-DTSTART:20270206
+DTSTART;VALUE=DATE:20270206
+DTSTAMP;VALUE=DATE-TIME:20251009T024859Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
  终，流浪地球时代的年轻人挺身而出，展开争分夺秒的
- 生死之战。\n豆瓣主页：https://movie.douban.com/subject/36212391/
-END:VEVENT
-END:VCALENDAR
-BEGIN:VCALENDAR
-BEGIN:VEVENT
-SUMMARY:《风林火山》
-DTSTART:20251001
-DESCRIPTION:港岛雪夜，街头无差别扫射，血流成河；医院
- 爆炸火光冲天，惨叫此起彼伏。这不是末日，是毒品操
- 控下的城市炼狱。毒贩以毒品掌控城市命脉，杀手为争
- 夺货源血洗街头，警方在阴谋中艰难前行——当三方势
- 力陷入混战，最令人窒息的逆转突然降临：操纵一切的
- 毒贩，竟开始全面禁毒？雪夜之下，谁是幕后推手？谁
- 能从这场罪恶风暴中全身而退？\n豆瓣主页：https://movie.d
- ouban.com/subject/26351864/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《刺杀小说家2》
-DTSTART:20251001
-DESCRIPTION:陷入人生低谷的小说家路空文（董子健 饰）被
- 巨大的诱惑牵引，导致他自己和书中的角色都陷入了不
- 可逆转的危机。最终小说家找回了信念，与书中人一起
- 拯救了双世界危机。\n豆瓣主页：https://movie.douban.com/subje
- ct/35382381/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《毕正明的证明》
-DTSTART:20251001
-DESCRIPTION:从小立志成为警察的毕正明（王安宇 饰），在
- 报到第一天便被意外致残，沦为“一日警察”。渴望证 
- 明自己的他，怀揣一腔孤勇闯入盗贼团伙“荣门”。伪
- 装后的毕正明长期蛰伏，一次偶然机会，成功加入大白
- 桃（张天爱 饰）带领的盗贼“团队”，在反扒队长大周
- （聂远 饰）的指引下，逐渐揭开荣门背后的神秘面纱。
- 身藏贼伙如履薄冰，热血少年能否保持初心证明自己？
- 当时代车轮滚滚而逝，贼帮猖獗“奇观”不再， 如今的
- 安定和安全也是我们最好的“证明”。\n豆瓣主页：https:
- //movie.douban.com/subject/36402017/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《三国的星空第一部》
-DTSTART:20251001
-DESCRIPTION:东汉末年，天下大乱。曹操讨董卓、迎天子、
- 战官渡，成为一代英豪，与袁绍和刘协等人一起用选择
- 和行动回答了“我从哪里来？我的使命是什么？我是天
- 上哪颗星？”\n豆瓣主页：https://movie.douban.com/subject/368301
- 73/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《猪猪侠·一只老猪的逆袭》
-DTSTART:20251001
-DESCRIPTION:过气顶流也有逆袭梦！曾经的男神猪猪爆竟沦
- 落到以送外卖为生？！一次偶然之下，他获得了担任电
- 影男主的机会，但这个剧组并不“简单”，为猪猪爆的
- 男主之路埋下重重关卡。面对N重考验，他能否逆袭成功
- ？\n豆瓣主页：https://movie.douban.com/subject/37282414/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《震耳欲聋》
-DTSTART:20251004
-DESCRIPTION:灰度律师李淇（檀健次饰）因出身于聋人家庭
- ，被卷入一场聋人反诈案中。当他利用案件名利双收之
- 时，却未曾想诈骗案远比想象的复杂。这一次，在欲望
- 和良知的抉择中，他会如何破局？本片部分取材自CODA律
- 师张琪真实从业经历。\n豆瓣主页：https://movie.douban.com/su
- bject/37107063/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《疯狂电脑城》
-DTSTART:20251006
-DESCRIPTION:“电路城”，一座不存在于现实世界的虚拟都
- 市，电子计算机的元件构架起这座科技之城。失去记忆
- 的未知程序扎普被误判为病毒关押在回收站里，但他始
- 终想“要做一个伟大程序”，相信每个人都有选择自己
- 道路的权利。同时，大病毒迪凯在狱中释放了回收站里
- 关押的全部病毒，并占领回收站，他企图将病毒感染整
- 座电路城甚至通过光纤连结现实世界，摧毁全球网络。
- 危急关头，扎普挺身而出与其对抗，意外发现了自身对
- 病毒的免疫能力。逃离回收站后，扎普与皮克西、教授
- 组成拯救电路城危机的疯狂小队。他们共同冒险，一起
- 解密了扎普的真实身份，而获得真实身份力量的扎普也
- 迎来了与迪凯的最终决战…\n豆瓣主页：https://movie.douban.
- com/subject/37317062/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《一战再战》
-DTSTART:20251017
-DESCRIPTION:落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥
-  饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只
- 和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命
- 。然而，当鲍勃的宿敌（西恩·潘 饰）在16年后再度现身
- ，女儿也突然失踪，这位曾经的激进分子仓促踏上了寻
- 女之路，父女二人不得不直面他过往行为种下的恶果…
- …\n豆瓣主页：https://movie.douban.com/subject/36176155/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《创：战神》
-DTSTART:20251017
-DESCRIPTION:《创：战神》围绕高度智能程序“战神”阿瑞
- 斯（Ares）展开。随着这个来自数字世界的人工智能体被
- 派遣至现实世界执行高危任务，他的行动将引发人类与
- 人工智能体的首次正面相遇。\n豆瓣主页：https://movie.doub
- an.com/subject/30246476/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《绮梦之旅》
-DTSTART:20251018
-DESCRIPTION:机缘巧合之下，莎拉（玛格特·罗比 饰）和大
- 卫（科林·法瑞尔 饰）两个陌生人穿过时空之门，踏上
- 了一场大胆、绚烂，充满未知的冒险之旅。他们回到过
- 去，重历了各自生命中至关重要的时刻，也见证了对方
- 命运的转折点，而他们之间的关系，又是否会因此改写
- ？\n豆瓣主页：https://movie.douban.com/subject/35295232/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《不亲密朋友》
-DTSTART:20251018
-DESCRIPTION:故事发生在泰国一所高中，描述转学生佩伊与
- 班上的风云人物乔两人在因缘际会下成为了好友。然而
- ，当乔向佩伊提到人的一生只能交到150个真正的朋友时
- ，此番说法却激怒了佩伊，两人因此不欢而散，没想到
- ，乔却在隔天因为一场车祸意外离世……为了纪念好友
- 乔，佩伊决定邀请全校同学共同拍摄一支短片，然而，
- 随着计划进行，众人发现佩伊拍摄视频的动机并未像表
- 面如此简单，究竟是为了提升个人形象？还是为了增加
- 让自己上好大学的机率？佩伊发起这次热血行动背后的
- 秘密即将揭晓。\n豆瓣主页：https://movie.douban.com/subject/365
- 14438/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《小山河》
-DTSTART:20251018
-DESCRIPTION:二十五岁的青禾（陈昊宇 饰）从深圳回到阔别
- 已久的故乡。家乡面貌焕然一新，令她有了回乡创业的
- 冲动。而在和外婆（吴彦姝 饰）相伴的日子里，在一粥
- 一饭之间，青禾回忆起在这栋老屋里发生过的一切，她
- 看到了早逝的父亲，原谅了改嫁的母亲，也在和同村好
- 友美素、小龙的相处中得到慰籍，更得到另一种成长。\n
- 豆瓣主页：https://movie.douban.com/subject/33454896/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《醉刀客》
-DTSTART:20251018
-DESCRIPTION:影片讲述威震江湖的“冷血刀客”寒月刃（李
- 炳渊 饰），因一饭之恩重返枹罕镇，而此时的枹罕镇正
- 遭受强权恶霸的欺凌压迫，寒月刃决定出手相助，却惊
- 觉人性中的软弱与恐惧远比暴力更加可怕……而他与曼
- 陀罗（孙艺燃 饰）的纠缠如毒刃绞心，在心动与背叛间
- 撕裂挣扎。当强权无德，弱者无公，必将有一把刀，劈
- 开跪着的时代。\n豆瓣主页：https://movie.douban.com/subject/368
- 47664/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《父辈的天空》
-DTSTART:20251018
-DESCRIPTION:影片以独特视角聚焦二战时期被称为“死亡航
- 线”的悲壮奇迹，通过参与飞行的亲历者及其子女、家
- 人的口述，展开时空对话，记录了这条二战期间开辟的
- 物资空运生命线上的故事，讲述一段关乎中国航空从业
- 者们勇气与奉献的天空传奇。\n豆瓣主页：https://movie.doub
- an.com/subject/37491016/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《成为大师》
-DTSTART:20251018
-DESCRIPTION:全世界50%以上的名画仿制品都出自这里——深
- 圳大芬村，村中有三位心怀梦想的原创画家，庞大师、
- 一凡、冬天，与充满现实功利的商业环境格格不入。他
- 们不追求世俗意义的成功，只享受当下的创作，执意在
- 自己的画布上描绘纯粹的诗意。然而，高昂房租、家庭
- 责任等压力纷至沓来，将他们推到了人生的十字路口，
- 徘徊在理想与现实生活之间，思索着前路该去向何方…
- …\n豆瓣主页：https://movie.douban.com/subject/36582434/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《偷天盗日》
-DTSTART:20251024
-DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒 Austin
-  Butler 饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡
- 命之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风
- 血雨的罪魁祸首，竟是一只猫？\n豆瓣主页：https://movie.d
- ouban.com/subject/36779171/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《向光花盛开》
-DTSTART:20251024
-DESCRIPTION:夏津生是个天津人，幽默风趣，生活幸福。然
- 而，儿子夏阳突然自杀，令他陷入绝望。朋友们和妻子
- 贾萍竭力帮助，但他依然痛苦。直到遇到问题少年陈晨
- ，他和朋友们帮助陈晨走出困境，重燃生活希望。最终
- ，两个人都重新找回生活的勇气，共同克服困难，开启
- 新生活。\n豆瓣主页：https://movie.douban.com/subject/36956915/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《下一个台风》
-DTSTART:20251025
-DESCRIPTION:台风刚过的海岛之上，一只眼受伤的城市女生
- 林沫沫（张子枫 饰），与岛上土生土长的失语女孩阿汐
- （张伟丽 饰）猝然相遇。当无情的风暴逐渐撕开两人隐
- 秘哀伤的过往，两个看似另类但炽热的青春，相互慰藉
- ，彼此支撑，用友情的力量对抗人生的台风。随着青蚵
- 嫂（李心洁 饰）临终透露的惊天秘密和陈淑楠（姚晨 饰
- ）的突然闯入，席卷沫沫与阿汐的下一个台风突如其来
- ，风眼之下，望风而逃还是迎风而上？她们必须做出抉
- 择。\n豆瓣主页：https://movie.douban.com/subject/36752985/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《旁观者》
-DTSTART:20251025
-DESCRIPTION:离家十六年的陈家辉（陈坤 饰）在得知父亲陈
- 为民（王劲松 饰）病危后，重返故乡。但父亲未留下只
- 言片语便匆匆离世。葬礼之后，陈家辉与哥哥陈家兴（
- 王砚辉 饰）、姐姐陈家媛（刘敏涛 饰）在整理父亲遗物
- 时，逐渐察觉父亲身上似乎隐藏着许多不为人知的秘密
- 。带着困惑与心结，陈家辉开始探寻父亲生前的生活轨
- 迹，试图拼凑出父亲真实的模样。在这个过程中，一段
- 埋藏了16年的家庭秘密逐渐被揭开，而这个秘密的核心，
- 正是家辉与父亲之间一生都未能解开的那个结。\n豆瓣主
- 页：https://movie.douban.com/subject/35614162/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《带你回家》
-DTSTART:20251025
-DESCRIPTION:为了实现父亲的遗愿 ，从小跟着父亲生活在美
- 国的张缘缘（王真儿 饰）带着女儿回国，恰逢被她认定
- 为“抛弃了自己”的母亲（李萍 饰）被确诊为阿尔兹海
- 默症，张缘缘与女儿一起经历了母亲逐渐失忆的过程。
- 随着现实和记忆的拼凑，张缘缘的思绪去到了80年代，“
- 遇到”了年轻时的母亲（赫林 饰）。年轻时的母亲不仅
- 样貌出众，学习更是拔尖，而年轻时的父亲是那么不起
- 眼，在刚恢复高考的那年，母亲本该走出一条更光明的
- 人生，但一次意外，彻底改变了母亲、父亲以及张缘缘
- 的人生轨迹。\n豆瓣主页：https://movie.douban.com/subject/373591
- 80/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《即兴谋杀》
-DTSTART:20251031
-DESCRIPTION:神秘孤岛上只有一座何家古堡，以前死过很多
- 人。半瘫少女何思怡（李庚希 饰）离家17年后归来，父
- 亲却离奇失踪，迎接她的是美艳温柔的继母（邓家佳 饰
- ）、风度翩翩的私人医生（黄晓明 饰）、年轻健硕的司
- 机（刘奕铁 饰）和万般贴心的女佣等人。这一切看似平
- 静，但不时响起的古怪声音，似有若无的血腥气味，似
- 乎都藏着这座古堡不可言说的秘密，一步步将这家人 拖
- 入万劫不复的深渊，一场蓄谋已久的复仇大戏渐渐拉开
- 帷幕……\n豆瓣主页：https://movie.douban.com/subject/36596912/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《象山发光事件》
-DTSTART:20251031
-DESCRIPTION:十年前的一次超自然发光事件导致张鹏的好友
- 神秘失踪。十年后摄制组找到张鹏，提出重回事发地象
- 山拍摄一部找寻真相的影片。在象山受访者对当年事件
- 给出的不同描述让调查陷入重重谜团。当他们历经波折
- 进入那个人工开凿的神秘洞穴时，却发现所谓谜团都是
- 导演的蓄意安排。但真相只是这样吗？在这个谜一样的
- 洞穴里，谁是操纵者，谁是被操纵者已经无法确定。随
- 着那扇尘封的水泥大门被推开，眼前发生的一切远超他
- 们的想象……\n豆瓣主页：https://movie.douban.com/subject/366170
- 18/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《极地大冒险3》
-DTSTART:20251101
-DESCRIPTION:尼科的梦想要实现了！他和他的父亲可以成为
- 圣诞老人驯鹿队的一员。然后突然斯特拉出现了，想要
- 占有他的位置。虽然他们都在争夺这个位置，但他们也
- 成了朋友。但是，圣诞节前一天，雪橇被偷了！圣诞节
- 有被取消的危险，只有尼科能救它。\n豆瓣主页：https://m
- ovie.douban.com/subject/35861110/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《日掛中天》
-DTSTART:20251107
-DESCRIPTION:困于七年前一桩意外的两人再度相遇，美云（
- 辛芷蕾 饰）与葆树（张颂文 饰）开始了一段爱恨交织、
- 扭曲而痛苦的共生关系。在美云试图借其峰（冯绍峰 饰
- ）展望新的未来时，却发现自己仍深陷旧日漩涡。那些
- 关于情与债的执念，再度将所有人推向命运的十字路口
- ……\n豆瓣主页：https://movie.douban.com/subject/36964147/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《三滴血》
-DTSTART:20251115
-DESCRIPTION:三，是家的最小单位。血脉，是维系家庭的纽
- 带。然而，三个素不相识的人却被命运交织在一起！善
- 恶难辨的男人“驯鹿”，身怀六甲的女人李棋，哑巴男
- 孩冰棍，三人假扮成一家人，游走于猎物与猎人之间，
- 暗流已至，生死一瞬，一个关于家族式人口贩卖的黑暗
- 链条逐渐浮出水面！\n豆瓣主页：https://movie.douban.com/subje
- ct/30286126/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《神秘家书》
-DTSTART:20251118
-DESCRIPTION:处于各种困顿中的华侨后人司徒光明偶然发现
- 了家里的一封家书，他根据家书上的指引，与女朋友梅
- 淑怡、发小胖子和富家子弟关子兴组成团队，开启了揭
- 秘之旅。在这个过程当中，剧情通过现实与过去两条线
- 交织方式推进。一方面是从现代向年代回溯；另一方面
- 从年代往前推进。剧情在寻宝途中四个人之间的合作、
- 猜疑、妒忌以及反目等事件当中进行反转。随着真相一
- 步一步揭露，两条主线在一个点上汇合。最后，人物性
- 格在华侨先祖的家国情怀当中获得了行动上和思想上的
- 升华，从小切口反映大时代的赞歌。\n豆瓣主页：https://m
- ovie.douban.com/subject/36659309/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《狂野时代》
-DTSTART:20251122
-DESCRIPTION:在一个人类已经不再做梦的世界里，有一个怪
- 物依然整日沉迷于梦的幻觉中，他迷失了。而一个女人
- 可以看清幻觉，于是她潜入了他的梦中去寻找……\n豆瓣
- 主页：https://movie.douban.com/subject/35416174/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《疯狂动物城2》
-DTSTART:20251126
-DESCRIPTION:在《疯狂动物城2》中，警官兔朱迪（金妮弗·
- 古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason
-  Bateman 配音）这对备受全球观众喜爱的搭档将再度携手
- ，带领观众重返充满活力的动物城，开启全新冒险。故
- 事紧接前作，这对默契十足的搭档将直面职业与关系上
- 的新挑战，揭开动物城深藏的秘密。\n豆瓣主页：https://m
- ovie.douban.com/subject/26817136/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《半夜叫你别回头2》
-DTSTART:20251128
-DESCRIPTION:孤儿村是一座被废弃了无人荒村，因灵异事件
- 频发而人烟绝迹。萧流苏、林轩等几个大学生步入孤儿
- 村，拍摄一部名为《午夜探灵人》的纪录片，意外地遭
- 遇了一系列诡异事件，揭开了孤儿村背后的疑云。\n豆瓣
- 主页：https://movie.douban.com/subject/37515166/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《无名之辈：意义非凡》
-DTSTART:20251231
-DESCRIPTION:Made in Yiwu，go global.（义乌制造，走向世界。）
- 一笔无法兑现的货款，让义乌小老板的工厂摇摇欲坠；
- 一根不应出现的断指，让华人黑帮被当地警察盯上；一
- 次讨债无果的轻生，让债主身陷精心策划的绑架漩涡。
- 他们的故事有着怎样的联系，各自又将如何化险为夷？\n
- 豆瓣主页：https://movie.douban.com/subject/36311677/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《匿杀》
-DTSTART:20251231
-DESCRIPTION:地狱空荡荡，恶魔在人间。十五年前，一群身
- 份各异的罪恶权贵将都马市染黑成一座“地狱岛”，十
- 五年后，这些背后操盘者接连惨死，死状惨烈。桩桩命
- 案，层层黑幕，尘封太久的罪恶被权贵们的血逐步冲刷
- 显形。那张权力、金钱、欲望织就的黑色秘网背后究竟
- 藏着多少不为人知的罪孽？\n豆瓣主页：https://movie.douban.
- com/subject/36073533/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《凌晨两点半3》
-DTSTART:20260403
-DESCRIPTION:影片聚焦一群好奇者深夜闯入废弃跨国医院寻
- 鬼。走廊贴满带泰国邪术符号的符咒，病房藏着中国民
- 间传说中的 “回魂镜”。凌晨两点半一到，怨灵接连现
- 身——穿泰式病服的女孩飘在输液架旁，中式旗袍虚影
- 在病房门后闪现。他们本想探寻医院当年中泰医生离奇
- 失踪真相，却触发古老诅咒，每一步都在逼近死亡……\n
- 豆瓣主页：https://movie.douban.com/subject/36990246/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《千金不换》
-DTSTART:20260501
-DESCRIPTION:妈妈万芸（马丽 饰）决心让身患自闭症却热爱
- 跑步的儿子楚星辰（范丞丞 饰）完成一场真正的全程马
- 拉松比赛，于是她“瞄准”了昔日的东北马拉松之王何
- 秋生（乔杉 饰），相信这位嗜赌如命的落魄教练就是最
- 合适的人选。几番波折后，原本毫不相干的他们在命运
- 的齿轮转动下开启了一场鸡飞狗跳的“人生马拉松”，
- 而每个人能否顺利跑向充满希望的“终点”？\n豆瓣主页
- ：https://movie.douban.com/subject/36918875/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《流浪地球3(上)》
-DTSTART:20270206
-DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
- 推进器，寻找新的家园。然而宇宙之路危机四伏，为了
- 拯救地球，为了人类能在漫长的2500年后抵达新家园，最
- 终，流浪地球时代的年轻人挺身而出，展开争分夺秒的
- 生死之战。\n豆瓣主页：https://movie.douban.com/subject/36212391/
+ 生死之战。\n豆瓣链接：https://movie.douban.com/subject/36212391/
 END:VEVENT
 END:VCALENDAR
