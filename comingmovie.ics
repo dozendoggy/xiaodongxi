@@ -2,109 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《偷天盗日》
-DTSTART;VALUE=DATE:20251024
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:落魄棒球手汉克·汤普森（奥斯汀·巴特勒AustinB
- utler饰）因帮邻居照看宠物猫，被迫卷入不得喘息的亡命
- 之旅。各派黑帮追杀让他身心几近崩溃，而这场腥风血
- 雨的罪魁祸首，竟是一只猫？\n豆瓣链接：https://movie.doub
- an.com/subject/36779171/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《陪你到清晨》
-DTSTART;VALUE=DATE:20251024
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:这是首部用真实影像记录的非虚构电影，讲述
- 了孩子在心理与精神困境中求救与自救的故事。\n豆瓣链
- 接：https://movie.douban.com/subject/37562114/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《向光花盛开》
-DTSTART;VALUE=DATE:20251024
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:我叫夏津生，做水产生意，45岁那年我儿子跳楼
- 自杀了，他死后第37天我进了他所有的群，我发现里面全
- 都是有抑郁倾向企图轻生的孩子，我不知道为什么，我
- 在“约死群”留言1万9千次，问过127个男孩，49个女孩，
- 到现在也没有答案……\n豆瓣链接：https://movie.douban.com/su
- bject/36956915/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《下一个台风》
-DTSTART;VALUE=DATE:20251025
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:台风刚过的海岛之上，一只眼受伤的城市女生
- 林沫沫（张子枫饰），与岛上土生土长的失语女孩阿汐
- （张伟丽饰）猝然相遇。当无情的风暴逐渐撕开两人隐
- 秘哀伤的过往，两个看似另类但炽热的青春，相互慰藉
- ，彼此支撑，用友情的力量对抗人生的台风。随着青蚵
- 嫂（李心洁饰）临终透露的惊天秘密和陈淑楠（姚晨饰
- ）的突然闯入，席卷沫沫与阿汐的下一个台风突如其来
- ，风眼之下，望风而逃还是迎风而上？她们必须做出抉
- 择。\n豆瓣链接：https://movie.douban.com/subject/36752985/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《阳光俱乐部》
-DTSTART;VALUE=DATE:20251025
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:吴优（黄晓明饰）虽已到不惑之年，但智商认
- 知水平仍停留在孩童时期。他人如其名，像孩子那般无
- 忧无虑，对世界抱有好奇。至今单身的吴优平日里与乐
- 观开朗的母亲沈丽萍（陆小芬饰）生活在一起。他在加
- 入了一个叫“阳光俱乐部”的成功学组织后成为了高级
- 合伙人，这时母亲却突患重病。哥哥吴迪（祖峰饰）作
- 为医生想尽办法为母亲治病，但吴优却选择了截然不同
- 的救母之路。他坚信只要让阳光照进内心，生命总会有
- 奇迹……\n豆瓣链接：https://movie.douban.com/subject/36754198/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《旁观者》
-DTSTART;VALUE=DATE:20251025
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:离家十六年的陈家辉（陈坤饰）在得知父亲陈
- 为民（王劲松饰）病危后，重返故乡。但父亲未留下只
- 言片语便匆匆离世。葬礼之后，陈家辉与哥哥陈家兴（
- 王砚辉饰）、姐姐陈家媛（刘敏涛饰）在整理父亲遗物
- 时，逐渐察觉父亲身上似乎隐藏着许多不为人知的秘密
- 。带着困惑与心结，陈家辉开始探寻父亲生前的生活轨
- 迹，试图拼凑出父亲真实的模样。在这个过程中，一段
- 埋藏了16年的家庭秘密逐渐被揭开，而这个秘密的核心，
- 正是家辉与父亲之间一生都未能解开的那个结。\n豆瓣链
- 接：https://movie.douban.com/subject/35614162/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《世界计划：无法歌唱的初音未来》
-DTSTART;VALUE=DATE:20251025
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:故事发生在以音乐为中心、次文化兴盛的涩谷
- ，与能映射出人们内心“真正的心愿”的「世界」中。
- 某天，一直用音乐给人们带去力量的虚拟歌手初音未来
- ，发现自己的歌声无论怎样都无法传达出去……而一群
- 在「世界」中追寻音乐梦想的少年少女们与初音未来相
- 遇，共同寻找着可以让初音未来“将歌声传达出去”的
- 方法。\n豆瓣链接：https://movie.douban.com/subject/36982741/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《带你回家》
-DTSTART;VALUE=DATE:20251025
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:为了实现父亲的遗愿，从小跟着父亲生活在美
- 国的张缘缘（王真儿饰）带着女儿回国，恰逢被她认定
- 为“抛弃了自己”的母亲（李萍饰）被确诊为阿尔兹海
- 默症，张缘缘与女儿一起经历了母亲逐渐失忆的过程。
- 随着现实和记忆的拼凑，张缘缘的思绪去到了80年代，“
- 遇到”了年轻时的母亲（赫林饰）。年轻时的母亲不仅
- 样貌出众，学习更是拔尖，而年轻时的父亲是那么不起
- 眼，在刚恢复高考的那年，母亲本该走出一条更光明的
- 人生，但一次意外，彻底改变了母亲、父亲以及张缘缘
- 的人生轨迹。\n豆瓣链接：https://movie.douban.com/subject/373591
- 80/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《天鹰战士：最后的冲击》
 DTSTART;VALUE=DATE:20251031
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:成为“第三次冲击”元凶的碇真嗣，变得像废
  人一样……真嗣还能振作起来吗？2012年《福音战士新剧
  场版：Q》之后，这部动画讲述了被封印的故事的后续。\
@@ -113,7 +13,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《怪猴》
 DTSTART;VALUE=DATE:20251031
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:当双胞胎兄弟哈尔和比尔在阁楼上发现父亲的
  旧猴子玩具之后，他们周围开始发生一系列可怕的死亡
  事件。兄弟俩决定把猴子扔掉，继续他们的生活，但多
@@ -125,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《即兴谋杀》
 DTSTART;VALUE=DATE:20251031
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:神秘孤岛上只有一座何家古堡，以前死过很多
  人。半瘫少女何思怡（李庚希饰）离家17年后归来，父亲
  却离奇失踪，迎接她的是美艳温柔的继母（邓家佳饰）
@@ -139,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《象山发光事件》
 DTSTART;VALUE=DATE:20251031
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:十年前的一次超自然发光事件导致张鹏（小沈
  阳饰）的好友神秘失踪，十年后，张鹏跟随摄制组重返
  事发地寻找真相。当他们再次来到“发光禁地”时却频
@@ -151,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《红嫁衣：纸新娘》
 DTSTART;VALUE=DATE:20251031
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:中元鬼节，阴间大门洞开！滔天鬼气喷涌，无
  数怨灵哀嚎爬入人间！凶神恶煞的五猖兵马手持染血铁
  链，当街撕扯活人魂魄，惨叫声撕裂夜空！修罗城瞬间
@@ -172,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《女孩》
 DTSTART;VALUE=DATE:20251101
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:1988年，基隆港烟尘蔽日，林小丽（白小樱饰）
  在迷惘中长大，渴望逃离黑暗。直到遇见无惧眼光、自
  在生活的李莉莉（林品彤饰），她才第一次看见世界的
@@ -185,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《极地大冒险3》
 DTSTART;VALUE=DATE:20251101
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:尼科的梦想要实现了！他和他的父亲可以成为
  圣诞老人驯鹿队的一员。然后突然斯特拉出现了，想要
  占有他的位置。虽然他们都在争夺这个位置，但他们也
@@ -196,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《日掛中天》
 DTSTART;VALUE=DATE:20251107
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:困于七年前一桩意外的两人再度相遇，美云（
  辛芷蕾饰）与葆树（张颂文饰）开始了一段爱恨交织、
  扭曲而痛苦的共生关系。在美云试图借其峰（冯绍峰饰
@@ -207,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《铁血战士：杀戮之地》
 DTSTART;VALUE=DATE:20251107
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:跟随一位被部落放逐的年轻铁血战士，深入一
  片连宇宙顶级猎手都闻风丧胆的险恶之地。在那里，他
  将与维兰德-汤谷公司制造的仿生人希雅（Thia）意外结盟
@@ -220,16 +120,25 @@ DESCRIPTION:跟随一位被部落放逐的年轻铁血战士，深入一
  ovie.douban.com/subject/36707378/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《小林家的龙丫头：怕寂寞的龙》
+DTSTART;VALUE=DATE:20251107
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
+DESCRIPTION:小林一家将迎来前所未有的挑战，异世界两大
+ 阵营战火一触即发，康娜父亲奇姆恩卡姆依决定带康娜
+ 归返异世界。“再见了，小林……”康娜将如何选择？\n
+ 豆瓣链接：https://movie.douban.com/subject/37037980/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《不要错过你》
 DTSTART;VALUE=DATE:20251107
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:影片改編自同名短片。\n豆瓣链接：https://movie.d
  ouban.com/subject/36642490/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《惊天魔盗团3》
 DTSTART;VALUE=DATE:20251114
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:因神秘塔罗牌的指引，那群用魔术“替天行盗
  ”的骑士们杀回来了！“初代四骑士”与三位新生代魔
  术师携手，目标直指一位钻石大亨——其家族凭借庞大
@@ -242,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三滴血》
 DTSTART;VALUE=DATE:20251115
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:三，是家的最小单位。血脉，是维系家庭的纽
  带。然而，三个素不相识的人却被命运交织在一起！\n豆
  瓣链接：https://movie.douban.com/subject/30286126/
@@ -250,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《菜肉馄饨》
 DTSTART;VALUE=DATE:20251115
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:上海的退休工程师老汪与儿子有一个约定，每
  周六小汪会回父母家一次，顺便吃碗老汪拿手的菜肉馄
  饨。为了让儿子早点结婚生子，老汪在爱人素娟的启发
@@ -262,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《神秘家书》
 DTSTART;VALUE=DATE:20251118
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:处于各种困顿中的华侨后人司徒光明偶然发现
  了家里的一封家书，他根据家书上的指引，与女朋友梅
  淑怡、发小胖子和富家子弟关子兴组成团队，开启了揭
@@ -278,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《狂野时代》
 DTSTART;VALUE=DATE:20251122
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:在一个人类已经不再做梦的世界里，有一个怪
  物依然整日沉迷于梦的幻觉中，他迷失了。而一个女人
  可以看清幻觉，于是她潜入了他的梦中去寻找……\n豆瓣
@@ -287,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《疯狂动物城2》
 DTSTART;VALUE=DATE:20251126
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:在《疯狂动物城2》中，警官兔朱迪（金妮弗·
  古德温GinniferGoodwin配音）与狐尼克（杰森·贝特曼JasonBate
  man配音）这对备受全球观众喜爱的搭档将再度携手，带
@@ -297,9 +206,17 @@ DESCRIPTION:在《疯狂动物城2》中，警官兔朱迪（金妮弗·
  ouban.com/subject/26817136/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《皮囊》
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
+DESCRIPTION:古时候，人与妖对立。妖披人皮混迹人间，以
+ 吸食人之阳寿为生。\n豆瓣链接：https://movie.douban.com/subje
+ ct/35633783/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《半夜叫你别回头2》
 DTSTART;VALUE=DATE:20251128
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:新婚的萧灵儿（陆烟饰）前往儿时的山间别墅
  度假。途中，诡异事件接踵而至，双生女童、深夜归来
  的守门人，让萧灵儿惊恐不已。次日，萧灵儿的闺蜜和
@@ -314,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《阿凡达：火与烬》
 DTSTART;VALUE=DATE:20251219
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:影片聚焦杰克·萨利与奈蒂莉一家的命运起伏，
  在前作的情感余波之上，深刻描绘一个家族在战火中如
  何成长、并共同守护血脉相连的情感纽带的历程，从而
@@ -327,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无名之辈：意义非凡》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:MadeinYiwu，goglobal.（义乌制造，走向世界。）一
  笔无法兑现的货款，让义乌小老板的工厂摇摇欲坠；一
  根不应出现的断指，让华人黑帮被当地警察盯上；一次
@@ -338,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《寻秦记》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:2030年，香港诸多现代物被抽取到秦朝，抽送中
  的生命体更是因此灰飞烟灭。拯救行动迫在眉睫，项少
  龙带领众人孤注一掷。秦王的欲望，家人的安危，是离
@@ -348,20 +265,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《用武之地》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
-DESCRIPTION:驻外记者马笑（肖央饰）和志愿医生潘文佳（
- 齐溪饰）夫妇，陪同工程师苗峰（郑恺饰）赴郊区修理
- 基站，当地局势突变。三人一路躲避恐怖组织的无差别
- 袭击，最终还是被绑架沦为人质，并在狱中结识了华侨
- 商人周伟杰（任达华饰）。面对恐怖份子闻所未闻的屠
- 杀暴行和以命换钱的勒索，他们历经105天，展开了一场
- 惊心动魄的自救逃生。\n豆瓣链接：https://movie.douban.com/su
- bject/35461578/
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
+DESCRIPTION:影片取材自境外幸存人质真实自救经历。\n豆瓣
+ 链接：https://movie.douban.com/subject/35461578/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《匿杀》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:地狱空荡荡，恶魔在人间。十五年前，一群身
  份各异的罪恶权贵将都马市染黑成一座“地狱岛”，十
  五年后，这些背后操盘者接连惨死，死状惨烈。桩桩命
@@ -373,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不过是上班》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:如果你发现领导只要一句“什么狗屁方案”，
  自己的人生就会进入无休止的循环.....\n豆瓣链接：https:/
  /movie.douban.com/subject/37193378/
@@ -381,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《凌晨两点半3》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:影片聚焦一群好奇者深夜闯入废弃跨国医院寻
  鬼。走廊贴满带泰国邪术符号的符咒，病房藏着中国民
  间传说中的“回魂镜”。凌晨两点半一到，怨灵接连现
@@ -393,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《千金不换》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:妈妈万芸（马丽饰）决心让身患自闭症却热爱
  跑步的儿子楚星辰（范丞丞饰）完成一场真正的全程马
  拉松比赛，于是她“瞄准”了昔日的东北马拉松之王何
@@ -406,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP;VALUE=DATE-TIME:20251022T180430Z
+DTSTAMP;VALUE=DATE-TIME:20251026T180350Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
