@@ -2,49 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《百川东到海》
-DTSTART;VALUE=DATE:20251118
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
-DESCRIPTION:暑假，与父亲居住在沙漠腹地的小海（吴潘芮
- 饰）独自进城寻母。他在路上“意外结识”少年元元（
- 王浩宇饰），二人在县城展开了一段“夏日奇旅”，小
- 海不被理解的“身份”也被揭开：守在沙乡的父亲，向
- 往大海的母亲，自己又该何去何从？！\n豆瓣链接：https:
- //movie.douban.com/subject/35470200/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《顺流而上》
-DTSTART;VALUE=DATE:20251118
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
-DESCRIPTION:安城某地出现“癌症村”，调查员刘森却意外
- 死亡，好友陆青云前往安城调查，竟遇到了自己失踪多
- 年的未婚妻，随着真相浮出水面，陆青云倍感煎熬，斗
- 争不断升级，他应该何去何从......？陆青云与搭档赵山
- 河在危机四伏的调查中，顶着各方压力孤勇前行，只为
- 探寻水污染源头，捍卫民众的安全底线。影片以真实事
- 件改编，首次向公众揭秘环保案件的侦破过程。\n豆瓣链
- 接：https://movie.douban.com/subject/36943030/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《神秘家书》
-DTSTART;VALUE=DATE:20251118
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
-DESCRIPTION:处于各种困顿中的华侨后人司徒光明偶然发现
- 了家里的一封家书，他根据家书上的指引，与女朋友梅
- 淑怡、发小胖子和富家子弟关子兴组成团队，开启了揭
- 秘之旅。在这个过程当中，剧情通过现实与过去两条线
- 交织方式推进。一方面是从现代向年代回溯；另一方面
- 从年代往前推进。剧情在寻宝途中四个人之间的合作、
- 猜疑、妒忌以及反目等事件当中进行反转。随着真相一
- 步一步揭露，两条主线在一个点上汇合。最后，人物性
- 格在华侨先祖的家国情怀当中获得了行动上和思想上的
- 升华，从小切口反映大时代的赞歌。\n豆瓣链接：https://m
- ovie.douban.com/subject/36659309/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《莫奈的睡莲：水波与光影的魔力》
 DTSTART;VALUE=DATE:20251121
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:纪录片《莫奈的睡莲：水波与光影的魔力》从
  印象派大师克劳德·莫奈艺术生涯的起点，法国北部的海
  港城市勒阿弗尔出发，沿着塞纳河逆流而上，寻访他居
@@ -60,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不该停止的追问》
 DTSTART;VALUE=DATE:20251121
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:王菁菁（柴蔚饰）的姐姐王遥（李梦饰）撇下
  幼女离奇自杀，其身上旧伤怵目。而姐夫俞寒冰（王宁
  饰）竟亮出亲子鉴定叫嚣着女儿非自己亲生。菁菁发誓
@@ -73,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《风雪飘摇》
 DTSTART;VALUE=DATE:20251121
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:故事背景发生在抗日战争时期，主角郭东是一
  名兽医，他的妻儿惨遭日本兵杀害，从此躲到了草原边
  陲的一个小镇上，过着惶惶不可终日的生活。郭东的自
@@ -86,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《狂野时代》
 DTSTART;VALUE=DATE:20251122
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:在一个人类已经不再做梦的世界里，有一个怪
  物依然整日沉迷于梦的幻觉中，他迷失了。而一个女人
  可以看清幻觉，于是她潜入了他的梦中去寻找……\n豆瓣
@@ -95,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《工作细胞》
 DTSTART;VALUE=DATE:20251122
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:人身体里的细胞承担着不同的工作职责，红细
  胞（永野芽郁饰）运输氧气、白细胞（佐藤健饰）与入
  侵者战斗，还有无数细胞共同守护人的健康。抵御细菌
@@ -106,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《李子洲》
 DTSTART;VALUE=DATE:20251122
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:1923年，李子洲在李大钊指引下加入中国共产党
  。北大毕业后，他接受李大钊委派，以绥德第四师范校
  长身份在陕北开展建党工作。面对军阀井岳秀的严密监
@@ -119,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《隐者山河》
 DTSTART;VALUE=DATE:20251125
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:《隐者山河》记录了旅法华人作曲家陈其钢对
  艺术和人生的求索过程。这是一部音乐纪录电影，也是
  一次有现实意义的文化巡礼。作为一位在中法文化氛围
@@ -130,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《疯狂动物城2》
 DTSTART;VALUE=DATE:20251126
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:在《疯狂动物城2》中，警官兔朱迪（金妮弗·
  古德温GinniferGoodwin配音）与狐尼克（杰森·贝特曼JasonBate
  man配音）这对备受全球观众喜爱的搭档将再度携手，带
@@ -142,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我的世界没有我》
 DTSTART;VALUE=DATE:20251127
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:影片以独特的视角，温暖的人性，聚焦当代人
  在亲情羁绊、职场压力、健康隐忧、子女成长与爱情婚
  姻中的焦虑与挣扎……当生活里藏满“笑着说没事”的
@@ -152,9 +112,27 @@ DESCRIPTION:影片以独特的视角，温暖的人性，聚焦当代人
  e.douban.com/subject/37473361/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《小丑爸爸》
+DTSTART;VALUE=DATE:20251127
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
+DESCRIPTION:讲述了一个关于欢乐、治愈、爱与付出的故事
+ 。年幼的笑笑在雁京杂技团长大，经历了母亲突然去世
+ 的艰难时刻。王鸣是雁京杂技团中一位优秀的小丑演员
+ ，因债务和情感问题，也陷入了人生的低谷。杂技团停
+ 办后，王鸣为还债暂管笑笑，而笑笑启发王鸣开办小丑
+ 花店，意外帮助王鸣重拾了对未来的信心。最终，王鸣
+ 决定承担起抚养笑笑的责任，从此笑笑有了自己的“小
+ 丑爸爸”。多年之后，王鸣坚守着对笑笑的承诺，笑笑
+ 却突然患上了重病。生活再次来到十字路口，王鸣和笑
+ 笑都开始重新思考生活的意义，他们都曾深爱着杂技艺
+ 术，于是两人决定放下手头的事情，为了传承杂技这一
+ 非物质文化遗产、重新恢复杂技团展开行动……\n豆瓣链
+ 接：https://movie.douban.com/subject/37069656/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《死钻倒影》
 DTSTART;VALUE=DATE:20251128
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:约翰年届七十，独居于蔚蓝海岸的豪华酒店。
  他被隔壁神秘女子吸引，唤起对1960年代作为国际间谍的
  回忆。女子突然失踪后，约翰陷入一连串光怪陆离的回
@@ -168,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《皮囊》
 DTSTART;VALUE=DATE:20251128
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:影片以古代妖人“换皮夺命”传说为背景，讲
  述妇人莲华（朱茵饰）12年前丢失的孩子终于被找回，一
  家人还未享受团圆的喜悦，接二连三的诡异事件却相继
@@ -180,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《英雄三元里》
 DTSTART;VALUE=DATE:20251128
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:1840年鸦片战争爆发，英军侵略军攻破广州，饱
  经鸦片毒害的百姓活在至暗时刻。萧岗士绅何玉成（严
  屹宽饰）受关天培之托嘱，立志寻找时机保卫广州城。
@@ -196,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《半夜叫你别回头2》
 DTSTART;VALUE=DATE:20251128
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:新婚的萧灵儿（陆烟饰）前往儿时的山间别墅
  度假。途中，诡异事件接踵而至，双生女童、深夜归来
  的守门人，让萧灵儿惊恐不已。次日，萧灵儿的闺蜜和
@@ -209,16 +187,41 @@ DESCRIPTION:新婚的萧灵儿（陆烟饰）前往儿时的山间别墅
  15166/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《团圆必胜》
+DTSTART;VALUE=DATE:20251129
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
+DESCRIPTION:病态赌徒文菁（蔡卓妍饰）跟讨厌赌博的全守
+ 正（张继聪饰）闪婚后，参加戒赌治疗班，却难忍赌瘾
+ 而被守正悉破，文菁搬返旧居决心戒赌，守正明白“同
+ 甘共苦”道理，决定与老婆共渡患难。富二代赌神Ian（
+ 朱栢康饰）对守正小时候让他出丑一事一直耿耿于怀，
+ 决心报复。守正妹妹知盈（吴家忻饰）和文菁弟弟文明
+ （邱士缙饰）被挟持在Ian开设的非法赌场，文菁为了营
+ 救二人，再次破戒，联同守正与Ian展开终极一赌……\n豆
+ 瓣链接：https://movie.douban.com/subject/37096553/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《天堂附近》
+DTSTART;VALUE=DATE:20251129
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
+DESCRIPTION:晓风出狱后患上了心脏疾病，手术之前回到阔
+ 别十余年的海边，追忆生命中的小天使，因而结识了楚
+ 冰、周群、胖哥。生活变得有趣，人生轨迹也悄然改变
+ 。晓风和楚冰相互走近，鸿沟却无法逾越，但出于对人
+ 贩子同样的憎恶，缺憾终以另一种方式弥补......\n豆瓣链
+ 接：https://movie.douban.com/subject/37816899/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《初吻》
 DTSTART;VALUE=DATE:20251205
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:“人就是会反反复复爱上同一个人”\n豆瓣链接
  ：https://movie.douban.com/subject/36894170/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《昨日青春》
 DTSTART;VALUE=DATE:20251205
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:近未来的东京，一场即将到来的灾难性地震让
  人们惶恐不安，生活阴云密布。一对好朋友优太（栗原
  飒人饰）和洸（日高由起刀饰）即将高中毕业。然而，
@@ -231,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《猎杀游戏》
 DTSTART;VALUE=DATE:20251205
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:在近未来的反乌托邦社会，电视真人秀《过关
  斩将》（TheRunningMan）以血腥的生存竞赛霸占收视榜首。
  参赛者被称为“跑者”（Runners），必须在职业杀手的追
@@ -242,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我最特别的朋友》
 DTSTART;VALUE=DATE:20251205
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:真正的友情从无关身份，而是两个迷茫的灵魂
  恰好相互照亮。生活失意的老郑与无处可去的亮亮相遇
  ，老郑意外成为网红，而亮亮成了他身边最坚定的搭档
@@ -251,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《最好的朋友》
 DTSTART;VALUE=DATE:20251205
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:有的人青春注定孤单，直到他们相遇。一个独
  来独往的问题高中生，一个被锁在家里的自闭症少年，
  一个从小被单亲家庭领养的使命少女，要演出一场不可
@@ -261,21 +264,22 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《内幕》
 DTSTART;VALUE=DATE:20251206
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
-DESCRIPTION:著名慈善基金会“济拔堂”一年一度的慈善晚
- 会，可谓高朋云集、花团锦簇。正当主席高盛文准备发
- 表年度致辞时，基金会财务总监杨滔突然离奇吊死在舞
- 台上！疑云笼罩之下，关于济拔堂内部有2亿善款不翼而
- 飞的传言甚嚣尘上，引起全社会关注。重重谜团令大律
- 师马迎风与警长柯定邦在机缘巧合下组成临时拍档，携
- 手调查这起慈善案的幕后真相。他们能否揭开隐藏在慈
- 善背后的层层黑幕，还社会以公义吗？\n豆瓣链接：https:
- //movie.douban.com/subject/30174089/
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
+DESCRIPTION:香港著名慈善基金会晚宴现场，财务总监杨滔
+ （任达华饰）离奇吊死在会场，疑云笼罩之下，两亿善
+ 款也不翼而飞！“良知律师”马迎风（郭富城饰）与“
+ 玩咖警长”柯定邦（吴镇宇饰）意外被卷入其中，随着
+ 二人调查不断深入，慈善表象之下的骇人罪恶也接连现
+ 形——操纵司法、买凶杀人、走私贩毒、勾结境外势力
+ ……善意变生意，民众的捐款竟沦为黑恶组织的血包！
+ 杨滔之死的真相到底是什么？他们能否将所有内幕公之
+ 于众，还社会以公道？\n豆瓣链接：https://movie.douban.com/su
+ bject/30174089/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《蜡笔小新：灼热的春日部舞者们》
 DTSTART;VALUE=DATE:20251206
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:春日部防卫队在“春日部儿童娱乐节”舞蹈比
  赛中，获得胜利，他们因此得到了前往印度的机会。在
  尽情享受印度旅游的过程中，小新和阿呆进入了一家神
@@ -284,9 +288,19 @@ DESCRIPTION:春日部防卫队在“春日部儿童娱乐节”舞蹈比
  密。\n豆瓣链接：https://movie.douban.com/subject/37161026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《比如父子》
+DTSTART;VALUE=DATE:20251206
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
+DESCRIPTION:十八岁的邹桥（孙宁饰）在父亲（宋洋饰）葬
+ 礼上失声，无法出口的悼词成为一生遗憾。十年后，邹
+ 桥在虚拟现实中重建父亲，借助拳击打开记忆黑匣。这
+ 一次，他能否宣告父亲的死亡？\n豆瓣链接：https://movie.d
+ ouban.com/subject/30305568/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《岁岁平安》
 DTSTART;VALUE=DATE:20251216
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:暴雨将至，轰隆隆的声音夹杂着人群的呼喊声
  砸向操场，正在参加小学田径比赛的唐平安重重的摔倒
  在地面，当母亲李枚赶到医院时，医生却给了再生一个
@@ -309,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《阿凡达：火与烬》
 DTSTART;VALUE=DATE:20251219
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:影片聚焦杰克·萨利与奈蒂莉一家的命运起伏，
  在前作的情感余波之上，深刻描绘一个家族在战火中如
  何成长、并共同守护血脉相连的情感纽带的历程，从而
@@ -322,7 +336,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《逆转上半场》
 DTSTART;VALUE=DATE:20251225
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:人生胜利组希文靠自己努力，打败99.9%香港人，
  却因误信朋友面临破产边缘。由深水湾搬到深水埗，势
  要在短时间内极速债务重组，一日未认输一日都未输！
@@ -337,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无名之辈：意义非凡》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:MadeinYiwu，goglobal.（义乌制造，走向世界。）一
  笔无法兑现的货款，让义乌小老板的工厂摇摇欲坠；一
  根不应出现的断指，让华人黑帮被当地警察盯上；一次
@@ -348,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《寻秦记》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:2030年，香港诸多现代物被抽取到秦朝，抽送中
  的生命体更是因此灰飞烟灭。拯救行动迫在眉睫，项少
  龙带领众人孤注一掷。秦王的欲望，家人的安危，是离
@@ -358,14 +372,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《用武之地》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:影片取材自境外幸存人质真实自救经历。\n豆瓣
  链接：https://movie.douban.com/subject/35461578/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《匿杀》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:地狱空荡荡，恶魔在人间。十五年前，一群身
  份各异的罪恶权贵将都马市染黑成一座“地狱岛”，高
  中生晓笛惨遭权贵凌辱致死；十五年后，这些背后操盘
@@ -379,7 +393,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不过是上班》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:如果你发现领导只要一句“什么狗屁方案”，
  自己的人生就会进入无休止的循环.....\n豆瓣链接：https:/
  /movie.douban.com/subject/37193378/
@@ -387,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《过家家》
 DTSTART;VALUE=DATE:20260101
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:远离家乡的租客钟不凡（彭昱畅饰）被老房东
  任爹（成龙饰）误识成离家多年的儿子，囊中羞涩的钟
  不凡不得不与独自漂泊的租客苏晓月(张佳宁饰)、斜杠中
@@ -400,7 +414,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《海绵宝宝：深海大冒险》
 DTSTART;VALUE=DATE:20260101
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:为了证明自己不再是“小不点”，海绵宝宝下
  定决心，要向蟹老板展现他真正的勇气。他毅然决然追
  随那位神秘的、纵横四海的幽灵海盗——“飞天魔鬼”
@@ -411,7 +425,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《飞行家》
 DTSTART;VALUE=DATE:20260117
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:李明奇（蒋奇明饰），一个沉迷飞行的东北犟
  种，为了爱人决定认命回到地面，把梦想锁进工具箱底
  。可生活的难题从四面八方奔涌而来，将他们逼至绝境
@@ -424,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《北回归线以北》
 DTSTART;VALUE=DATE:20260117
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:影片讲述了三组怀揣不同心结的人开着房车自
  驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口
  的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元
@@ -439,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《爆水管》
 DTSTART;VALUE=DATE:20260123
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:一个东南亚小镇中，卷王警察于大海（彭于晏
  饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。
  结果因为没有案子，警察将被全员辞退，“铁饭碗”成
@@ -453,7 +467,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《凌晨两点半3》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:影片聚焦一群好奇者深夜闯入废弃跨国医院寻
  鬼。走廊贴满带泰国邪术符号的符咒，病房藏着中国民
  间传说中的“回魂镜”。凌晨两点半一到，怨灵接连现
@@ -465,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《千金不换》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:妈妈万芸（马丽饰）决心让身患自闭症却热爱
  跑步的儿子楚星辰（范丞丞饰）完成一场真正的全程马
  拉松比赛，于是她“瞄准”了昔日的东北马拉松之王何
@@ -478,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP;VALUE=DATE-TIME:20251116T180527Z
+DTSTAMP;VALUE=DATE-TIME:20251117T180532Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
