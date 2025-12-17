@@ -4,7 +4,7 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《阿凡达：火与烬》
 DTSTART;VALUE=DATE:20251219
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:影片聚焦杰克·萨利与奈蒂莉一家的命运起伏，
  在前作的情感余波之上，深刻描绘一个家族在战火中如
  何成长、并共同守护血脉相连的情感纽带的历程，从而
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《魔法坏女巫2》
 DTSTART;VALUE=DATE:20251224
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:当大巫师卸下伪善的面具，古老预言被唤醒，
  邪恶势力卷土重来，魔法冲突全面升级！昔日挚友被迫
  分踞光明与阴影两端，这看似决绝的分离，却阻挡不了
@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《鱼刺》
 DTSTART;VALUE=DATE:20251224
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:李琪和母亲相依为命但关系紧绷，高考结束后
  ，她在鱼档帮母亲照顾生意。在同学小薇的生日聚会上
  ，李琪在对方挑衅下摔坏了小薇的手机，面对索赔危机
@@ -43,9 +43,20 @@ DESCRIPTION:李琪和母亲相依为命但关系紧绷，高考结束后
  /subject/35954611/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《林冰交响之夜：好莱坞碗演唱会》
+DTSTART;VALUE=DATE:20251224
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
+DESCRIPTION:25岁的格莱美奖获奖者Laufey是一位冰岛-中国艺
+ 术家，她的歌曲灵感源自爵士乐巨匠和古典音乐大师，
+ 同时又展现出只有21世纪的二十多岁年轻人才有的独特视
+ 角。她那浪漫且开创性的风格吸引了全球观众，成功打
+ 造出一个“Lauvers”的全球社区，售罄了每一场巡演的演
+ 出。\n豆瓣链接：https://movie.douban.com/subject/37089410/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《天堂附近》
 DTSTART;VALUE=DATE:20251224
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:晓风出狱后患上了心脏疾病，手术之前回到阔
  别十余年的海边，追忆生命中的小天使，因而结识了楚
  冰、周群、胖哥。生活变得有趣，人生轨迹也悄然改变
@@ -56,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《逆转上半场》
 DTSTART;VALUE=DATE:20251225
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:人生胜利组希文靠自己努力，打败99.9%香港人，
  却因误信朋友面临破产边缘。由深水湾搬到深水埗，势
  要在短时间内极速债务重组，一日未认输一日都未输！
@@ -71,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《点到为止》
 DTSTART;VALUE=DATE:20251227
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:“象形拳”传人金毛（尹正饰）因屡次逃赛被
  公众冠以假大师之名，却反而走红，也因此被资本选中
  ，返乡打造功夫小镇。期间金毛和“忍术馆”馆长崇洋
@@ -82,9 +93,28 @@ DESCRIPTION:“象形拳”传人金毛（尹正饰）因屡次逃赛被
  e.douban.com/subject/36466219/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《情圣3》
+DTSTART;VALUE=DATE:20251227
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
+DESCRIPTION:自认为婚姻美满的王照达发现生活里一场误会
+ 。但婚姻中多年积累的矛盾，还是因此彻底爆发。最终
+ 王照达改变了自己，找到了婚姻里真正的相处之道。\n豆
+ 瓣链接：https://movie.douban.com/subject/37351985/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《机器人之梦》
+DTSTART;VALUE=DATE:20251231
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
+DESCRIPTION:一只孤独的小狗遇到了一个机器人，偌大的城
+ 市中，他们互相依靠，温暖彼此。然而一次意外让小狗
+ 和机器人遗憾错过，从此他们只能把对彼此的想念藏进
+ 梦中。只是，反复梦见的人，还会重逢吗？\n豆瓣链接：
+ https://movie.douban.com/subject/35426925/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《寻秦记》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:来自21世纪的项少龙（古天乐饰）曾意外穿越，
  并助秦王（林峯饰）一统天下，这段跨越时空的宿命纠
  缠将两人紧紧捆绑，两人也成为亦师亦友的情感羁绊。
@@ -99,14 +129,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《用武之地》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:影片取材自境外幸存人质真实自救经历。\n豆瓣
  链接：https://movie.douban.com/subject/35461578/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《他年她日》
+DTSTART;VALUE=DATE:20251231
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
+DESCRIPTION:在一场世纪大地震后，矗立于海中央的“重力
+ 墙”将世界一分为二，形成两个不同的时区和重力环境
+ ，“优日区”的一天，是“长年区”的一年。长年区长
+ 大的薯仔（许光汉饰）对来自优日区的实习医生安晴（
+ 袁澧林饰）一见钟情，面对时间和地理的巨大阻碍，薯
+ 仔和安晴用尽全力双向奔赴，以年思念，以日相见。在
+ 失衡的时空里，他们能否坚定地爱到最后，守护这场刻
+ 骨铭心的爱恋？\n豆瓣链接：https://movie.douban.com/subject/370
+ 66724/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《匿杀》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:地狱空荡荡，恶魔在人间。十五年前，一群身
  份各异的罪恶权贵将都马市染黑成一座“地狱岛”，高
  中生晓笛惨遭权贵凌辱致死；十五年后，这些背后操盘
@@ -120,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《星际变种》
 DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:一场惨绝人寰的连环惨案，让雷杰米一直被恶
  灵缠身困扰。但只有他知道真正的凶手是一种“看不见
  、摸不着”的在阴影中潜伏的恶灵：无声逼近、瞬间夺
@@ -138,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《过家家》
 DTSTART;VALUE=DATE:20260101
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:远离家乡的租客钟不凡（彭昱畅饰）被老房东
  任爹（成龙饰）误识成离家多年的儿子，囊中羞涩的钟
  不凡不得不与独自漂泊的租客苏晓月(张佳宁饰)、斜杠中
@@ -151,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《海绵宝宝：深海大冒险》
 DTSTART;VALUE=DATE:20260101
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:为了证明自己不再是“小不点”，海绵宝宝下
  定决心，要向蟹老板展现他真正的勇气。他毅然决然追
  随那位神秘的、纵横四海的幽灵海盗——“飞天魔鬼”
@@ -162,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不过是上班》
 DTSTART;VALUE=DATE:20260110
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:一旦领导冒出一句“什么狗屁方案”，你的人
  生就将陷入无尽循环.....重复的职场里，有人摸鱼摆烂，
  有人趁机搞事，直到同事离奇“消失”，他才发现循环
@@ -173,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《马腾你别走》
 DTSTART;VALUE=DATE:20260116
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:行动不便的钢厂退休骨干老林（李幼斌饰）尽
  管过着无忧的退休生活，却是个十足的“不高兴”，他
  与懂得许多无用知识，却总是一事无成的闲人马腾（林
@@ -187,9 +231,38 @@ DESCRIPTION:行动不便的钢厂退休骨干老林（李幼斌饰）尽
  ps://movie.douban.com/subject/35358792/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《八府巡按》
+DTSTART;VALUE=DATE:20260116
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
+DESCRIPTION:清末，关东永昌府。二甲进士出身的知府贾正
+ 道，在吴师爷等众属下以及绅商协助下治理一府六县。
+ 一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡
+ 按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃
+ 诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间
+ ，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在
+ 精心筹划的步步为营与机缘运命的荒腔走板中，一场关
+ 乎发财还是发疯、升官还是“升天”的大戏拉开帷幕…
+ …\n豆瓣链接：https://movie.douban.com/subject/37657615/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《情缘曹雪芹》
+DTSTART;VALUE=DATE:20260116
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
+DESCRIPTION:影片聚焦于文学巨匠曹雪芹丰富而深邃的情感
+ 世界，从其生命经历中撷取动人篇章。电影不仅通过曹
+ 雪芹与生命中三位重要女性——芳青、荷香、云妹的动
+ 人情感交织，细腻展现了他的深情与胸怀；也刻画了他
+ 与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的
+ 友谊。这些源自现实生活的深切关怀与命运共鸣，最终
+ 凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血
+ 创作《红楼梦》的初心与动力，生动诠释了一种超越个
+ 人情爱、为天下女子立传的“大情大爱”。\n豆瓣链接：
+ https://movie.douban.com/subject/37929729/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《我的朋友安德烈》
 DTSTART;VALUE=DATE:20260117
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:性格迥异的李默（刘昊然饰）与安德烈（董子
  健饰）因为足球成为知己，而一场意外却让安德烈跟随
  年少往事一起消失在了李默的记忆中。多年后，李默在
@@ -200,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《飞行家》
 DTSTART;VALUE=DATE:20260117
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:李明奇（蒋奇明饰），一个沉迷飞行的东北犟
  种，为了爱人决定认命回到地面，把梦想锁进工具箱底
  。可生活的难题从四面八方奔涌而来，将他们逼至绝境
@@ -213,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《北回归线以北》
 DTSTART;VALUE=DATE:20260117
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:影片讲述了三组怀揣不同心结的人开着房车自
  驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口
  的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元
@@ -226,9 +299,21 @@ DESCRIPTION:影片讲述了三组怀揣不同心结的人开着房车自
  。\n豆瓣链接：https://movie.douban.com/subject/36941236/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《极限审判》
+DTSTART;VALUE=DATE:20260123
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
+DESCRIPTION:90分钟极限自证！顶尖侦探与AI审判法庭展开致
+ 命博弈。侦探雷文（克里斯·帕拉特饰）突陷杀妻疑云，
+ 被推上自己参与创建的AI法庭审判席。在倒计时结束前，
+ 他需要反向借助AI“天眼”系统搜寻铁证，然而随着调查
+ 的深入，每个人的“面具”都被逐一揭开。雷文最终会
+ 绝境翻盘脱罪，还是难逃死刑判决？\n豆瓣链接：https://m
+ ovie.douban.com/subject/36749573/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《爆水管》
 DTSTART;VALUE=DATE:20260123
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:一个东南亚小镇中，卷王警察于大海（彭于晏
  饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。
  结果因为没有案子，警察将被全员辞退，“铁饭碗”成
@@ -242,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《凌晨两点半3》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:影片聚焦一群好奇者深夜闯入废弃跨国医院寻
  鬼。走廊贴满带泰国邪术符号的符咒，病房藏着中国民
  间传说中的“回魂镜”。凌晨两点半一到，怨灵接连现
@@ -254,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《千金不换》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:妈妈万芸（马丽饰）决心让身患自闭症却热爱
  跑步的儿子楚星辰（范丞丞饰）完成一场真正的全程马
  拉松比赛，于是她“瞄准”了昔日的东北马拉松之王何
@@ -267,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP;VALUE=DATE-TIME:20251215T180253Z
+DTSTAMP;VALUE=DATE-TIME:20251217T180332Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
