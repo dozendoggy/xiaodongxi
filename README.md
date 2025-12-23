@@ -11,7 +11,7 @@ https://dozendoggy.github.io/xiaodongxi/comingmovie.ics
 在映日历：
 复制文件链接
 https://dozendoggy.github.io/xiaodongxi/nowplayingmovie_{省会城市拼音}.ics
-例如：https://dozendoggy.github.io/xiaodongxi/nowplayingmovie_beijing.ics
+例如：https://dozendoggy.github.io/xiaodongxi/nowplayingmovie_hangzhou.ics
 在日历app中订阅，可以在日历中看到本周在映电影的名称及评分。
 
 有意见或者建议请多多提出，谢谢☺️
