@@ -2,75 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《密探》
-DTSTART;VALUE=DATE:20260327
-DTSTAMP:20260325T170422Z
-DESCRIPTION:　　1977年，在被军事独裁统治折磨的巴西，四
- 十多岁的马塞洛逃离了他混乱的过去，来到累西腓，希
- 望在这里建立新的生活并与家人重修旧好。然而，他并
- 未料到死亡威胁如影随形，笼罩在他的头顶。\n豆瓣链接
- ：https://movie.douban.com/subject/36697078/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《拆弹专家2》
-DTSTART;VALUE=DATE:20260328
-DTSTAMP:20260325T170422Z
-DESCRIPTION:　　香港某处发生爆炸案，前拆弹专家潘乘风
- （刘德华饰）因昏迷于现场，被警方怀疑牵涉其中。苏
- 醒后的潘乘风只能一边逃亡一边查明真相，然而，他的
- 好友董卓文（刘青云饰）和他的前女友庞玲（倪妮饰）
- 却给他讲述了两段截然不同的经历。有计划的爆炸案接
- 二连三发生，真相却越来越扑朔迷离……\n豆瓣链接：htt
- ps://movie.douban.com/subject/30171424/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《蜂蜜的针》
-DTSTART;VALUE=DATE:20260328
-DTSTAMP:20260325T170422Z
-DESCRIPTION:　　性格孤僻的农科院研究员支宁（袁泉饰）
- ，在爱情里四处碰壁。在一次文学讲座上，她对作家寇
- 逸（耿乐饰）一见钟情，从此陷入偏执爱情的她开始悄
- 悄跟在寇逸身后……在偶然的契机下，支宁应寇逸之邀
- 加入一场旅行。本以为是靠近心意的“爱情”之旅，却
- 没料到途中变故接踵而至，逐渐成为了一场亡命之行。
- 蹊跷的命案接连发生，所有人和事都在朝着完全失控的
- 方向狂奔……　　以爱之名的潘多拉魔盒已然开启，当
- 爱意被执念裹挟，人究竟会为了守住所谓的“爱”，突
- 破多少不可逾越的边界？\n豆瓣链接：https://movie.douban.com
- /subject/26022233/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《绿液惊魂》
-DTSTART;VALUE=DATE:20260328
-DTSTAMP:20260325T170422Z
-DESCRIPTION:　　两个值守夜班的“倒霉蛋”甜点心（乔·基
- 瑞饰）和内奥米（乔治娜·坎贝尔饰），意外发现了疯狂
- 繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人
- 发出求救信号。“淡淡死感”的退休特工罗伯特（连姆·
- 尼森饰）被迫再就业，重新上岗拯救即将被真菌腐蚀的
- 世界。他们一边躲避着因寄生而绿液四溅的宿主们，一
- 边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜
- 盲盒”。这组画风迥异的“临时战友”能否阻挡这场末
- 日浩劫？谁又能活着走出这个惊魂之夜……\n豆瓣链接：
- https://movie.douban.com/subject/34968393/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《搜查瑠公圳》
-DTSTART;VALUE=DATE:20260328
-DTSTAMP:20260325T170422Z
-DESCRIPTION:　　根据1961年轰动全台的“瑠公圳分尸大案”
- 改编。刑警赵子午（朱轩洋饰）与记者张秀秀（吴卓源
- 饰）在得知女尸案有幕后阴谋后，联手搏命找寻真相。
- 警方也随后发布巨额悬赏。不料，赵子午父亲、抗日将
- 军赵志升（张世饰）被列为分尸案嫌犯。媒体得知后开
- 始疯狂报道，一时间这起混杂血案、舆论、政敌的分尸
- 案闹得全城震动……\n豆瓣链接：https://movie.douban.com/subje
- ct/35736046/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《我，许可》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP:20260325T170422Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　00后“母单”女孩儿许可（文淇饰）面临一
  场迫在眉睫的妇科手术，却因妈妈胡春蓉（秦海璐饰）
  的突袭式造访打乱了所有计划。母女同居，冲突乍起。
@@ -84,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《超级马力欧银河大电影》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP:20260325T170422Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　重返奇妙世界，探索浩瀚宇宙，罗莎塔公
  主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷
  炫的版图，呈现更精彩纷呈的冒险。\n豆瓣链接：https://m
@@ -93,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我的妈耶》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP:20260325T170422Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　十一（黄明昊饰）从小由父亲张永勋（白
  客饰）独自抚养长大，自出生时就离世的妈妈东玉（马
  思纯饰）对于他而言则是陌生人般的存在。处于青春叛
@@ -111,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《北回归线以北》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP:20260325T170422Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　影片讲述了三组怀揣不同心结的人开着房
  车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍
  糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩
@@ -126,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《凌晨两点半3》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP:20260325T170422Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　影片聚焦一群好奇者深夜闯入废弃跨国医
  院寻鬼。医院残留中泰双重视觉惊悚：走廊贴满带泰国
  邪术符号的符咒，病房藏着中国民间传说中的“回魂镜
@@ -139,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《蝴蝶楼·惊魂》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP:20260325T170422Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　神秘的陆家别墅又叫蝴蝶楼，是出了名的
  凶宅。理疗师李晗（李梦饰）、心怀鬼胎的阿伟（刘思
  维饰）先后住了进来。此后，一桩桩离奇事件接踵而至
@@ -153,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《八子参军》
 DTSTART;VALUE=DATE:20260403
-DTSTAMP:20260325T170422Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　影片取材于中央苏区真实历史事件——土
  地革命时期，瑞金沙洲坝农民杨大妈响应中央“扩大百
  万铁红军”的号召，忍痛将八个儿子先后送入红军队伍
@@ -164,20 +98,23 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《天才游戏》
 DTSTART;VALUE=DATE:20260404
-DTSTAMP:20260325T170422Z
-DESCRIPTION:　　穷途末路的刘全龙（彭昱畅饰），被富家
- 公子陈伦（丁禹兮饰）选中，卷入一场充满诱惑的“身
- 份游戏”！向前是唾手可得的顶配人生，后退是无法挣
- 脱的现实牢笼，诱惑与危机暗涌，真实与谎言交织，交
- 易之中似乎暗藏杀机。　　当身份互换的齿轮转动，两
- 位少年究竟是被迫入局，还是主动沉沦？一场换命赌局
- ，悄然开启……\n豆瓣链接：https://movie.douban.com/subject/351
- 59709/
+DTSTAMP:20260329T170418Z
+DESCRIPTION:　　穷途末路的天才少年刘全龙（彭昱畅饰）
+ ，被偏执富家公子陈伦（丁禹兮饰）选中，被迫踏入一
+ 场为他量身打造的“换命游戏”。豪华别墅、名车名表
+ 、神秘女友全部备齐，在陈伦的精心打造下，刘全龙瞬
+ 间拥有顶配人生。这场表面上各取所需的交易，暗地里
+ 却杀机渐起。当众星捧月的快感喂大了野心，贪婪的目
+ 光开始盯上原主拥有的一切，那个曾经温顺的“猎物”
+ ，开始在暗处亮出獠牙，而掌控一切的“猎人”似乎也
+ 早有筹谋。无名的尸体、操控与反噬、扮演与沉沦，这
+ 场游戏里，究竟是谁在控制谁？\n豆瓣链接：https://movie.d
+ ouban.com/subject/35159709/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《阳光女子合唱团》
 DTSTART;VALUE=DATE:20260404
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　故事讲述了李惠贞（陈意涵饰）在狱中生
  下了女儿芸熙，却因故不得不和她分离。为了给即将离
  开的女儿留下美好回忆，惠贞决定组建一支合唱团。在
@@ -188,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《角头：大桥头》
 DTSTART;VALUE=DATE:20260410
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　大桥头第二代接班人麦克（王阳明饰）强
  势崛起，瞒着父亲与兄弟（张怀秋饰）暗中重整角头新
  秩序，他以狠辣手段清除异己，妄图收拢地盘。此举瞬
@@ -198,9 +135,18 @@ DESCRIPTION:　　大桥头第二代接班人麦克（王阳明饰）强
  链接：https://movie.douban.com/subject/36126098/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《植物学家》
+DTSTART;VALUE=DATE:20260414
+DTSTAMP:20260329T170418Z
+DESCRIPTION:　　影片讲述中国新疆北部边境的山谷村庄里
+ ，孤独的哈萨克族男孩与植物为伴，他在追寻逝去的时
+ 光中，逐渐隐入植物世界的梦幻寓言。\n豆瓣链接：https:
+ //movie.douban.com/subject/36053104/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《器子》
 DTSTART;VALUE=DATE:20260418
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　当至亲成为器官黑市中的“商品”，一位
  父亲选择了最残酷的复仇！前棒球教练张其茂在经历女
  儿被偷、妻子自杀、自身蒙冤入狱的沉重打击下，多年
@@ -214,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不能错过的只有你2》
 DTSTART;VALUE=DATE:20260418
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　主要讲述了主人公余晚空在他的旅途中偶
  然遇到了一个境遇相似的女子，并决定与她一起前往美
  丽的大凉山。在相处的过程中，他们不仅解决了彼此之
@@ -222,9 +168,23 @@ DESCRIPTION:　　主要讲述了主人公余晚空在他的旅途中偶
  //movie.douban.com/subject/36754304/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《迈克尔·杰克逊：巨星之路》
+DTSTART;VALUE=DATE:20260424
+DTSTAMP:20260329T170418Z
+DESCRIPTION:　　影片讲述迈克尔·杰克逊在音乐之外的人生
+ 旅程，从他以杰克逊五人组主唱之姿被发掘出惊人天赋
+ 的那一刻起，直到他成为一位极具远见的艺人，他以无
+ 穷无尽的创作能力激励自己成为全世界最伟大的娱乐巨
+ 星。　　这部电影同时呈现迈克尔·杰克逊舞台之外的真
+ 实人生，并且重现他早期个人演艺生涯中最具代表性的
+ 经典表演，这部电影为观众提供最贴近的视角，以前所
+ 未见的方式窥探这位流行天王的内心世界。他的故事就
+ 此展开。\n豆瓣链接：https://movie.douban.com/subject/35948919/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《登月(第一部)》
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　38万公里，53天，中国探月工程嫦娥六号任
  务完成了人类首次月背采样返回——从那个永远背对地
  球、充满未知的世界带了一捧月壤回来。2024年5月，海南
@@ -243,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《穿普拉达的女王2》
 DTSTART;VALUE=DATE:20260430
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　影片直面数字时代时尚行业的迭代浪潮，
  当曾经指引潮流的时尚圣经《Runway》杂志遭遇前所未有
  的生存危机，“时尚女魔头”米兰达（梅丽尔·斯特里普
@@ -258,22 +218,9 @@ DESCRIPTION:　　影片直面数字时代时尚行业的迭代浪潮，
  36956594/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《千金不换》
-DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260325T170423Z
-DESCRIPTION:　　妈妈万芸（马丽饰）决心让身患自闭症却
- 热爱跑步的儿子楚星辰（范丞丞饰）完成一场真正的全
- 程马拉松比赛，于是她“瞄准”了昔日的东北马拉松之
- 王何秋生（乔杉饰），相信这位嗜赌如命的落魄教练就
- 是最合适的人选。几番波折后，原本毫不相干的他们在
- 命运的齿轮转动下开启了一场鸡飞狗跳的“人生马拉松
- ”，而每个人能否顺利跑向充满希望的“终点”？\n豆瓣
- 链接：https://movie.douban.com/subject/36918875/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《森中有林》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　下岗狱警廉加海（于和伟饰）与昔日爱人
  王秀义（高圆圆饰）多年后重逢，旧情复燃之际，却意
  外卷入一场被精心掩盖的凶案——两个家、三代人，就
@@ -284,9 +231,17 @@ DESCRIPTION:　　下岗狱警廉加海（于和伟饰）与昔日爱人
  36372941/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《猪猪侠大电影之竞速小英雄》
+DTSTART;VALUE=DATE:20260501
+DTSTAMP:20260329T170418Z
+DESCRIPTION:　　猪猪侠与星航携手穿越时空，以赛车为武
+ 器，拯救被神秘物质“P型剂”影响的车神银河。\n豆瓣
+ 链接：https://movie.douban.com/subject/37193307/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《真人快打2》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　过气好莱坞演员强尼·凯奇（卡尔·厄本饰
  ）被意外选中，加入一场决定地球命运的真人快打。吉
  塔娜（阿德莱恩·鲁道夫饰）、刀锋索尼娅（杰西卡·麦
@@ -299,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《为我的心动买单》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　分手后的夏临（戚薇饰）一心扑在事业上
  ，在“不相信爱情”的自我和时代面前，推出“真爱保
  险”，试图通过用户的分手率提高个人业绩和公司收益
@@ -313,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错过了，遗憾吗？》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　刚大学毕业的吴小北（庄达菲饰）被初恋
  男友李天昊（周澄奧饰）断崖式分手后陷入无尽的情绪
  反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽饰）像
@@ -324,9 +279,21 @@ DESCRIPTION:　　刚大学毕业的吴小北（庄达菲饰）被初恋
  36117834/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《大圣崛起》
+DTSTART;VALUE=DATE:20260710
+DTSTAMP:20260329T170418Z
+DESCRIPTION:　　硬币有两面，很多时候，人们只能看到其
+ 中的一面。《混世之王：大圣崛起》讲述的故事，是西
+ 行背后的故事，是硬币的另一面，关于另外一个真相的
+ 故事。大闹天宫500年后，大圣答应佛祖用14年的时间，护
+ 送一个和尚去西天取经。大圣的行为，引起同族弟兄的
+ 不解，纷纷起而阻止……\n豆瓣链接：https://movie.douban.com
+ /subject/26822087/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260325T170423Z
+DTSTAMP:20260329T170418Z
 DESCRIPTION:　　太阳即将毁灭，人类在地球表面建造出巨
  大的推进器，寻找新的家园。然而宇宙之路危机四伏，
  为了拯救地球，为了人类能在漫长的2500年后抵达新家园
