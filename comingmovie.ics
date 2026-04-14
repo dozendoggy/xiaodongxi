@@ -4,7 +4,7 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《情感价值》
 DTSTART;VALUE=DATE:20260417
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　姐妹Nora和Agnes与疏远的父亲——魅力非凡
  的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参
  演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发
@@ -15,9 +15,20 @@ DESCRIPTION:　　姐妹Nora和Agnes与疏远的父亲——魅力非凡
  01/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《寻龙诀·觅踪》
+DTSTART;VALUE=DATE:20260417
+DTSTAMP:20260414T170416Z
+DESCRIPTION:　　故事发生在20世纪90年代，讲述了本已打算
+ 金盆洗手的摸金三人组胡八一（张涵予饰）、王凯旋（
+ 姜武饰）、Shirley杨（卢靖姗饰）在大金牙的劝说下又操
+ 起老本行，但原本以为只是简单任务的他们却因意外身
+ 陷危机，不得不重新踏上凶险万分的地下之旅。\n豆瓣链
+ 接：https://movie.douban.com/subject/30330057/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《器子》
 DTSTART;VALUE=DATE:20260418
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　当至亲成为器官黑市中的“商品”，一位
  父亲选择了最残酷的复仇！前棒球教练张其茂在经历女
  儿被偷、妻子自杀、自身蒙冤入狱的沉重打击下，多年
@@ -31,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不能错过的只有你2》
 DTSTART;VALUE=DATE:20260418
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　风流不羁的房地产销冠江来（吴翊歌饰）
  ，为利益化身“深情画家”，步步为营接近倔强女医生
  李梦（李萌萌饰）。他算计利益得失，她却赌上了余生
@@ -44,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《迈克尔·杰克逊：巨星之路》
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　影片讲述迈克尔·杰克逊在音乐之外的人生
  旅程，从他以杰克逊五人组主唱之姿被发掘出惊人天赋
  的那一刻起，直到他成为一位极具远见的艺人，他以无
@@ -58,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《登月(第一部)》
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　38万公里，53天，中国探月工程嫦娥六号任
  务完成了人类首次月背采样返回——从那个永远背对地
  球、充满未知的世界带了一捧月壤回来。2024年5月，海南
@@ -75,9 +86,22 @@ DESCRIPTION:　　38万公里，53天，中国探月工程嫦娥六号任
  ovie.douban.com/subject/38362649/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《寂静的朋友》
+DTSTART;VALUE=DATE:20260425
+DTSTAMP:20260414T170416Z
+DESCRIPTION:　　在德国一座中世纪大学城的植物园中，一
+ 棵古老的银杏树静静矗立，见证着三个时代中人与自然
+ 之间的深层联结。1908年，大学首位女性学生透过摄影镜
+ 头，在植物的微观结构中发现宇宙的神圣秩序；1972年，
+ 一位沉默的青年在观察天竺葵的过程中，悄然改变了对
+ 世界的感知；2020年，一位来自香港的神经科学家在研究
+ 婴儿意识的同时，与这棵树展开一场意想不到的实验。\n
+ 豆瓣链接：https://movie.douban.com/subject/26967871/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《燃比娃》
 DTSTART;VALUE=DATE:20260428
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　影片故事源自羌族神话，讲述了一只被人
  类抚养长大的猴子，追寻母亲阿勿巴吉（周迅配音）的
  足迹，踏上神山探寻“温暖”之谜的旅程。他在“恐惧
@@ -87,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《穿普拉达的女王2》
 DTSTART;VALUE=DATE:20260430
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　影片直面数字时代时尚行业的迭代浪潮，
  当曾经指引潮流的时尚圣经《Runway》杂志遭遇前所未有
  的生存危机，“时尚女魔头”米兰达（梅丽尔·斯特里普
@@ -104,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《寒战1994》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　2017年，李文彬（梁家辉饰）突然失踪，与
  此同时，蔡元祺在英国惨遭暗杀。为此，刘杰辉（郭富
  城饰）向简奥伟（周润发饰）寻求协助，开启了一份1994
@@ -119,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《森中有林》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　下岗狱警廉加海（于和伟饰）被吕新开（
  韩庚饰）意外打瞎了一只眼，却转头安排自己闺女廉婕
  （张天爱饰）和他相亲，以为可以用一只眼换来闺女一
@@ -134,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《消失的人》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　居民楼里的灯亮了又灭，离奇案件接连发
  生：房子里藏着什么秘密？谁在黑暗中窥视着他们？小
  区内每个看似寻常的居民，似乎都有不可告人的一面。
@@ -145,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《10间敢死队》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　医院走廊尽头的10号房是一个特别的存在，
  别看这里住着的都是重症病人，但却每天欢声笑语热闹
  非凡。而故事就从章小兵（蒋龙饰）跳楼未遂的那天开
@@ -156,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三心两意》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　当江芮琳（林依晨饰）意外撞上老公罗斌
  （孙艺洲饰）的出轨现场，并机缘巧合救下了陷入困境
  的余小鱼（张艺凡饰）时，才意识到现实比戏剧更抓马
@@ -171,15 +195,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《猪猪侠大电影之竞速小英雄》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260414T011427Z
-DESCRIPTION:　　猪猪侠与星航携手穿越时空，以赛车为武
- 器，拯救被神秘物质“P型剂”影响的车神银河。\n豆瓣
- 链接：https://movie.douban.com/subject/37193307/
+DTSTAMP:20260414T170416Z
+DESCRIPTION:　　在这场前所未有的时空竞速里，猪猪侠和
+ 星航这对“最佳损友”驾驶着星际列车穿越时空回到过
+ 去、他们能否可以扭转命运，在最终的赛场上改写结局
+ ，守护赛车梦想？\n豆瓣链接：https://movie.douban.com/subject/
+ 37193307/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《真人快打2》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　过气好莱坞演员强尼·凯奇（卡尔·厄本饰
  ）被意外选中，加入一场决定地球命运的真人快打。吉
  塔娜（阿德莱恩·鲁道夫饰）、刀锋索尼娅（杰西卡·麦
@@ -192,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《青铜葵花》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　曹文轩经典文学改编。　　一场命运安排
  ，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦
  地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两
@@ -203,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错过了，遗憾吗？》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　刚大学毕业的吴小北（庄达菲饰）被初恋
  男友李天昊（周澄奧饰）断崖式分手后陷入无尽的情绪
  反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽饰）像
@@ -216,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《为我的心动买单》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　分手后的夏临（戚薇饰）一心扑在事业上
  ，在“不相信爱情”的自我和时代面前，推出“真爱保
  险”，试图通过用户的分手率提高个人业绩和公司收益
@@ -230,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错时告白》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　一次上天安排的邂逅，让有情人盖伊（翁
  拉维·那提通饰）和朱恩（普莉恩皮察雅·克玛拉娜君饰
  ）互生情愫，却又因为一次次命运的作弄，逐渐成为友
@@ -241,9 +267,20 @@ DESCRIPTION:　　一次上天安排的邂逅，让有情人盖伊（翁
  an.com/subject/35903155/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《爱是愤怒》
+DTSTART;VALUE=DATE:20260619
+DTSTAMP:20260414T170416Z
+DESCRIPTION:　　无论工作还是生活，刘浩（王安宇饰）一
+ 直都是被轻视的那个。直到遇见菜菜（王玉雯饰），两
+ 个年轻人坠入爱河。然而，就在他们信心满满，想要展
+ 开美好未来时，一场意外彻底颠覆了他们的生活。面对
+ 险恶的世界，屈辱的人生，他们选择了不一样的反抗…
+ …\n豆瓣链接：https://movie.douban.com/subject/37152802/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《大圣崛起》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　硬币有两面，很多时候，人们只能看到其
  中的一面。《混世之王：大圣崛起》讲述的故事，是西
  行背后的故事，是硬币的另一面，关于另外一个真相的
@@ -255,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260414T011427Z
+DTSTAMP:20260414T170416Z
 DESCRIPTION:　　太阳即将毁灭，人类在地球表面建造出巨
  大的推进器，寻找新的家园。然而宇宙之路危机四伏，
  为了拯救地球，为了人类能在漫长的2500年后抵达新家园
