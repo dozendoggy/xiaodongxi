@@ -2,49 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《情感价值》
-DTSTART;VALUE=DATE:20260417
-DTSTAMP:20260415T170438Z
-DESCRIPTION:　　姐妹Nora和Agnes与疏远的父亲——魅力非凡
- 的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参
- 演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发
- 现，父亲已将她的角色转给了一位野心勃勃的好莱坞新
- 星。突如其来的变故迫使两姐妹直面与父亲的复杂纠葛
- ，而这位美国明星的加入，更让本就微妙的家庭关系陷
- 入新的波澜。\n豆瓣链接：https://movie.douban.com/subject/364135
- 01/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《器子》
-DTSTART;VALUE=DATE:20260418
-DTSTAMP:20260415T170438Z
-DESCRIPTION:　　当至亲成为器官黑市中的“商品”，一位
- 父亲选择了最残酷的复仇！前棒球教练张其茂在经历女
- 儿被偷、妻子自杀、自身蒙冤入狱的沉重打击下，多年
- 后出狱的他发现女儿的失踪背后隐藏着更恐怖的阴谋—
- —她可能已成为活体器官买卖网络中的“器子”。为揭
- 开骇人真相并找回女儿，张其茂毅然化身复仇者，独自
- 闯入由金钱与暴力筑成的罪恶迷局，开启了一场以命相
- 搏、惊心动魄的终极对抗。\n豆瓣链接：https://movie.douban.
- com/subject/35882592/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《不能错过的只有你2》
-DTSTART;VALUE=DATE:20260418
-DTSTAMP:20260415T170438Z
-DESCRIPTION:　　风流不羁的房地产销冠江来（吴翊歌饰）
- ，为利益化身“深情画家”，步步为营接近倔强女医生
- 李梦（李萌萌饰）。他算计利益得失，她却赌上了余生
- 信任，他们之间，连错过都像一场预谋。一场以利益为
- 起点的相遇，却让他在这段关系中动了真心，在情感与
- 利益中疯狂撕扯。当真相被揭开时，这场以欺骗开场的
- 相遇，能否在真心面前低头？是选择放手，还是为爱再
- 赌一次？\n豆瓣链接：https://movie.douban.com/subject/36754304/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《迈克尔·杰克逊：巨星之路》
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　影片讲述迈克尔·杰克逊在音乐之外的人生
  旅程，从他以杰克逊五人组主唱之姿被发掘出惊人天赋
  的那一刻起，直到他成为一位极具远见的艺人，他以无
@@ -58,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《登月(第一部)》
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　38万公里，53天，中国探月工程嫦娥六号任
  务完成了人类首次月背采样返回——从那个永远背对地
  球、充满未知的世界带了一捧月壤回来。2024年5月，海南
@@ -77,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《寂静的朋友》
 DTSTART;VALUE=DATE:20260425
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　在德国一座中世纪大学城的植物园中，一
  棵古老的银杏树静静矗立，见证着三个时代中人与自然
  之间的深层联结。1908年，大学首位女性学生透过摄影镜
@@ -90,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《燃比娃》
 DTSTART;VALUE=DATE:20260428
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　影片故事源自羌族神话，讲述了一只被人
  类抚养长大的猴子，追寻母亲阿勿巴吉（周迅配音）的
  足迹，踏上神山探寻“温暖”之谜的旅程。他在“恐惧
@@ -100,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《穿普拉达的女王2》
 DTSTART;VALUE=DATE:20260430
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　影片直面数字时代时尚行业的迭代浪潮，
  当曾经指引潮流的时尚圣经《Runway》杂志遭遇前所未有
  的生存危机，“时尚女魔头”米兰达（梅丽尔·斯特里普
@@ -117,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《给阿嬷的情书》
 DTSTART;VALUE=DATE:20260430
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　潮汕阿嬷叶淑柔一直守着平淡的日子，安
  享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻
  找传闻中已成亿万富豪的阿公郑木生。然而，一个令人
@@ -129,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《寒战1994》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　2017年，李文彬（梁家辉饰）突然失踪，与
  此同时，蔡元祺在英国惨遭暗杀。为此，刘杰辉（郭富
  城饰）向简奥伟（周润发饰）寻求协助，开启了一份1994
@@ -144,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《森中有林》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　下岗狱警廉加海（于和伟饰）被吕新开（
  韩庚饰）意外打瞎了一只眼，却转头安排自己闺女廉婕
  （张天爱饰）和他相亲，以为可以用一只眼换来闺女一
@@ -159,21 +119,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《消失的人》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260415T170438Z
-DESCRIPTION:　　本片改编自豆瓣阅读连载小说《海葵》，
- 作者贝客邦。　　一个寻常的清晨，唐宇（郑恺饰）的
- 儿子在楼梯间凭空消失；隔壁单元里，独居女孩林雨彤
- （刘浩存饰）在熟睡中被人侵犯；赌鬼租客严午（邱泽
- 饰）满身血污，谎编踪迹藏匿尸体。这栋看似平静、不
- 起眼的居民楼里，每个擦肩而过的“熟人”，都有可能
- 是藏着獠牙的恶鬼。当人心比鬼更可怕时，你每天出入
- 的家门，都可能是通往地狱的入口……\n豆瓣链接：https:
+DTSTAMP:20260419T170433Z
+DESCRIPTION:　　一个寻常的清晨，唐宇（郑恺饰）的儿子
+ 在楼梯间凭空消失；隔壁单元里，独居女孩林雨彤（刘
+ 浩存饰）在熟睡中被人侵犯；赌鬼租客严午（邱泽饰）
+ 满身血污，谎编踪迹藏匿尸体。这栋看似平静、不起眼
+ 的居民楼里，每个擦肩而过的“熟人”，都有可能是藏
+ 着獠牙的恶鬼。当人心比鬼更可怕时，你每天出入的家
+ 门，都可能是通往地狱的入口……　　本片改编自豆瓣
+ 阅读连载小说《海葵》，作者贝客邦。\n豆瓣链接：https:
  //movie.douban.com/subject/36965301/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《10间敢死队》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　医院走廊尽头的10号房是一个特别的存在，
  别看这里住着的都是重症病人，但却每天欢声笑语热闹
  非凡。而故事就从章小兵（蒋龙饰）跳楼未遂的那天开
@@ -184,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三心两意》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　当江芮琳（林依晨饰）意外撞上老公罗斌
  （孙艺洲饰）的出轨现场，并机缘巧合救下了陷入困境
  的余小鱼（张艺凡饰）时，才意识到现实比戏剧更抓马
@@ -197,9 +157,20 @@ DESCRIPTION:　　当江芮琳（林依晨饰）意外撞上老公罗斌
  ：https://movie.douban.com/subject/36613824/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《门牙》
+DTSTART;VALUE=DATE:20260501
+DTSTAMP:20260419T170433Z
+DESCRIPTION:　　李未阳（章宇饰）骑摩托被撞，导致女友
+ 沈青（陈昊宇饰）失去两颗门牙。他没钱，但一定要为
+ 女友装上两颗最好的门牙。为了这笔钱，他开始与肇事
+ 者，保险公司进行周旋。伤者与肇事者拮据但平静的生
+ 活被这场突发意外打乱。\n豆瓣链接：https://movie.douban.com
+ /subject/37534660/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《猪猪侠大电影之竞速小英雄》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　在这场前所未有的时空竞速里，猪猪侠和
  星航这对“最佳损友”驾驶着星际列车穿越时空回到过
  去、他们能否可以扭转命运，在最终的赛场上改写结局
@@ -207,9 +178,27 @@ DESCRIPTION:　　在这场前所未有的时空竞速里，猪猪侠和
  37193307/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《纵横四海》
+DTSTART;VALUE=DATE:20260503
+DTSTAMP:20260419T170433Z
+DESCRIPTION:　　砵仔糕（周润发饰）、阿占（张国荣饰）
+ 和红豆（钟楚红饰）均是孤儿，在养父（曾江饰）栽培
+ 下成为国际大盗。长大后成了帮他赚钱的艺术品大盗，
+ 而三人同时又认了警察（朱江饰）为干爹。　　法国巴
+ 黎博物馆内，名画《赫林之女仆》被人盗走。与此同时
+ ，阿海、阿占和红豆三人以敏捷身手盗得另一幅名画，
+ 在与法国大哥交易时得知名画《赫林之女仆》在妖气重
+ 重的古堡内，他们在曾江安排下成功地盗取此画之后，
+ 反被集团原凶曾江与法国大哥合谋设下陷阱，派人追杀
+ 灭口。阿海驾车与杀手快艇相撞……　　三人失散，数
+ 年后，他们在香港重聚，阿海“瘫痪”住在朱江家里，
+ 阿占和红豆已经结婚了。曾江又逼他们去偷画……\n豆瓣
+ 链接：https://movie.douban.com/subject/1295409/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《真人快打2》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　过气好莱坞演员强尼·凯奇（卡尔·厄本饰
  ）被意外选中，加入一场决定地球命运的真人快打。吉
  塔娜（阿德莱恩·鲁道夫饰）、刀锋索尼娅（杰西卡·麦
@@ -222,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《青铜葵花》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　曹文轩经典文学改编。　　一场命运安排
  ，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦
  地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两
@@ -233,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《一个男人和一个女人》
 DTSTART;VALUE=DATE:20260516
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　男人（黄渤饰）和女人（倪妮饰）飞机同
  时落地，入住同一家酒店，成为一墙之隔的邻居。不够
  隔音的房间暴露了男人和女人因生活暂停陷入的困境，
@@ -247,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错过了，遗憾吗？》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　刚大学毕业的吴小北（庄达菲饰）被初恋
  男友李天昊（周澄奧饰）断崖式分手后陷入无尽的情绪
  反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽饰）像
@@ -260,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《为我的心动买单》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　分手后的夏临（戚薇饰）一心扑在事业上
  ，在“不相信爱情”的自我和时代面前，推出“真爱保
  险”，试图通过用户的分手率提高个人业绩和公司收益
@@ -274,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错时告白》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　一次上天安排的邂逅，让有情人盖伊（翁
  拉维·那提通饰）和朱恩（普莉恩皮察雅·克玛拉娜君饰
  ）互生情愫，却又因为一次次命运的作弄，逐渐成为友
@@ -287,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《爱是愤怒》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　无论工作还是生活，刘浩（王安宇饰）一
  直都是被轻视的那个。直到遇见菜菜（王玉雯饰），两
  个年轻人坠入爱河。然而，就在他们信心满满，想要展
@@ -296,9 +285,22 @@ DESCRIPTION:　　无论工作还是生活，刘浩（王安宇饰）一
  …\n豆瓣链接：https://movie.douban.com/subject/37152802/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《四渡》
+DTSTART;VALUE=DATE:20260626
+DTSTAMP:20260419T170433Z
+DESCRIPTION:　　长征时期，红军身处绝境。四渡赤水堪称
+ 红军的绝地反击之战。在毛泽东（刘烨饰）的带领下，
+ 红军一渡赤水时形势所迫、实属无奈；二渡赤水出其不
+ 意，打了敌人个措手不及；三渡赤水堪称精妙之笔，尽
+ 显战略智慧；四渡赤水更是神来之笔，操作令人叫绝。
+ 这一系列军事行动创造了战争史上的经典战例，成为运
+ 动战的传奇典范。\n豆瓣链接：https://movie.douban.com/subject/
+ 37191746/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《大圣崛起》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　硬币有两面，很多时候，人们只能看到其
  中的一面。《混世之王：大圣崛起》讲述的故事，是西
  行背后的故事，是硬币的另一面，关于另外一个真相的
@@ -310,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三国第一部：争洛阳》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　东汉末年，三国鼎立大幕未启，黄巾军起
  ，外戚弄权，宦官乱政。天下动荡之际，曹操、袁绍欲
  借大将军何进之力制衡宦官，匡扶汉室。不料董卓趁乱
@@ -322,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260415T170438Z
+DTSTAMP:20260419T170433Z
 DESCRIPTION:　　太阳即将毁灭，人类在地球表面建造出巨
  大的推进器，寻找新的家园。然而宇宙之路危机四伏，
  为了拯救地球，为了人类能在漫长的2500年后抵达新家园
