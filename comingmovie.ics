@@ -4,7 +4,7 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《迈克尔·杰克逊：巨星之路》
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　影片讲述迈克尔·杰克逊在音乐之外的人生
  旅程，从他以杰克逊五人组主唱之姿被发掘出惊人天赋
  的那一刻起，直到他成为一位极具远见的艺人，他以无
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《登月(第一部)》
 DTSTART;VALUE=DATE:20260424
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　38万公里，53天，中国探月工程嫦娥六号任
  务完成了人类首次月背采样返回——从那个永远背对地
  球、充满未知的世界带了一捧月壤回来。2024年5月，海南
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《寂静的朋友》
 DTSTART;VALUE=DATE:20260425
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　在德国一座中世纪大学城的植物园中，一
  棵古老的银杏树静静矗立，见证着三个时代中人与自然
  之间的深层联结。1908年，大学首位女性学生透过摄影镜
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《燃比娃》
 DTSTART;VALUE=DATE:20260428
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　影片故事源自羌族神话，讲述了一只被人
  类抚养长大的猴子，追寻母亲阿勿巴吉（周迅配音）的
  足迹，踏上神山探寻“温暖”之谜的旅程。他在“恐惧
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《穿普拉达的女王2》
 DTSTART;VALUE=DATE:20260430
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　影片直面数字时代时尚行业的迭代浪潮，
  当曾经指引潮流的时尚圣经《Runway》杂志遭遇前所未有
  的生存危机，“时尚女魔头”米兰达（梅丽尔·斯特里普
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《给阿嬷的情书》
 DTSTART;VALUE=DATE:20260430
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　潮汕阿嬷叶淑柔一直守着平淡的日子，安
  享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻
  找传闻中已成亿万富豪的阿公郑木生。然而，一个令人
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《寒战1994》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　2017年，李文彬（梁家辉饰）突然失踪，与
  此同时，蔡元祺在英国惨遭暗杀。为此，刘杰辉（郭富
  城饰）向简奥伟（周润发饰）寻求协助，开启了一份1994
@@ -104,22 +104,23 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《森中有林》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260419T170433Z
-DESCRIPTION:　　下岗狱警廉加海（于和伟饰）被吕新开（
- 韩庚饰）意外打瞎了一只眼，却转头安排自己闺女廉婕
- （张天爱饰）和他相亲，以为可以用一只眼换来闺女一
- 生的幸福。没想到八年后他与王秀义（高圆圆饰）的旧
- 情复燃，反复的猜忌与拉扯间，竟卷入一场被精心掩盖
- 的命案。从此，两个家、三代人的命运开始了数十年的
- 生死纠葛、爱恨痴缠……　　从东北到海南，从上世纪
- 末到今天，一命抵一命，这事儿能了不？　　影片改编
- 自郑执同名小说。\n豆瓣链接：https://movie.douban.com/subject/
- 36372941/
+DTSTAMP:20260420T170447Z
+DESCRIPTION:　　廉加海（于和伟饰）被吕新开（韩庚饰）
+ 意外打瞎了一只眼，没能赴约错过了爱人王秀义（高圆
+ 圆饰）。这场意外却让他用一只眼给女儿廉婕（张天爱
+ 饰）换来了一生的幸福。　　多年后，廉加海与王秀义
+ 重逢，旧情复燃，却意外卷入一场凶案。被众人联手掩
+ 盖的真相，与神秘而危险的王秀义有着千丝万缕的关系
+ ，也让两个家、三代人的命运开始了数十年的生死纠葛
+ 、爱恨痴缠……是谁杀了谁？又是谁要替谁抵命？廉加
+ 海和王秀义永远只差一点点的感情又将如何做个了断？
+ 　　影片改编自郑执同名小说。\n豆瓣链接：https://movie.d
+ ouban.com/subject/36372941/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《消失的人》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　一个寻常的清晨，唐宇（郑恺饰）的儿子
  在楼梯间凭空消失；隔壁单元里，独居女孩林雨彤（刘
  浩存饰）在熟睡中被人侵犯；赌鬼租客严午（邱泽饰）
@@ -133,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《10间敢死队》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　医院走廊尽头的10号房是一个特别的存在，
  别看这里住着的都是重症病人，但却每天欢声笑语热闹
  非凡。而故事就从章小兵（蒋龙饰）跳楼未遂的那天开
@@ -144,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三心两意》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　当江芮琳（林依晨饰）意外撞上老公罗斌
  （孙艺洲饰）的出轨现场，并机缘巧合救下了陷入困境
  的余小鱼（张艺凡饰）时，才意识到现实比戏剧更抓马
@@ -159,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《门牙》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　李未阳（章宇饰）骑摩托被撞，导致女友
  沈青（陈昊宇饰）失去两颗门牙。他没钱，但一定要为
  女友装上两颗最好的门牙。为了这笔钱，他开始与肇事
@@ -170,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《猪猪侠大电影之竞速小英雄》
 DTSTART;VALUE=DATE:20260501
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　在这场前所未有的时空竞速里，猪猪侠和
  星航这对“最佳损友”驾驶着星际列车穿越时空回到过
  去、他们能否可以扭转命运，在最终的赛场上改写结局
@@ -180,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《纵横四海》
 DTSTART;VALUE=DATE:20260503
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　砵仔糕（周润发饰）、阿占（张国荣饰）
  和红豆（钟楚红饰）均是孤儿，在养父（曾江饰）栽培
  下成为国际大盗。长大后成了帮他赚钱的艺术品大盗，
@@ -198,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《真人快打2》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　过气好莱坞演员强尼·凯奇（卡尔·厄本饰
  ）被意外选中，加入一场决定地球命运的真人快打。吉
  塔娜（阿德莱恩·鲁道夫饰）、刀锋索尼娅（杰西卡·麦
@@ -211,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《青铜葵花》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　曹文轩经典文学改编。　　一场命运安排
  ，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦
  地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两
@@ -222,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《一个男人和一个女人》
 DTSTART;VALUE=DATE:20260516
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　男人（黄渤饰）和女人（倪妮饰）飞机同
  时落地，入住同一家酒店，成为一墙之隔的邻居。不够
  隔音的房间暴露了男人和女人因生活暂停陷入的困境，
@@ -236,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错过了，遗憾吗？》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　刚大学毕业的吴小北（庄达菲饰）被初恋
  男友李天昊（周澄奧饰）断崖式分手后陷入无尽的情绪
  反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽饰）像
@@ -249,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《为我的心动买单》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　分手后的夏临（戚薇饰）一心扑在事业上
  ，在“不相信爱情”的自我和时代面前，推出“真爱保
  险”，试图通过用户的分手率提高个人业绩和公司收益
@@ -263,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错时告白》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　一次上天安排的邂逅，让有情人盖伊（翁
  拉维·那提通饰）和朱恩（普莉恩皮察雅·克玛拉娜君饰
  ）互生情愫，却又因为一次次命运的作弄，逐渐成为友
@@ -274,9 +275,22 @@ DESCRIPTION:　　一次上天安排的邂逅，让有情人盖伊（翁
  an.com/subject/35903155/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《星球大战：曼达洛人与古古》
+DTSTART;VALUE=DATE:20260522
+DTSTAMP:20260420T170447Z
+DESCRIPTION:　　在秩序动荡的银河系，“最强奶爸”丁·贾
+ 伦与“银河系萌娃”古古这对非血缘父子并肩登场。冷
+ 峻坚毅的赏金猎人丁·贾伦身披贝斯卡钢甲，凭悍勇战力
+ 屡屡从围堵中突围；看似弱小的原力学徒古古，则总能
+ 在关键时刻爆发出惊人战力，为搭档化解危机。他们一
+ 同执行关乎银河命运的绝密任务，直面远比以往更为凶
+ 险的挑战与博弈。\n豆瓣链接：https://movie.douban.com/subject/
+ 36723035/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《爱是愤怒》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　无论工作还是生活，刘浩（王安宇饰）一
  直都是被轻视的那个。直到遇见菜菜（王玉雯饰），两
  个年轻人坠入爱河。然而，就在他们信心满满，想要展
@@ -287,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《四渡》
 DTSTART;VALUE=DATE:20260626
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　长征时期，红军身处绝境。四渡赤水堪称
  红军的绝地反击之战。在毛泽东（刘烨饰）的带领下，
  红军一渡赤水时形势所迫、实属无奈；二渡赤水出其不
@@ -300,7 +314,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《大圣崛起》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　硬币有两面，很多时候，人们只能看到其
  中的一面。《混世之王：大圣崛起》讲述的故事，是西
  行背后的故事，是硬币的另一面，关于另外一个真相的
@@ -312,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三国第一部：争洛阳》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　东汉末年，三国鼎立大幕未启，黄巾军起
  ，外戚弄权，宦官乱政。天下动荡之际，曹操、袁绍欲
  借大将军何进之力制衡宦官，匡扶汉室。不料董卓趁乱
@@ -324,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260419T170433Z
+DTSTAMP:20260420T170447Z
 DESCRIPTION:　　太阳即将毁灭，人类在地球表面建造出巨
  大的推进器，寻找新的家园。然而宇宙之路危机四伏，
  为了拯救地球，为了人类能在漫长的2500年后抵达新家园
