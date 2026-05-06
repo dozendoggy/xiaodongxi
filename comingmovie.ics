@@ -4,7 +4,7 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《真人快打2》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260505T170423Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　过气好莱坞演员强尼·凯奇（卡尔·厄本饰
  ）被意外选中，加入一场决定地球命运的真人快打。吉
  塔娜（阿德莱恩·鲁道夫饰）、刀锋索尼娅（杰西卡·麦
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《青铜葵花》
 DTSTART;VALUE=DATE:20260508
-DTSTAMP:20260505T170423Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　曹文轩经典文学改编。　　一场命运安排
  ，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦
  地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两
@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《再见，朱莉娅》
 DTSTART;VALUE=DATE:20260513
-DTSTAMP:20260505T170423Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　北苏丹人莫娜曾是一名歌手，结婚后退出
  歌坛。生活体面的她却被内心秘密折磨：她曾间接引发
  了一起谋杀。为平息愧疚，她收留了失去生活来源的死
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《大白鲨》
 DTSTART;VALUE=DATE:20260515
-DTSTAMP:20260505T170423Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　艾米蒂岛是一个旅游度假胜地，有大批的
  游客来这里游泳。然而，大白鲨的出现却改变了这一切
  。事故从一对情侣开始，他们下海游泳，女的不幸成为
@@ -58,9 +58,22 @@ DESCRIPTION:　　艾米蒂岛是一个旅游度假胜地，有大批的
  bject/1294941/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《绵羊侦探团》
+DTSTART;VALUE=DATE:20260516
+DTSTAMP:20260506T170434Z
+DESCRIPTION:　　牧羊人乔治（休·杰克曼饰）最爱给羊群读
+ 侦探小说\,没想到自己有一天会离奇死亡。他留下的3000
+ 万巨额遗产，让每个人貌似都有犯罪动机。警察毫无头
+ 绪之时，羊群们决定“不务正业”迈出牧场，追查牧羊
+ 人“躺平”真相！它们秉承着遇见麻烦就吃草\,嗅到危险
+ 就躺倒的哲学，却迎来了一个意想不到的结果.......　　
+ 影片改编自莱奥妮·斯万的畅销小说。\n豆瓣链接：https:/
+ /movie.douban.com/subject/36918069/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《出入平安》
 DTSTART;VALUE=DATE:20260516
-DTSTAMP:20260505T170423Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　即将被处决的死刑犯郑立棍（肖央饰）在
  押运途中突遇地震，看守所坍塌成废墟，死里逃生的郑
  立棍看似获得了突如其来的“自由”，但其实已经陷入
@@ -72,22 +85,9 @@ DESCRIPTION:　　即将被处决的死刑犯郑立棍（肖央饰）在
  59360/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《绵羊侦探团》
-DTSTART;VALUE=DATE:20260516
-DTSTAMP:20260505T170424Z
-DESCRIPTION:　　牧羊人乔治（休·杰克曼饰）最爱给羊群读
- 侦探小说\,没想到自己有一天会离奇死亡。他留下的3000
- 万巨额遗产，让每个人貌似都有犯罪动机。警察毫无头
- 绪之时，羊群们决定“不务正业”迈出牧场，追查牧羊
- 人“躺平”真相！它们秉承着遇见麻烦就吃草\,嗅到危险
- 就躺倒的哲学，却迎来了一个意想不到的结果.......　　
- 影片改编自莱奥妮·斯万的畅销小说。\n豆瓣链接：https:/
- /movie.douban.com/subject/36918069/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《一个男人和一个女人》
 DTSTART;VALUE=DATE:20260516
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　男人（黄渤饰）和女人（倪妮饰）飞机同
  时落地，入住同一家酒店，成为一墙之隔的邻居。不够
  隔音的房间暴露了男人和女人因生活暂停陷入的困境，
@@ -101,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错过了，遗憾吗？》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　刚大学毕业的吴小北（庄达菲饰）被初恋
  男友李天昊（周澄奧饰）断崖式分手后陷入无尽的情绪
  反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽饰）像
@@ -114,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《为我的心动买单》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　分手后的夏临（戚薇饰）一心扑在事业上
  ，在“不相信爱情”的自我和时代面前，推出“真爱保
  险”，试图通过用户的分手率提高个人业绩和公司收益
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《错时告白》
 DTSTART;VALUE=DATE:20260520
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　一次上天安排的邂逅，让有情人盖伊（翁
  拉维·那提通饰）和朱恩（普莉恩皮察雅·克玛拉娜君饰
  ）互生情愫，却又因为一次次命运的作弄，逐渐成为友
@@ -141,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《星球大战：曼达洛人与古古》
 DTSTART;VALUE=DATE:20260522
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　在秩序动荡的银河系，“最强奶爸”丁·贾
  伦与“银河系萌娃”古古这对非血缘父子并肩登场。冷
  峻坚毅的赏金猎人丁·贾伦身披贝斯卡钢甲，凭悍勇战力
@@ -154,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《今晚正好》
 DTSTART;VALUE=DATE:20260522
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　限定一夜的关系，能进展到哪一步？　　
  一段关系从见色起意开始，天亮之前却发现自己真心失
  守。设计师徐秋（马思纯饰）意外邂逅了作家陈宇宙（
@@ -166,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《森中有林》
 DTSTART;VALUE=DATE:20260523
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　廉加海（于和伟饰）被吕新开（韩庚饰）
  意外打瞎了一只眼，没能赴约错过了爱人王秀义（高圆
  圆饰）。这场意外却让他用一只眼给女儿廉婕（张天爱
@@ -182,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《记忆碎片》
 DTSTART;VALUE=DATE:20260529
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　当记忆支离破碎后，你该怎样面对生活？
  本片的主人公就遭遇了这样的事情。　　莱纳·谢尔比（
  盖·皮尔斯饰）在家遭到歹徒的袭击，妻子被残忍的奸杀
@@ -202,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《爱是愤怒》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　无论工作还是生活，刘浩（王安宇饰）一
  直都是被轻视的那个。直到遇见菜菜（王玉雯饰），两
  个年轻人坠入爱河。然而，就在他们信心满满，想要展
@@ -213,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《绝密任务》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　首部女子反恐特战队电影，面对恐怖主义
  恶势力，“最飒女子反恐特战队”临危受命，精英队长
  陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（
@@ -228,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《四渡》
 DTSTART;VALUE=DATE:20260626
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　长征时期，红军身处绝境。四渡赤水堪称
  红军的绝地反击之战。在毛泽东（刘烨饰）的带领下，
  红军一渡赤水时形势所迫、实属无奈；二渡赤水出其不
@@ -241,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《三国第一部：争洛阳》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　东汉末年，三国鼎立大幕未启，黄巾军起
  ，外戚弄权，宦官乱政。天下动荡之际，曹操、袁绍欲
  借大将军何进之力制衡宦官，匡扶汉室。不料董卓趁乱
@@ -253,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《大圣崛起》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　硬币有两面，很多时候，人们只能看到其
  中的一面。《混世之王：大圣崛起》讲述的故事，是西
  行背后的故事，是硬币的另一面，关于另外一个真相的
@@ -265,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260505T170424Z
+DTSTAMP:20260506T170434Z
 DESCRIPTION:　　太阳即将毁灭，人类在地球表面建造出巨
  大的推进器，寻找新的家园。然而宇宙之路危机四伏，
  为了拯救地球，为了人类能在漫长的2500年后抵达新家园
