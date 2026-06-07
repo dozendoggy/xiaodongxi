@@ -2,80 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《加菲猫家族》
-DTSTART;VALUE=DATE:20260605
-DTSTAMP:20260603T170504Z
-DESCRIPTION:　　加菲猫（克里斯·帕拉特ChrisPratt配音），
- 这只全球闻名、厌恶星期一、对千层面情有独钟的宅猫
- ，正准备开启一段疯狂的户外奇遇！在与他失散多年的
- 亲生猫爸——不羁的流浪猫维克（塞缪尔·杰克逊SamuelL.J
- ackson配音）意外重聚后，加菲猫和他的狗狗伙伴欧迪被
- 迫告别了安逸舒适的生活，卷入了一场搞笑又充满刺激
- 的大冒险，而一直娇生惯养的加菲猫，将在这次冒险之
- 旅中蜕变成为上天入地的“猫猫特工”，带着家族直面
- 挑战、化解危机！\n豆瓣链接：https://movie.douban.com/subject/
- 30377311/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《宇宙巨人：希曼崛起》
-DTSTART;VALUE=DATE:20260605
-DTSTAMP:20260603T170504Z
-DESCRIPTION:　　亚当（尼古拉斯·加利齐纳饰）在神秘圣剑
- 的召唤下，尘封十五年的异世界王子身份觉醒，平凡人
- 生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已
- 在骷髅王的统治下分崩离析。为拯救曾经的家园与现在
- 的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的
- 咒语——“赐予我力量吧！我是希曼！”\n豆瓣链接：htt
- ps://movie.douban.com/subject/1951286/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《危险动物》
-DTSTART;VALUE=DATE:20260605
-DTSTAMP:20260603T170504Z
-DESCRIPTION:　　热爱冲浪的女孩赛弗（哈西·哈里森饰）意
- 外成为嗜血连环杀手塔克（杰·科特尼饰）的“猎物”，
- 被逼与鲨鱼搏斗命悬一线，男友摩西（约什·赫斯顿饰）
- 寻找失踪的赛弗，却也被这个疯癫的“鲨人魔”所擒…
- …　　一片冰冷血腥的鲨海之上，面对鲨鱼、杀手的双
- 重猎杀，两人如何才能逃出生天？\n豆瓣链接：https://movi
- e.douban.com/subject/36883048/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《极限逃生》
-DTSTART;VALUE=DATE:20260605
-DTSTAMP:20260603T170504Z
-DESCRIPTION:　　一事无成的loser吴成（吴昱翰饰）在公司年
- 会上偶遇自己的白月光林盛楠（徐璐饰），前脚刚想与
- 她再续前缘，后脚富二代舔狗付鑫（张海宇饰）就出面
- 搅局，抓马关系还没扯清，便被卷入了一场突如其来的
- 毒气泄漏危机，三人临时拼凑成“跑毒小队”，开启了
- 一场从“三角恋”到“三角生死恋”的爆笑逃生之旅…
- …\n豆瓣链接：https://movie.douban.com/subject/36449457/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《诺曼底72小时》
-DTSTART;VALUE=DATE:20260606
-DTSTAMP:20260603T170504Z
-DESCRIPTION:　　聚焦诺曼底登陆前夕的紧张局势，围绕盟
- 军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展
- 开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪
- 威尔通报决定成败的天气状况。\n豆瓣链接：https://movie.d
- ouban.com/subject/36916000/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《加油吧！娜依拉》
-DTSTART;VALUE=DATE:20260606
-DTSTAMP:20260603T170504Z
-DESCRIPTION:　　影片讲述了从小酷爱汽车修理的新疆少女
- 娜依拉通过广东省招收新疆内职生的考试，远赴深圳学
- 习汽修技术，在以男性为主的汽修比赛中，娜依拉突破
- 女性生理极限等重重困难，勇夺全国冠军的励志故事。\n
- 豆瓣链接：https://movie.douban.com/subject/36961785/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《火遮眼》
 DTSTART;VALUE=DATE:20260611
-DTSTAMP:20260603T170504Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　东南亚某处，失语维修工王伟（谢苗饰）
  因女儿雨晴（杨恩又饰）失踪觉醒猎杀本能。他联手寻
  妻记者纳文（林科灯饰）组成生死同盟，在连番血战中
@@ -90,29 +19,16 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《揭秘日》
 DTSTART;VALUE=DATE:20260612
-DTSTAMP:20260603T170504Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　当人类仰望深空，是否有一个“它”也正
  在对望？一场关于外星文明的全球“揭秘”，即将颠覆
  人类认知。而这背后隐藏的真相，为何有人想要将它永
  远封存？\n豆瓣链接：https://movie.douban.com/subject/36860212/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《偷偷藏不住》
-DTSTART;VALUE=DATE:20260612
-DTSTAMP:20260603T170504Z
-DESCRIPTION:　　暗恋这件事，偷偷藏不住。　　桑稚青春
- 里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段
- 嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑
- 稚笨拙地藏了起来，不敢让任何人发现。　　几年后再
- 度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在
- 相处中因她身上的光芒而心动。曾经悄无声息的喜欢，
- 终于变成了彼此心照不宣的悸动……\n豆瓣链接：https://m
- ovie.douban.com/subject/37452950/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《走马观花》
 DTSTART;VALUE=DATE:20260612
-DTSTAMP:20260603T170504Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　新波，丁大宁，郭华，程一木他们毕业于
  同一所大学。他们和很多年轻人一样，自以为是，敏感
  错弱，没有被认可的才华。他们来自不同的地方，却有
@@ -128,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我的爱人》
 DTSTART;VALUE=DATE:20260612
-DTSTAMP:20260603T170504Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　富家女袁心仪与穷小子梁景天相许于中学
  ，相恋于大学，大学毕业之际，梁景天为得袁家认可留
  在大城市打拼，袁心仪不顾家庭反对选择追随，两人在
@@ -137,9 +53,18 @@ DESCRIPTION:　　富家女袁心仪与穷小子梁景天相许于中学
  74709/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《那山那水》
+DTSTART;VALUE=DATE:20260615
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　一场跨越20年的绿色蜕变，勾勒出浙江人民
+ 坚定不移走绿色发展之路的奋斗足迹，展现了从“绿色
+ 颜值”到“金色产值”的双向转化。\n豆瓣链接：https://m
+ ovie.douban.com/subject/38502416/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《大鱼海棠》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　所有活着的人类，都是海里一条巨大的鱼
  ；出生的时候他们从海的此岸出发。他们的生命就像横
  越大海，有时相遇，有时分开……死的时候，他们便到
@@ -160,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《玩具总动员5》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　本部续作中，胡迪、巴斯光年、翠斯等“
  元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接
  数字时代下的全新挑战。随着无所不能的科技产品逐渐
@@ -177,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《爱是愤怒》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　无论工作还是生活，刘浩（王安宇饰）一
  直都是被轻视的那个。直到遇见菜菜（王玉雯饰），两
  个年轻人坠入爱河。然而，就在他们信心满满，想要展
@@ -188,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《绝密任务》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　首部女子反恐特战队电影，面对恐怖主义
  恶势力，“最飒女子反恐特战队”临危受命，精英队长
  陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（
@@ -203,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《北回归线以北》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　影片讲述了三组怀揣不同心结的人开着房
  车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍
  糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩
@@ -218,16 +143,42 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《无微不至》
 DTSTART;VALUE=DATE:20260619
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　影片聚焦真实可感的中国式父子与父女关
  系，讲述陌生人之间彼此治愈、亲情在疏离中走向和解
  的温暖故事。\n豆瓣链接：https://movie.douban.com/subject/374630
  47/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《爸爸，让我再爱你一次》
+DTSTART;VALUE=DATE:20260621
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　小时候，父亲对儿子关怀备至，儿子打架
+ ，父亲下跪赔礼道歉；儿子车祸，父亲输血。父母为其
+ 结婚买房买车而负债。儿子小时候承诺长大后孝敬父母
+ ，带父母环游世界。长大后，儿子随着工作环境及婚后
+ 情绪变化，对父母顾及不上而冷落，产生误会。母亲先
+ 逝，父亲也离世。儿子跪在父亲遗体旁，痛不欲生，对
+ 未兑现的诺言，后悔莫及….多么希望能给他一次机，请
+ 求能原谅他….回报父母恩情，孝敬父母，爱不能等……\
+ n豆瓣链接：https://movie.douban.com/subject/37380671/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《关索岭》
+DTSTART;VALUE=DATE:20260625
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　丁虎和沈啸飞是八百年前明军的后裔，先
+ 后爱上了采茶女金儿。他们生活在宁静的田园中，由于
+ 居住的屯堡位于交通要塞，这里成为了日军攻占的重要
+ 目标。面对外敌入侵，丁虎和沈啸飞毅摒弃前嫌，民族
+ 大义高于个人恩怨。他们以关索岭为中心，带领乡亲们
+ 奋勇抵抗，最终全歼了一股携带机密测绘地图的敌人。\n
+ 豆瓣链接：https://movie.douban.com/subject/34786813/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《我看见两朵一样的云》
 DTSTART;VALUE=DATE:20260626
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　你有没有在这个世界感到过无比的孤独？
  有没有怀疑身边的一切是不真实的？　　阿志（王源饰
  ）在大家眼里是一个奇怪的年轻人，他的业余生活都在
@@ -242,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《超级少女》
 DTSTART;VALUE=DATE:20260626
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　当一位冷酷无情、突如其来的劲敌突袭家
  园，卡拉·佐-艾尔（米莉·阿尔柯克饰）——也就是“超
  级少女”——不得不与一位意想不到的同伴结盟，横跨
@@ -253,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《四渡》
 DTSTART;VALUE=DATE:20260626
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　长征时期，红军身处绝境。四渡赤水堪称
  红军的绝地反击之战。在毛泽东（刘烨饰）的带领下，
  红军一渡赤水时形势所迫、实属无奈；二渡赤水出其不
@@ -264,30 +215,53 @@ DESCRIPTION:　　长征时期，红军身处绝境。四渡赤水堪称
  37191746/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《心犬相随》
+DTSTART;VALUE=DATE:20260626
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　故事讲述一只桃心鼻小白流浪狗一生中的
+ 温暖际遇。狗狗先后与退休工程师弘志、漂泊女工南查
+ 、美术系大学生佳迪和佩莱相遇并相互陪伴，一生拥有
+ “米饭”“布朗尼”“小雪”三个名字的狗狗历经颠沛
+ ，仍然勇敢赤诚，用纯粹治愈人们孤独的灵魂。这份人
+ 与狗狗间深厚隽永的爱，在岁月里永远温存。\n豆瓣链接
+ ：https://movie.douban.com/subject/37354866/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《特立独行》
 DTSTART;VALUE=DATE:20260703
-DTSTAMP:20260603T170505Z
-DESCRIPTION:　　“飞银”王长海（白敬亭饰）被特派回老
- 家锻炼，和当地分会长老夏（魏翔饰）一起组建超英战
- 斗小队。上任第一天，他不顾老夏劝阻，讨伐关系户，
- 打脸老县长，没有人情，全是事故。然而新官上任三把
- 火，似乎每一把都烧在了自己身上......王长海逐渐意识
- 到，就算拥有超能力，在这个人情社会里也得先学会敬
- 酒。0个心眼的王长海在老夏的帮助下，开启了修炼情商
- 之路……\n豆瓣链接：https://movie.douban.com/subject/36953973/
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　“飞银”王长海（白敬亭饰）从月球基地
+ 被特派回老家，和当地分会长老夏（魏翔饰）一起成立
+ 战斗小队，保卫全人类。上任第一天，他不顾老夏劝阻
+ ，讨伐关系户，打脸老县长，没有人情，全是事故。然
+ 而新官上任三把火，似乎每一把都烧在了自己身上......
+ 王长海逐渐意识到，就算拥有超能力，在这个人情社会
+ 里也得先学会敬酒。0个心眼的王长海在老夏的帮助下，
+ 开启了修炼情商之路……\n豆瓣链接：https://movie.douban.com
+ /subject/36953973/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《小黄人与大怪兽》
 DTSTART;VALUE=DATE:20260703
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　为了拍摄心中理想的怪兽电影，这群萌趣
  活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯
  狂大乱斗！\n豆瓣链接：https://movie.douban.com/subject/36962219/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《开个玩笑》
+DTSTART;VALUE=DATE:20260703
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　长期遭受性骚扰的环卫女工季红（张天爱
+ 饰）决定反抗，并在年轻律师吴忧（春夏饰）的帮助下
+ 成功将环卫站站长罗勇正（潘斌龙饰）告上法庭，维权
+ 之路困难重重，季红仍要劈开“那座山”！\n豆瓣链接：
+ https://movie.douban.com/subject/37942006/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《三国第一部：争洛阳》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　东汉末年，三国鼎立大幕未启，黄巾军起
  ，外戚弄权，宦官乱政。天下动荡之际，曹操、袁绍欲
  借大将军何进之力制衡宦官，匡扶汉室。不料董卓趁乱
@@ -297,9 +271,17 @@ DESCRIPTION:　　东汉末年，三国鼎立大幕未启，黄巾军起
  36752981/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《海洋奇缘：启航》
+DTSTART;VALUE=DATE:20260710
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　莫阿娜（凯瑟琳·拉加艾亚饰）为守护岛屿
+ 与族人，和半神毛伊（道恩·强森饰）一同乘风踏浪，向
+ 海而行。\n豆瓣链接：https://movie.douban.com/subject/36343469/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《大圣崛起》
 DTSTART;VALUE=DATE:20260710
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　硬币有两面，很多时候，人们只能看到其
  中的一面。《混世之王：大圣崛起》讲述的故事，是西
  行背后的故事，是硬币的另一面，关于另外一个真相的
@@ -311,7 +293,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《澎湖海战》
 DTSTART;VALUE=DATE:20260725
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　公元1681年，台湾权臣冯锡范刘国轩弑杀监
  国郑克臧，挟立12岁郑克塽为新王，冯刘集团加剧分疆裂
  土以武谋独进程，并长期袭扰东南沿海城镇。康熙皇帝
@@ -323,16 +305,29 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《年会不能停2！》
 DTSTART;VALUE=DATE:20260807
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　当刘奔（张若昀饰）遇上天降搭子马杰（
  白客饰），这对天选“牛马”披荆斩棘，一套组合拳，
  能否打通升职加薪底层逻辑？玩转当下职场规则？\n豆瓣
  链接：https://movie.douban.com/subject/36850814/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《偷偷藏不住》
+DTSTART;VALUE=DATE:20260819
+DTSTAMP:20260607T170508Z
+DESCRIPTION:　　暗恋这件事，偷偷藏不住。　　桑稚青春
+ 里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段
+ 嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑
+ 稚笨拙地藏了起来，不敢让任何人发现。　　几年后再
+ 度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在
+ 相处中因她身上的光芒而心动。曾经悄无声息的喜欢，
+ 终于变成了彼此心照不宣的悸动……\n豆瓣链接：https://m
+ ovie.douban.com/subject/37452950/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260603T170505Z
+DTSTAMP:20260607T170508Z
 DESCRIPTION:　　太阳即将毁灭，人类在地球表面建造出巨
  大的推进器，寻找新的家园。然而宇宙之路危机四伏，
  为了拯救地球，为了人类能在漫长的2500年后抵达新家园
