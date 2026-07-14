@@ -4,8 +4,8 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《恐怖游轮》
 DTSTART;VALUE=DATE:20260717
-DTSTAMP:20260713T170357Z
-DESCRIPTION:单亲母亲杰西（梅利莎·乔治饰）和一帮朋友乘
+DTSTAMP:20260714T170403Z
+DESCRIPTION:单亲母亲杰丝（梅利莎·乔治饰）和一帮朋友乘
  游艇出海游玩，但她总有一种有不好的事情发生的感觉
  。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船
  ，众人落海，几经挣扎他们好不容易爬到游艇残骸上来
@@ -15,25 +15,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《想你了》
 DTSTART;VALUE=DATE:20260717
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/370
  21936/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《林家宅37号》
-DTSTART;VALUE=DATE:20260717
-DTSTAMP:20260713T170357Z
-DESCRIPTION:林家宅37号，邪得让人头皮发麻。女主人林思雨
- 温顺本分，丈夫陶多余却是个混不吝的酒鬼。一夜撒酒
- 疯后，陶多余竟在自家院里活活被吓死！岛上风传，是
- 水鬼“阿飘”索了替身。自此，凶宅再无宁日：屋内寒
- 气刺骨，物件...\n豆瓣链接：https://movie.douban.com/subject/374
- 35260/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《哈姆雷特》
 DTSTART;VALUE=DATE:20260718
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:丹麦王子哈姆雷特（本尼迪克特·康伯巴奇Benedi
  ctCumberbatch饰）被传召回家参加父亲的葬礼以及自己母亲
  和叔父克劳迪斯的婚礼。父亲的突然离世，加上母亲的
@@ -41,19 +30,9 @@ DESCRIPTION:丹麦王子哈姆雷特（本尼迪克特·康伯巴奇Benedi
  ovie.douban.com/subject/26588017/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《痴迷》
-DTSTART;VALUE=DATE:20260724
-DTSTAMP:20260713T170357Z
-DESCRIPTION:平凡却对爱情抱有执念的青年贝尔（迈克尔·约
- 翰斯顿饰）在偶然得知小镇传说后，折断了一截禁忌的
- “心愿柳”许愿，如愿俘获暗恋对象妮基（印达·纳瓦雷
- 特饰）的心。可随着恋情顺遂展开，他逐渐察觉——被
- 召唤来的...\n豆瓣链接：https://movie.douban.com/subject/37450627/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《八仙！》
-DTSTART;VALUE=DATE:20260724
-DTSTAMP:20260713T170357Z
+DTSTART;VALUE=DATE:20260718
+DTSTAMP:20260714T170403Z
 DESCRIPTION:“八仙”在成仙和成功之间选择了“成团”，
  在搞钱和搞事业之间选择了“搞事情”？！吕洞宾、钟
  离权带队，集结何仙姑、铁拐李、韩湘子、曹国舅、蓝
@@ -62,9 +41,19 @@ DESCRIPTION:“八仙”在成仙和成功之间选择了“成团”，
  ct/36882191/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《痴迷》
+DTSTART;VALUE=DATE:20260724
+DTSTAMP:20260714T170403Z
+DESCRIPTION:平凡却对爱情抱有执念的青年贝尔（迈克尔·约
+ 翰斯顿饰）在偶然得知小镇传说后，折断了一截禁忌的
+ “心愿柳”许愿，如愿俘获暗恋对象妮基（印达·纳瓦雷
+ 特饰）的心。可随着恋情顺遂展开，他逐渐察觉——被
+ 召唤来的...\n豆瓣链接：https://movie.douban.com/subject/37450627/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《澎湖海战》
 DTSTART;VALUE=DATE:20260725
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:公元1681年，台湾权臣冯锡范刘国轩弑杀监国郑
  克臧，挟立12岁郑克塽为新王，冯刘集团加剧分疆裂土以
  武谋独进程，并长期袭扰东南沿海城镇。康熙皇帝（易
@@ -74,14 +63,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《蜘蛛侠：崭新之日》
 DTSTART;VALUE=DATE:20260729
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/362
  46195/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《群星闪耀时》
 DTSTART;VALUE=DATE:20260801
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:2035年，三名中国航天员在返回地球途中突遇险
  情，与地面指挥中心彻底失去联系。就在希望破灭的绝
  境中，意外收到一条来自1970的神秘信号，他们该如何求
@@ -91,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《杀死比尔：血色全传》
 DTSTART;VALUE=DATE:20260807
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:新娘（乌玛·瑟曼UmaThurman饰）曾是暗杀组织中
  的一名成员，也是组织首脑比尔（大卫·卡拉丁DavidCarradi
  ne饰）的情人，金盆洗手后的她结识了一个单纯的小伙子
@@ -101,16 +90,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《年会不能停2！》
 DTSTART;VALUE=DATE:20260807
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:当刘奔（张若昀饰）遇上天降搭子马杰（白客
  饰），这对天选“牛马”披荆斩棘，一套组合拳，能否
  打通升职加薪底层逻辑？玩转当下职场规则？\n豆瓣链接
  ：https://movie.douban.com/subject/36850814/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《林家宅37号》
+DTSTART;VALUE=DATE:20260807
+DTSTAMP:20260714T170403Z
+DESCRIPTION:林家宅37号，邪得让人头皮发麻。女主人林思雨
+ 温顺本分，丈夫陶多余却是个混不吝的酒鬼。一夜撒酒
+ 疯后，陶多余竟在自家院里活活被吓死！岛上风传，是
+ 水鬼“阿飘”索了替身。自此，凶宅再无宁日：屋内寒
+ 气刺骨，物件...\n豆瓣链接：https://movie.douban.com/subject/374
+ 35260/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《大唐妖探》
 DTSTART;VALUE=DATE:20260808
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:齿轮机关交织的大唐长安城，奇幻绚丽，飞檐
  翘角之下，人和妖比邻而居。梦想成为“长安第一神探
  ”的天才少年狄少，破案功力一流，毒舌属性更甚；初
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《汪汪队立大功大电影3：勇闯恐龙...》
 DTSTART;VALUE=DATE:20260808
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:一场突如其来的超强风暴，将莱德队长与汪汪
  队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小
  狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《奥德赛》
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:改编自同名荷马史诗，讲述奥德修斯（马特·达
  蒙饰）的故事，以及他在特洛伊战争后10年的回家之旅。
  \n豆瓣链接：https://movie.douban.com/subject/36808876/
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《逃出绝命街》
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:一场神秘事件，让橡树街从平静郊区穿越回史
  前时代，导致恐龙突然惊现人类小区，并开始大肆吃人
  ！普拉特一家发现他们只有团结一心奋力一搏，才有希
@@ -150,14 +150,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《去你的岛》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/352
  75131/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷偷喜欢你》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:苏明仪（程予希饰）暗恋同校的颜立尧（施柏
  宇饰）很久了，没想到分班后成为同学，颜立尧不受拘
  束的性格让他经常被风纪股长苏明仪“记名字”，记着
@@ -166,9 +166,16 @@ DESCRIPTION:苏明仪（程予希饰）暗恋同校的颜立尧（施柏
  94226/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《偷偷藏不住》
+DTSTART;VALUE=DATE:20260819
+DTSTAMP:20260714T170403Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/374
+ 52950/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《我想留在你身边》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:古建筑修复师江南山（毕雯珺饰）对医学院学
  生李艾（何蓝逗饰）一见钟情。本以为是一场普通恋爱
  ，江南山却无意发现李艾来自时间逆向的平行世界，彼
@@ -177,16 +184,9 @@ DESCRIPTION:古建筑修复师江南山（毕雯珺饰）对医学院学
  90242/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《偷偷藏不住》
-DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260713T170357Z
-DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/374
- 52950/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《手捧繁星》
 DTSTART;VALUE=DATE:20260821
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:影片以援疆教师姚思平与学生艾迪娜、斯塔拉
  的十年命运羁绊为主线，融合温暖治愈与轻度悬疑元素
  ——既有师生相互救赎的动人瞬间，也有年轻人直面人
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《密档》
 DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:1942年上海沦陷的至暗时刻里，小沙渡路五十二
  号石库门老房中，数箱中共绝密档案深藏于此。日伪环
  伺，敌我难辨，方寸之间，暗流涌动。市井底层小人物
@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260713T170357Z
+DTSTAMP:20260714T170403Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
