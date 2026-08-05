@@ -4,14 +4,14 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《去你的岛》
 DTSTART;VALUE=DATE:20260807
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/352
  75131/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《冬旅人》
 DTSTART;VALUE=DATE:20260807
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:影片是新疆女导演鲁丹自编自导的第一部作品
  ，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四
  处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《林家宅37号》
 DTSTART;VALUE=DATE:20260807
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:林家宅37号，邪得让人头皮发麻。女主人林思雨
  温顺本分，丈夫陶多余却是个混不吝的酒鬼。一夜撒酒
  疯后，陶多余竟在自家院里活活被吓死！岛上风传，是
@@ -31,20 +31,9 @@ DESCRIPTION:林家宅37号，邪得让人头皮发麻。女主人林思雨
  35260/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《大唐妖探》
-DTSTART;VALUE=DATE:20260808
-DTSTAMP:20260804T170321Z
-DESCRIPTION:齿轮机关交织的大唐长安城，奇幻绚丽，飞檐
- 翘角之下，人和妖比邻而居。梦想成为“长安第一神探
- ”的天才少年狄少，破案功力一流，毒舌属性更甚；初
- 出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离
- 奇命案，让这对冤...\n豆瓣链接：https://movie.douban.com/subje
- ct/35464353/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《汪汪队立大功大电影3：勇闯恐龙...》
 DTSTART;VALUE=DATE:20260808
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:一场突如其来的超强风暴，将莱德队长与汪汪
  队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小
  狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤
@@ -53,9 +42,19 @@ DESCRIPTION:一场突如其来的超强风暴，将莱德队长与汪汪
  ct/36791178/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《欢迎来龙餐馆》
+DTSTART;VALUE=DATE:20260811
+DTSTAMP:20260805T170321Z
+DESCRIPTION:徐福（沈腾饰）为养家还债远赴中东担任一家
+ 中餐馆的主厨，与前台经理马俊生（蒋奇明饰）齐心协
+ 力把龙餐馆经营得蒸蒸日上。然而战争爆发，他们将如
+ 何面对命运无常、现实残酷……\n豆瓣链接：https://movie.d
+ ouban.com/subject/35811064/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《奥德赛》
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:改编自同名荷马史诗，讲述奥德修斯（马特·达
  蒙饰）的故事，以及他在特洛伊战争后10年的回家之旅。
  \n豆瓣链接：https://movie.douban.com/subject/36808876/
@@ -63,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《逃出绝命街》
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:一场神秘事件，让橡树街从平静郊区穿越回史
  前时代，导致恐龙突然惊现人类小区，并开始大肆吃人
  ！普拉特一家发现他们只有团结一心奋力一搏，才有希
@@ -73,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《猫猫的奇幻漂流》
 DTSTART;VALUE=DATE:20260815
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:影片讲述洪水淹没世界，猫猫爬上了一艘帆船
  ，由此开启了一段非凡的旅程。在旅途中，它先后邂逅
  了水豚、狗狗、狐猴、蛇鹫等动物。性格迥异的它们从
@@ -83,14 +82,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不想失去你》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/367
  79597/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷偷喜欢你》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:苏明仪（程予希饰）暗恋同校的颜立尧（施柏
  宇饰）很久了，没想到分班后成为同学，颜立尧不受拘
  束的性格让他经常被风纪股长苏明仪“记名字”，记着
@@ -101,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我想留在你身边》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:古建筑修复师江南山（毕雯珺饰）对医学院学
  生李艾（何蓝逗饰）一见钟情。本以为是一场普通恋爱
  ，江南山却无意发现李艾来自时间逆向的平行世界，彼
@@ -112,21 +111,32 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷偷藏不住》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/374
  52950/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《怒之杀》
 DTSTART;VALUE=DATE:20260821
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/368
  89088/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《大唐妖探》
+DTSTART;VALUE=DATE:20260822
+DTSTAMP:20260805T170321Z
+DESCRIPTION:齿轮机关交织的大唐长安城，奇幻绚丽，飞檐
+ 翘角之下，人和妖比邻而居。梦想成为“长安第一神探
+ ”的天才少年狄少，破案功力一流，毒舌属性更甚；初
+ 出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离
+ 奇命案，让这对冤...\n豆瓣链接：https://movie.douban.com/subje
+ ct/35464353/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《密档》
 DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:1942年上海沦陷，风雨如晦，小沙渡路五十二号
  石库门深宅，悄然藏纳整批我党机要卷宗。日伪窥伺林
  立，周遭敌我难辨，方寸院落，处处暗藏生死危局。地
@@ -136,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《杀死比尔：血色全传》
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:新娘（乌玛·瑟曼UmaThurman饰）曾是暗杀组织中
  的一名成员，也是组织首脑比尔（大卫·卡拉丁DavidCarradi
  ne饰）的情人，金盆洗手后的她结识了一个单纯的小伙子
@@ -146,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《象行记》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:影片旨在记录野生亚洲象群于2020年开启的一场
  举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中
  尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美
@@ -156,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260804T170321Z
+DTSTAMP:20260805T170321Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
