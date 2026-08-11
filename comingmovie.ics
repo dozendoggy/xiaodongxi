@@ -4,7 +4,7 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《奥德赛》
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:改编自同名荷马史诗，讲述奥德修斯（马特·达
  蒙饰）的故事，以及他在特洛伊战争后10年的回家之旅。
  \n豆瓣链接：https://movie.douban.com/subject/36808876/
@@ -12,7 +12,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《逃出绝命街》
 DTSTART;VALUE=DATE:20260814
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:一场神秘事件，让橡树街从平静郊区穿越回史
  前时代，导致恐龙突然惊现人类小区，并开始大肆吃人
  ！普拉特一家发现他们只有团结一心奋力一搏，才有希
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《最小的大片》
 DTSTART;VALUE=DATE:20260817
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:都市小女孩王最小（杨依依饰），爱玩手机等
  电子设备成瘾，说话满嘴网络热梗。她因律师妈妈加班
  食言，执拗回到农村老家与姥爷王大片（郑卫东饰）生
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《机器人总动员》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:公元2805年，人类文明高度发展，却因污染和生
  活垃圾大量增加使得地球不再适于人类居住。地球人被
  迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。
@@ -43,14 +43,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《不想失去你》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/367
  79597/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷偷喜欢你》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:苏明仪（程予希饰）暗恋同校的颜立尧（施柏
  宇饰）很久了，没想到分班后成为同学，颜立尧不受拘
  束的性格让他经常被风纪股长苏明仪“记名字”，记着
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我想留在你身边》
 DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:古建筑修复师江南山（毕雯珺饰）对医学院学
  生李艾（何蓝逗饰）一见钟情。本以为是一场普通恋爱
  ，江南山却无意发现李艾来自时间逆向的平行世界，彼
@@ -70,23 +70,16 @@ DESCRIPTION:古建筑修复师江南山（毕雯珺饰）对医学院学
  90242/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《偷偷藏不住》
-DTSTART;VALUE=DATE:20260819
-DTSTAMP:20260810T170319Z
-DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/374
- 52950/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《怒之杀》
 DTSTART;VALUE=DATE:20260821
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/368
  89088/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《大唐妖探》
 DTSTART;VALUE=DATE:20260822
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:齿轮机关交织的大唐长安城，奇幻绚丽，飞檐
  翘角之下，人和妖比邻而居。梦想成为“长安第一神探
  ”的天才少年狄少，破案功力一流，毒舌属性更甚；初
@@ -97,17 +90,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《肖申克的救赎》
 DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260810T170319Z
-DESCRIPTION:一场谋杀案使银行家安迪（蒂姆·罗宾斯TimRobbin
- s饰）蒙冤入狱，谋杀妻子及其情人的指控将囚禁他终生
+DTSTAMP:20260811T170327Z
+DESCRIPTION:一场谋杀案使银行家安迪（蒂姆•罗宾斯TimRobbi
+ ns饰）蒙冤入狱，谋杀妻子及其情人的指控将囚禁他终生
  。在肖申克监狱的首次现身就让监狱“大哥”瑞德（摩
- 根·弗里曼MorganFreeman...\n豆瓣链接：https://movie.douban.com/su
- bject/1292052/
+ 根•弗里曼MorganFreeman...\n豆瓣链接：https://movie.douban.com/s
+ ubject/1292052/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《密档》
 DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:1942年上海沦陷，风雨如晦，小沙渡路五十二号
  石库门深宅，悄然藏纳整批我党机要卷宗。日伪窥伺林
  立，周遭敌我难辨，方寸院落，处处暗藏生死危局。地
@@ -117,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《时代宠儿》
 DTSTART;VALUE=DATE:20260829
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:影片以女性视角回忆结构展开，讲述改革开放
  背景下一位普通女性跨越数十年的人生选择。安娜（齐
  芳饰）在事业、爱情与家庭之间不断取舍，却因一场绑
@@ -128,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《杀死比尔：血色全传》
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:新娘（乌玛·瑟曼UmaThurman饰）曾是暗杀组织中
  的一名成员，也是组织首脑比尔（大卫·卡拉丁DavidCarradi
  ne饰）的情人，金盆洗手后的她结识了一个单纯的小伙子
@@ -136,9 +129,20 @@ DESCRIPTION:新娘（乌玛·瑟曼UmaThurman饰）曾是暗杀组织中
  ct/10756537/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《浪花儿》
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T170327Z
+DESCRIPTION:雅琴，一心想看世界的女孩。王炯，把告白押
+ 注在事业上的男孩。两个刚毕业的朋友都想逃离原生家
+ 庭实现自我价值。但当不完美的社会和不完美的自己碰
+ 撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞
+ 撞的成长，究竟会...\n豆瓣链接：https://movie.douban.com/subje
+ ct/37527015/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《象行记》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:影片旨在记录野生亚洲象群于2020年开启的一场
  举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中
  尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美
@@ -148,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260810T170319Z
+DTSTAMP:20260811T170327Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
