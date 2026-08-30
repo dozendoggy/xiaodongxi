@@ -2,261 +2,122 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《肖申克的救赎》
-DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260826T170346Z
-DESCRIPTION:一场谋杀案使银行家安迪（蒂姆·罗宾斯TimRobbin
- s饰）蒙冤入狱，谋杀妻子及其情人的指控将囚禁他终生
- 。在肖申克监狱的首次现身就让监狱“大哥”瑞德（摩
- 根·弗里曼MorganFreeman饰）对他另眼相看。瑞德帮助他搞
- 到一把石锤和一幅女明星海报，两人渐成患难之交。很
- 快，安迪在监狱里大显其才，担当监狱图书管理员，并
- 利用自己的金融知识帮助监狱官避税，引起了典狱长的
- 注意，被招致麾下帮助典狱长洗黑钱。偶然一次，他得
- 知一名新入狱的小偷能够作证帮他洗脱谋杀罪。燃起一
- 丝希望的安迪找到了典狱长，希望他能帮自己翻案。阴
- 险伪善的狱长假装答应安迪，背后却派人杀死小偷，让
- 他唯一能合法出狱的希望泯灭。沮丧的安迪并没有绝望
- ，在一个电闪雷鸣的风雨夜，一场暗藏几十年的越狱计
- 划让他自我救赎，重获自由！老朋友瑞德在他的鼓舞和
- 帮助下，也勇敢地奔向自由。影片获得1995年奥斯卡7项提
- 名，以及金球奖、土星奖等多项提名。\n豆瓣链接：https:
- //movie.douban.com/subject/1292052/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《数到三》
-DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260826T170346Z
-DESCRIPTION:一颗心脏，竟藏了三个人的秘密。一句“数到
- 三”，竟埋下了命运隐秘的伏笔。舞蹈老师战玉梅（惠
- 英红饰）深陷丧子之痛，陌生男孩余景阳（张宥浩饰）
- 意外闯入了她的生活，给她带来了莫大的安慰。然而，
- 她恍然发现，自己苦苦追寻儿子何一帆（黄子弘凡饰）
- 的那颗心脏，现在正跳动在余景阳的胸口，所有的“巧
- 遇”竟全是精心的设计。当真相的利刃划破假象，曾经
- 的温情又能否抵挡命运的残酷？\n豆瓣链接：https://movie.d
- ouban.com/subject/36931140/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《密档》
-DTSTART;VALUE=DATE:20260828
-DTSTAMP:20260826T170346Z
-DESCRIPTION:1942年上海沦陷，风雨如晦，小沙渡路五十二号
- 石库门深宅，悄然藏纳整批我党机要卷宗。日伪窥伺林
- 立，周遭敌我难辨，方寸院落，处处暗藏生死危局。地
- 下党员徐书亭（袁弘饰）与妻子沈玉琳（李妍锡饰）临
- 危受命，隐于市井人海，恰如沧海滴水，在颠沛乱世中
- 以身赴险，用生命守护希望的火种。\n豆瓣链接：https://m
- ovie.douban.com/subject/35209727/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《时代宠儿》
-DTSTART;VALUE=DATE:20260829
-DTSTAMP:20260826T170346Z
-DESCRIPTION:影片以女性视角回忆结构展开，讲述改革开放
- 背景下一位普通女性跨越数十年的人生选择。安娜（齐
- 芳饰）在事业、爱情与家庭之间不断取舍，却因一场绑
- 架失去母亲、与孩子离散。当孩子带着误解踏上寻母之
- 路，安娜也开始直面内心深处的愧疚与创伤。\n豆瓣链接
- ：https://movie.douban.com/subject/38592284/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《杀死比尔：血色全传》
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260826T170346Z
-DESCRIPTION:新娘（乌玛·瑟曼UmaThurman饰）曾是暗杀组织中
- 的一名成员，也是组织首脑比尔（大卫·卡拉丁DavidCarradi
- ne饰）的情人，金盆洗手后的她结识了一个单纯的小伙子
- 并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然
- 出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成
- 人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起
- 的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和
- 爱人，是如今的敌人。满腔怒火的新娘要一一找到这些
- 人，开启血色复仇……\n豆瓣链接：https://movie.douban.com/su
- bject/10756537/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/107
+ 56537/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《坠落2：死点》
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260826T170346Z
-DESCRIPTION:泰国封闭30多年的关山山脉，海拔超900米的高空
- 魔鬼栈道，此前已发生多起高空坠落事件，是当地公认
- 的“死亡禁区”。贾克斯（哈里特·斯莱特饰）为了完成
- 姐姐希洛（维吉尼亚·加德纳饰）作为极限爱好者的遗愿
- ，与她生前好友卢斯（阿塞玛·托马斯饰）结伴来此挑战
- 。上一秒两人还欢呼打卡于绝美壮丽的高空景色，却不
- 料下一秒突如其来的地震滑坡便将她们逼入绝境。暴雨
- 、失温、零信号、零补给……脚下的木板随时会断，头
- 顶的碎石不停掉落，两人只能抓住残破的栈道边缘攀爬
- ，在暴雨中寻找每一个可以落脚的支点，靠撕裂衣物做
- 绳、用碎石敲击岩壁传讯。绝壁之上，前无去路，后有
- 塌方，她们究竟能否成功生还？\n豆瓣链接：https://movie.d
- ouban.com/subject/36318704/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/363
+ 18704/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《怒之杀》
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260826T170346Z
-DESCRIPTION:科尔·里德（杰森·斯坦森饰）是富豪蒂布（阿
- 蒙·蒂卡拉姆饰）的贴身保镖，但一场意外袭击让蒂布丧
- 命，科尔也被诬陷为凶手，全境通缉。恩人被杀、自己
- 蒙冤，科尔带着满腔愤怒，只身闯入远洋货轮开启一秒
- 收割一命的硬核复仇，又意外揭开了一个骇人听闻的阴
- 谋……怒火点燃大海，货轮成为血色牢笼，一场避无可
- 避的厮杀即将展开！\n豆瓣链接：https://movie.douban.com/subje
- ct/36889088/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/368
+ 89088/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《怪屋》
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260826T170346Z
-DESCRIPTION:常年游走于凶宅的试睡员吴霜（傅菁饰），在
- 某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来
- 试睡的菜鸟博主年轮（苏劲源饰），试睡过程中屋内频
- 频出现各种“怪事”：诡异声响夜半不绝、不明血印墙
- 面浮现、屋内空间错乱颠倒。一系列异常出现的原因究
- 竟是什么？这座怪屋里还隐藏着哪些秘密？\n豆瓣链接：
- https://movie.douban.com/subject/37427091/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/374
+ 27091/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《燃烧吧！爸爸》
 DTSTART;VALUE=DATE:20260905
-DTSTAMP:20260826T170346Z
-DESCRIPTION:顾立言（文淇饰）与妈妈吴开蒂（倪虹洁饰）
- 面临至亲离别，追忆欢愉往昔，亦要面对遭逢变故后的
- 各自成长。即将大学毕业的顾立言（文淇饰）与精明伶
- 俐的母亲吴开蒂（倪虹洁饰）关系微妙，随着父亲顾卫
- 星（喻恩泰饰）的久病离世，二人一边应对繁琐未知的
- 丧葬流程，一边发现父亲的另外一面人生。这对性格迥
- 异的母女在各类啼笑皆非又荒诞抓马的事件中彼此了解
- ，也更懂得那个处处为二人着想的父亲。\n豆瓣链接：htt
- ps://movie.douban.com/subject/36903929/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/369
+ 03929/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《红闪电》
 DTSTART;VALUE=DATE:20260905
-DTSTAMP:20260826T170346Z
-DESCRIPTION:影片讲述11岁少女达达因家庭变故产生心理上的
- 苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将
- 她放到表哥经营的马场暂住。内心封闭的达达在那里结
- 识了一个因比赛事故而自我放逐的冠军选手向飞，以及
- 他的最佳搭档赛马“红闪电”。在相处中，双方看到了
- 各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找
- 到心的方向，从而领悟了人和马在跨越现实与心灵的重
- 重障碍中得到升华，实现了双向救赎，找回丢失的勇气
- 与自我，也深刻理解了羁绊、离别与成长的意义。\n豆瓣
- 链接：https://movie.douban.com/subject/37171813/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/371
+ 71813/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《浪花儿》
 DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260826T170346Z
-DESCRIPTION:雅琴，一心想看世界的女孩。王炯，把告白押
- 注在事业上的男孩。两个刚毕业的朋友都想逃离原生家
- 庭实现自我价值。但当不完美的社会和不完美的自己碰
- 撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞
- 撞的成长，究竟会让他们变成什么样?\n豆瓣链接：https://
- movie.douban.com/subject/37527015/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/375
+ 27015/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷偷喜欢你》
 DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260826T170346Z
-DESCRIPTION:苏明仪（程予希饰）暗恋同校的颜立尧（施柏
- 宇饰）很久了，没想到分班后成为同学，颜立尧不受拘
- 束的性格让他经常被风纪股长苏明仪“记名字”，记着
- 记着，同时也在心里刻下了不可磨灭的印记，殊不知，
- 卸下风纪的她，只是一个暗恋他许久的傻女孩罢了。当
- 别人还在挥霍青春，年少的三人被迫提早面对人生的课
- 题。“其实，我早就喜欢你，只是不敢告诉你”⋯故事
- 线长达10年，懵懂的他们各自把秘密埋在心底，直到真正
- 变成大人的那一天。\n豆瓣链接：https://movie.douban.com/subje
- ct/36994226/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/369
+ 94226/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我想留在你身边》
 DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260826T170346Z
-DESCRIPTION:古建筑修复师江南山（毕雯珺饰）对医学院学
- 生李艾（何蓝逗饰）一见钟情。本以为是一场普通恋爱
- ，江南山却无意发现李艾来自时间逆向的平行世界，彼
- 此的时间线互为倒流——他的明天，是她的昨天。每一
- 天都是唯一的相遇，每一次拥抱都在告别。在有限的交
- 错时光里，相遇即是倒计时，但有些人能够遇见已经很
- 幸运了，与其害怕结局，不如在我们能爱的时候用力去
- 爱！\n豆瓣链接：https://movie.douban.com/subject/35390242/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/353
+ 90242/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《目不转睛》
 DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260826T170346Z
-DESCRIPTION:苏娜因母亲脑机手术死亡自责而抑郁，心理治
- 疗中坠入意识循环。在男友家的诡异别墅里，她发现四
- 人竟是自身心魔的化身，唯有直面愧疚才能打破轮回，
- 完成自我救赎。\n豆瓣链接：https://movie.douban.com/subject/375
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/375
  17044/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《复仇者联盟4：终局之战》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260826T170346Z
-DESCRIPTION:一声响指，宇宙间半数生命灰飞烟灭。几近绝
- 望的复仇者们在惊奇队长（布丽·拉尔森BrieLarson饰）的
- 帮助下找到灭霸（乔什·布洛林JoshBrolin饰）归隐之处，
- 却得知六颗无限宝石均被销毁，希望彻底破灭。如是过
- 了五年，迷失在量子领域的蚁人（保罗·路德PaulRudd饰）
- 意外回到现实世界，他的出现为幸存的复仇者们点燃了
- 希望。与美国队长（克里斯·埃文斯ChrisEvans饰）冰释前
- 嫌的托尼（小罗伯特·唐尼RobertDowneyJr.饰）找到了穿越时
- 空的方法，星散各地的超级英雄再度集结，他们分别穿
- 越不同的时代去搜集无限宝石。而在这一过程中，平行
- 宇宙的灭霸察觉了他们的计划。注定要载入史册的最终
- 决战，超级英雄们为了心中恪守的信念前仆后继……\n豆
- 瓣链接：https://movie.douban.com/subject/26100958/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/261
+ 00958/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《老江湖》
+DTSTART;VALUE=DATE:20260925
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/358
+ 40408/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《梁祝·化蝶》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260826T170346Z
-DESCRIPTION:祝府千金祝英台（李云霄配音）一心向往自由
- ，决定女扮男装赴书院求学，只想亲自看看自己的人生
- 究竟可以是什么模样。在那里，她遇见了梁山伯（孙翔
- 宇配音），两人意气相投，感情日益升温，然而，两情
- 相悦却撞上现实无情，一段良缘被命运推向了生离死别
- 。如果早知道相遇的尽头是失去，他们还会不会走向彼
- 此？梁山伯与祝英台给出的答案，是会。因为有些相遇
- ，未必为了拥有一生，却值得真心爱过、活过。此生无
- 法并肩，他们便化作一双蝴蝶，让没有结果的爱情，拥
- 有一个永不分离的结局。\n豆瓣链接：https://movie.douban.com
- /subject/36421885/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/364
+ 21885/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《死亡禁区实录》
+DTSTART;VALUE=DATE:20260925
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/373
+ 80650/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《铁达妮的号》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260826T170346Z
-DESCRIPTION:影片以诙谐幽默的方式描述几位小人物在充满
- 挑战的爱情、职场、生活中，一路披荆斩棘，最终赢得
- 了自己的精彩人生的故事。\n豆瓣链接：https://movie.douban.
- com/subject/37144718/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/371
+ 44718/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《象行记》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260826T170346Z
-DESCRIPTION:影片旨在记录野生亚洲象群于2020年开启的一场
- 举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中
- 尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美
- 风光，揭示人类与野生大象之间的动人故事和鲜为人知
- 的秘密。\n豆瓣链接：https://movie.douban.com/subject/36464801/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/364
+ 64801/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260826T170346Z
-DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
- 推进器，寻找新的家园。然而宇宙之路危机四伏，为了
- 拯救地球，为了人类能在漫长的2500年后抵达新家园，最
- 终，流浪地球时代的年轻人挺身而出，展开争分夺秒的
- 生死之战。\n豆瓣链接：https://movie.douban.com/subject/36212391/
+DTSTAMP:20260830T170311Z
+DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/362
+ 12391/
 END:VEVENT
 END:VCALENDAR
