@@ -2,59 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《浪花儿》
-DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260909T170330Z
-DESCRIPTION:雅琴，一心想看世界的女孩。王炯，把告白押
- 注在事业上的男孩。两个刚毕业的朋友都想逃离原生家
- 庭实现自我价值。但当不完美的社会和不完美的自己碰
- 撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞
- 撞的成长，究竟会让他们变成什么样?\n豆瓣链接：https://
- movie.douban.com/subject/37527015/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《我想留在你身边》
-DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260909T170330Z
-DESCRIPTION:古建筑修复师江南山（毕雯珺饰）对医学院学
- 生李艾（何蓝逗饰）一见钟情。本以为是一场普通恋爱
- ，江南山却无意发现李艾来自时间逆向的平行世界，彼
- 此的时间线互为倒流——他的明天，是她的昨天。每一
- 天都是唯一的相遇，每一次拥抱都在告别。在有限的交
- 错时光里，相遇即是倒计时，但有些人能够遇见已经很
- 幸运了，与其害怕结局，不如在我们能爱的时候用力去
- 爱！\n豆瓣链接：https://movie.douban.com/subject/35390242/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《偷偷喜欢你》
-DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260909T170330Z
-DESCRIPTION:苏明仪（程予希饰）暗恋同校的颜立尧（施柏
- 宇饰）很久了，没想到分班后成为同学，颜立尧不受拘
- 束的性格让他经常被风纪股长苏明仪“记名字”，记着
- 记着，同时也在心里刻下了不可磨灭的印记，殊不知，
- 卸下风纪的她，只是一个暗恋他许久的傻女孩罢了。当
- 别人还在挥霍青春，年少的三人被迫提早面对人生的课
- 题。“其实，我早就喜欢你，只是不敢告诉你”⋯故事
- 线长达10年，懵懂的他们各自把秘密埋在心底，直到真正
- 变成大人的那一天。\n豆瓣链接：https://movie.douban.com/subje
- ct/36994226/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《床下有人4》
-DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260909T170330Z
-DESCRIPTION:民国时期的上海。杜采薇是电影明星沈雨梦的
- 表妹，也是她的私人助手。杜采薇经常做噩梦，看到床
- 下有女鬼爬出，要加害她们姐妹二人！当她解开心结，
- 了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼
- 再次从床下爬出来，白脸惊魂，利爪骇人……这一次，
- 不是梦！\n豆瓣链接：https://movie.douban.com/subject/36961914/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《目不转睛》
 DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:苏娜因母亲脑机手术死亡自责而抑郁，心理治
  疗中坠入意识循环。在男友家的诡异别墅里，她发现四
  人竟是自身心魔的化身，唯有直面愧疚才能打破轮回，
@@ -64,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《一路超平安》
 DTSTART;VALUE=DATE:20260919
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:一位不着调父亲的自洽之旅，老蔡带着他珍宝
  般特别的儿子上路旅行，去实现梦想。他们沿路向南，
  经历了人生一般的嬉闹苦痛，这一路不太平，但这一路
@@ -74,14 +24,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《那些年我们的初恋》
 DTSTART;VALUE=DATE:20260920
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/350
  27221/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《明月照他乡》
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:本片把镜头聚焦六位外籍留学生在中国的学习
  与成长，通过长达两年零两个月，跨越亚洲、非洲、北
  美的拍摄，真实展现这些来自不同国家、不同种族的青
@@ -93,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《复仇者联盟4：终局之战》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:一声响指，宇宙间半数生命灰飞烟灭。几近绝
  望的复仇者们在惊奇队长（布丽·拉尔森BrieLarson饰）的
  帮助下找到灭霸（乔什·布洛林JoshBrolin饰）归隐之处，
@@ -111,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《老江湖》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:一条命案、一笔巨额欠款、一场做空操盘……
  全因一起平平无奇却又疑点重重的失窃案而起。即将退
  休的民警井有正（于谦饰）发现了蹊跷，随着调查的深
@@ -124,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《死亡禁区实录》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:废弃诈骗园区化身血色炼狱，为了千万直播赏
  金，为了至亲的救命医药费，为了失踪在园区的家人，
  一支各怀隐情的搜救队冒死进入404死亡禁区。水牢、血
@@ -133,18 +83,9 @@ DESCRIPTION:废弃诈骗园区化身血色炼狱，为了千万直播赏
  ：https://movie.douban.com/subject/37380650/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《铁达妮的号》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260909T170330Z
-DESCRIPTION:影片以诙谐幽默的方式描述几位小人物在充满
- 挑战的爱情、职场、生活中，一路披荆斩棘，最终赢得
- 了自己的精彩人生的故事。\n豆瓣链接：https://movie.douban.
- com/subject/37144718/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《凝脂手》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:七十年代末，素有“豆腐之乡”之称的石牌古
  镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想
  从这里走向全国，走向世界，让古老的豆腐焕发青春，
@@ -152,9 +93,18 @@ DESCRIPTION:七十年代末，素有“豆腐之乡”之称的石牌古
  瓣链接：https://movie.douban.com/subject/37667170/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《铁达妮的号》
+DTSTART;VALUE=DATE:20260925
+DTSTAMP:20260913T170309Z
+DESCRIPTION:影片以诙谐幽默的方式描述几位小人物在充满
+ 挑战的爱情、职场、生活中，一路披荆斩棘，最终赢得
+ 了自己的精彩人生的故事。\n豆瓣链接：https://movie.douban.
+ com/subject/37144718/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《红衣新娘》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:民国初年民不聊生，唯有阴魂镇自成一方，村
  民自得其乐，却在某一深夜一红衣女子到访后，打破了
  镇上原本的宁静，一切看似巧合，时则是有心人书晨变
@@ -164,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《野兽之心》
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:在一场惨烈的坠机事故后，特种部队军官詹姆
  斯·贝尔蒙特（布拉德·皮特饰）与他的军犬奥丁绝处逢
  生，被困于极寒险恶的阿拉斯加荒野。面对严酷极端的
@@ -174,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《活色生香》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:快60岁还爱“年上”的薛宝梅（闫妮饰）人民公
  园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不
  清，难顶！金钱主义的蒋芳芳（叶童饰）本是只寻搭子
@@ -187,9 +137,19 @@ DESCRIPTION:快60岁还爱“年上”的薛宝梅（闫妮饰）人民公
  an.com/subject/37899051/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《小猪佩奇·完美假期》
+DTSTART;VALUE=DATE:20261001
+DTSTAMP:20260913T170309Z
+DESCRIPTION:当佩奇得知今年全家不会去度假时，她感到非
+ 常失落。然而一场突如其来的暴风雨，竟将她带到了遥
+ 远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，
+ 佩奇拥有了最完美的假期。\n豆瓣链接：https://movie.douban.
+ com/subject/36964833/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《象行记》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:影片旨在记录野生亚洲象群于2020年开启的一场
  举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中
  尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美
@@ -199,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260909T170330Z
+DTSTAMP:20260913T170309Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
