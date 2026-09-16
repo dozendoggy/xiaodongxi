@@ -2,19 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《目不转睛》
-DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260915T170332Z
-DESCRIPTION:苏娜因母亲脑机手术死亡自责而抑郁，心理治
- 疗中坠入意识循环。在男友家的诡异别墅里，她发现四
- 人竟是自身心魔的化身，唯有直面愧疚才能打破轮回，
- 完成自我救赎。\n豆瓣链接：https://movie.douban.com/subject/375
- 17044/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《上海女儿》
 DTSTART;VALUE=DATE:20260919
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:上海女性阿茗独自来到西双版纳，试图在父亲
  曾插队过的橡胶林农场寻找两位下落不明的故人，但一
  系列出乎意料的奇遇与发现，正在这片热带密林深处等
@@ -23,7 +13,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《一路超平安》
 DTSTART;VALUE=DATE:20260919
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:一位不着调父亲的自洽之旅，老蔡带着他珍宝
  般特别的儿子上路旅行，去实现梦想。他们沿路向南，
  经历了人生一般的嬉闹苦痛，这一路不太平，但这一路
@@ -33,14 +23,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《那些年我们的初恋》
 DTSTART;VALUE=DATE:20260920
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:无简介\n豆瓣链接：https://movie.douban.com/subject/350
  27221/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《明月照他乡》
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:本片把镜头聚焦六位外籍留学生在中国的学习
  与成长，通过长达两年零两个月，跨越亚洲、非洲、北
  美的拍摄，真实展现这些来自不同国家、不同种族的青
@@ -52,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《复仇者联盟4：终局之战》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:一声响指，宇宙间半数生命灰飞烟灭。几近绝
  望的复仇者们在惊奇队长（布丽·拉尔森BrieLarson饰）的
  帮助下找到灭霸（乔什·布洛林JoshBrolin饰）归隐之处，
@@ -70,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《老江湖》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:一条命案、一笔巨额欠款、一场做空操盘……
  全因一起平平无奇却又疑点重重的失窃案而起。即将退
  休的民警井有正（于谦饰）发现了蹊跷，随着调查的深
@@ -83,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《死亡禁区实录》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:废弃诈骗园区化身血色炼狱，为了千万直播赏
  金，为了至亲的救命医药费，为了失踪在园区的家人，
  一支各怀隐情的搜救队冒死进入404死亡禁区。水牢、血
@@ -94,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《凝脂手》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:七十年代末，素有“豆腐之乡”之称的石牌古
  镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想
  从这里走向全国，走向世界，让古老的豆腐焕发青春，
@@ -104,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《铁达妮的号》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:影片以诙谐幽默的方式描述几位小人物在充满
  挑战的爱情、职场、生活中，一路披荆斩棘，最终赢得
  了自己的精彩人生的故事。\n豆瓣链接：https://movie.douban.
@@ -113,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《红衣新娘》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:民国初年民不聊生，唯有阴魂镇自成一方，村
  民自得其乐，却在某一深夜一红衣女子到访后，打破了
  镇上原本的宁静，一切看似巧合，时则是有心人书晨变
@@ -123,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《最后，一根稻草托起了下巴》
 DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:只身前往儿时居住的小镇一探究竟后，沙野决
  定到家人曾经生活过的沙漠中去寻找过去；旅途中，她
  收获了许多来自陌生人的善意并重新开始思考生命存在
@@ -132,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《野兽之心》
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:在一场惨烈的坠机事故后，特种部队军官詹姆
  斯·贝尔蒙特（布拉德·皮特饰）与他的军犬奥丁绝处逢
  生，被困于极寒险恶的阿拉斯加荒野。面对严酷极端的
@@ -140,9 +130,24 @@ DESCRIPTION:在一场惨烈的坠机事故后，特种部队军官詹姆
  。\n豆瓣链接：https://movie.douban.com/subject/36828393/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《神探之痕迹‎》
+DTSTART;VALUE=DATE:20261001
+DTSTAMP:20260916T170325Z
+DESCRIPTION:1971冰城色魔案、1983特大杀人抢劫案、1998公交
+ 车爆炸案、2016系列强奸杀人案……从不被重视的技术员
+ ，到屡开先例的痕检专家，崔寻（张译饰）潜心多年，
+ 坚守一线，与法医黄仁德（马丽饰）、刑警王卫国（陈
+ 明昊饰）等联手破获重案要案，创造多项世界先例。一
+ 双看穿迷雾的眼，一颗“为人民服务”的心，一段又一
+ 段艰难坎坷的路，不断寻找着真相与正义的痕迹……影
+ 片取材于真实案件，以“七一勋章”获得者、著名痕迹
+ 检验专家崔道植同志的先进事迹为蓝本创作。\n豆瓣链接
+ ：https://movie.douban.com/subject/37247814/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《活色生香》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:快60岁还爱“年上”的薛宝梅（闫妮饰）人民公
  园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不
  清，难顶！金钱主义的蒋芳芳（叶童饰）本是只寻搭子
@@ -157,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《小猪佩奇·完美假期》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:当佩奇得知今年全家不会去度假时，她感到非
  常失落。然而一场突如其来的暴风雨，竟将她带到了遥
  远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，
@@ -167,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《鲸口脱险》
 DTSTART;VALUE=DATE:20261016
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:杰伊（奥斯汀·艾布拉姆斯饰）的父亲痴迷大海
  ，却与儿子的关系日渐生疏。父亲去世后，杰伊前往加
  州中部海岸潜水，只为寻找父亲的遗骨，却意外被一头
@@ -184,7 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《生日快乐》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:八岁的小女孩托哈在开罗一个富裕家庭当童工
  女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆
  祝过自己生日的托哈下定决心要为奈莉举办一场完美的
@@ -197,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《象行记》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:影片旨在记录野生亚洲象群于2020年开启的一场
  举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中
  尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美
@@ -207,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260915T170332Z
+DTSTAMP:20260916T170325Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
