@@ -2,108 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《复仇者联盟4：终局之战》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:一声响指，宇宙间半数生命灰飞烟灭。几近绝
- 望的复仇者们在惊奇队长（布丽·拉尔森BrieLarson饰）的
- 帮助下找到灭霸（乔什·布洛林JoshBrolin饰）归隐之处，
- 却得知六颗无限宝石均被销毁，希望彻底破灭。如是过
- 了五年，迷失在量子领域的蚁人（保罗·路德PaulRudd饰）
- 意外回到现实世界，他的出现为幸存的复仇者们点燃了
- 希望。与美国队长（克里斯·埃文斯ChrisEvans饰）冰释前
- 嫌的托尼（小罗伯特·唐尼RobertDowneyJr.饰）找到了穿越时
- 空的方法，星散各地的超级英雄再度集结，他们分别穿
- 越不同的时代去搜集无限宝石。而在这一过程中，平行
- 宇宙的灭霸察觉了他们的计划。注定要载入史册的最终
- 决战，超级英雄们为了心中恪守的信念前仆后继……\n豆
- 瓣链接：https://movie.douban.com/subject/26100958/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《敦煌英雄》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:大唐敦煌，重镇漠州。安史之乱后，漠州陷于
- 河西匪军之手，大唐守军全数殉国。此后六十载，丝路
- 断绝，生灵涂炭。匪军首领任光热凶残暴虐，倒行逆施
- ，妄图“还民为奴”。“狮子吼，唐军归。”这句流传
- 了六十年的传说，是漠州人最后的念想。可铜狮沉默，
- 唐旗无踪，传说能否应验？名门望族张佑承隐忍多年，
- 终于举事，归义火种在绝望中点燃。然而敌众我寡，漠
- 州命悬一线，最后的希望落在仓皇出城的小队身上——
- 狼鹞子、诺次、张月牙、曹光宗。黄沙之下，埋着六十
- 年前的唐军；壁画深处，藏着无人知晓的秘密。孤勇的
- 旗手、神秘的张都尉、苦守石窟的廖黑云……那些被风
- 沙掩埋的名字将逐一登场，一同回答那个问题：唐旗，
- 还能不能重新飘扬在漠州城头？\n豆瓣链接：https://movie.d
- ouban.com/subject/35244246/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《老江湖》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:一条命案、一笔巨额欠款、一场做空操盘……
- 全因一起平平无奇却又疑点重重的失窃案而起。即将退
- 休的民警井有正（于谦饰）发现了蹊跷，随着调查的深
- 入，所有线索都指向明典集团董事长边居寒（梁家辉饰
- ）。老井锲而不舍查案主动出击，边总亦发起反攻。真
- 相究竟是什么？正邪善恶的对抗中，两位又将上演怎样
- 的江湖好戏？\n豆瓣链接：https://movie.douban.com/subject/358404
- 08/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《死亡禁区实录》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:废弃诈骗园区化身血色炼狱，为了千万直播赏
- 金，为了至亲的救命医药费，为了失踪在园区的家人，
- 一支各怀隐情的搜救队冒死进入404死亡禁区。水牢、血
- 牛库、电刑，黑暗中无差别残酷虐杀接连失控。全球直
- 播的镜头下，等待他们的究竟是人是“诡”？\n豆瓣链接
- ：https://movie.douban.com/subject/37380650/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《凝脂手》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:七十年代末，素有“豆腐之乡”之称的石牌古
- 镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想
- 从这里走向全国，走向世界，让古老的豆腐焕发青春，
- 成为舌尖上的美味佳肴，也为石牌创造了巨大财富。\n豆
- 瓣链接：https://movie.douban.com/subject/37667170/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《铁达妮的号》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:影片以诙谐幽默的方式描述几位小人物在充满
- 挑战的爱情、职场、生活中，一路披荆斩棘，最终赢得
- 了自己的精彩人生的故事。\n豆瓣链接：https://movie.douban.
- com/subject/37144718/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《红衣新娘》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:民国初年民不聊生，唯有阴魂镇自成一方，村
- 民自得其乐，却在某一深夜一红衣女子到访后，打破了
- 镇上原本的宁静，一切看似巧合，时则是有心人书晨变
- 换身份潜伏伺机复仇，才制造了一系列诡异的事件。\n豆
- 瓣链接：https://movie.douban.com/subject/37407445/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《最后，一根稻草托起了下巴》
-DTSTART;VALUE=DATE:20260925
-DTSTAMP:20260923T170343Z
-DESCRIPTION:只身前往儿时居住的小镇一探究竟后，沙野决
- 定到家人曾经生活过的沙漠中去寻找过去；旅途中，她
- 收获了许多来自陌生人的善意并重新开始思考生命存在
- 的意义。\n豆瓣链接：https://movie.douban.com/subject/38376267/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《野兽之心》
 DTSTART;VALUE=DATE:20260930
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:在一场惨烈的坠机事故后，特种部队军官詹姆
  斯·贝尔蒙特（布拉德·皮特饰）与他的军犬奥丁绝处逢
  生，被困于极寒险恶的阿拉斯加荒野。面对严酷极端的
@@ -113,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《神探之痕迹‎》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:1971冰城色魔案、1983特大杀人抢劫案、1998公交
  车爆炸案、2016系列强奸杀人案……从不被重视的技术员
  ，到屡开先例的痕检专家，崔寻（张译饰）潜心多年，
@@ -128,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《活色生香》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:快60岁还爱“年上”的薛宝梅（闫妮饰）人民公
  园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不
  清，难顶！金钱主义的蒋芳芳（叶童饰）本是只寻搭子
@@ -143,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《侦战》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:一名嫌疑犯于东城警署羁押仓内离奇蒸发。探
  员“默子”（古天乐饰）奋力缉捕搜索，依然零线索、
  零头绪。百思莫解之际，默子接到匪夷所思的消息，逃
@@ -158,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《什么意思夫妇》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:同在一个屋檐下，日子却过得没滋没味。沈默
  （小沈阳饰）和尤天意（沈春阳饰）这对老夫老妻，究
  竟是怎么硬生生把N年婚姻，熬成了“对抗路”上的极限
@@ -177,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《小猪佩奇·完美假期》
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:当佩奇得知今年全家不会去度假时，她感到非
  常失落。然而一场突如其来的暴风雨，竟将她带到了遥
  远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，
@@ -185,9 +86,20 @@ DESCRIPTION:当佩奇得知今年全家不会去度假时，她感到非
  com/subject/36964833/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《新大头儿子和小头爸爸之天眼系列...》
+DTSTART;VALUE=DATE:20261001
+DTSTAMP:20260927T170323Z
+DESCRIPTION:为了替小头爸爸出气整顿职场，大头儿子借助
+ 天眼的魔法瞬间长大，但是到失控的第七天，情况越发
+ 难以控制，大头儿子与天眼还会碰撞出怎样的火花？七
+ 天魔法将尽，他们又该如何收场？影片是《大头儿子和
+ 小头爸爸》与《天眼》两大国民级卡通联动。\n豆瓣链接
+ ：https://movie.douban.com/subject/38902940/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《重生2》
 DTSTART;VALUE=DATE:20261003
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:异国罪案频发，希拉（梁洛施饰）的儿子竟成
  为罪恶产业链的无辜牺牲品？！绝境之下，她与同样承
  受丧亲之痛的苏诚（文俊辉饰）联手复仇，誓要扳倒罪
@@ -197,9 +109,20 @@ DESCRIPTION:异国罪案频发，希拉（梁洛施饰）的儿子竟成
  链接：https://movie.douban.com/subject/37403222/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《生化危机：爆发夜》
+DTSTART;VALUE=DATE:20261005
+DTSTAMP:20260927T170323Z
+DESCRIPTION:故事聚焦奉命奔赴浣熊市的医疗速递员布莱恩
+ （奥斯汀·艾布拉姆斯饰），意外深陷全城失控的病毒浩
+ 劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，
+ 身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，
+ 搏出一线生机？\n豆瓣链接：https://movie.douban.com/subject/370
+ 68446/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《鲸口脱险》
 DTSTART;VALUE=DATE:20261016
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:杰伊（奥斯汀·艾布拉姆斯饰）的父亲痴迷大海
  ，却与儿子的关系日渐生疏。父亲去世后，杰伊前往加
  州中部海岸潜水，只为寻找父亲的遗骨，却意外被一头
@@ -216,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《生日快乐》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:八岁的小女孩托哈在开罗一个富裕家庭当童工
  女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆
  祝过自己生日的托哈下定决心要为奈莉举办一场完美的
@@ -229,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《象行记》
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:影片旨在记录野生亚洲象群于2020年开启的一场
  举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中
  尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美
@@ -237,9 +160,34 @@ DESCRIPTION:影片旨在记录野生亚洲象群于2020年开启的一场
  的秘密。\n豆瓣链接：https://movie.douban.com/subject/36464801/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《三星堆：未来往事》
+DTSTART;VALUE=DATE:20261023
+DTSTAMP:20260927T170323Z
+DESCRIPTION:在影片的科幻设定中，三星堆青铜器的刻符里
+ 隐藏着不属于那个时代的二进制密码。三千年后，超级AI
+ 席卷世界，人类将一切交给算法，却陷入全球危机。一
+ 位考古学者发现，破解危机的关键密钥竟是青铜器中的
+ 七个三星堆刻符。一场围绕远古密码的冒险由此展开。
+ 古蜀文明留下了怎样的警示？未来的人类能否读懂？影
+ 片将三星堆文明之谜与人类对超级AI的依赖联系起来，让
+ 一次考古探秘成为追寻未来答案的起点。\n豆瓣链接：htt
+ ps://movie.douban.com/subject/37509917/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《试探》
+DTSTART;VALUE=DATE:20261120
+DTSTAMP:20260927T170323Z
+DESCRIPTION:为了测试男友丁伯阳对自己的爱，万影策划了
+ 一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年
+ 轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居
+ 。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起
+ ，自己也成为了这场试探游戏的危险玩家之一……\n豆瓣
+ 链接：https://movie.douban.com/subject/35068655/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《活久久》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:改编自感动全网的“霍九九”真实故事：乐观
  开朗的律所女孩许倩（张艺凡饰）与逗趣幽默的广告公
  司经理乔一泽（陈立农饰）在网络因共同爱好结识并陷
@@ -252,9 +200,20 @@ DESCRIPTION:改编自感动全网的“霍九九”真实故事：乐观
  33/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《狼牙行动》
+DTSTART;VALUE=DATE:20261231
+DTSTAMP:20260927T170323Z
+DESCRIPTION:退伍侦察兵尊言在境外遭遇突发冲突与恶意诬
+ 陷。为营救身陷险境的同伴陈旭、洗刷自身污名、守护
+ 无辜人质，尊言凭借专业能力与坚定意志组建临时小队
+ ，深入险境与不法团伙展开激烈对抗，在重重危机中坚
+ 守正义、探寻真相。\n豆瓣链接：https://movie.douban.com/subje
+ ct/38412138/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20260923T170343Z
+DTSTAMP:20260927T170323Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
