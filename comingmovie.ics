@@ -4,7 +4,7 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《珠穆朗玛：云中彼岸》
 DTSTART;VALUE=DATE:20261106
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:影片聚焦人类历史上极具难度的极限挑战——
  从珠穆朗玛峰北壁登顶后滑降而下。珠峰北壁霍恩拜因
  雪沟坡度50度、垂直下降2743米，素来以艰险著称。极限
@@ -15,7 +15,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《白衣逆行者》
 DTSTART;VALUE=DATE:20261106
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:2020年初，未知传染病暴发。大学教授沈君（刘
  德华饰）与医生袁楚楚（杨子姗饰）夫妇和护士长田璐
  （秦海璐饰）、医生钟凌云（余皑磊饰）等本地医护人
@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《戴帽子的猫》
 DTSTART;VALUE=DATE:20261106
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:戴帽子的猫（比尔·哈德尔配音）接下了想像力
  与灵感研究所有限责任公司迄今最艰巨的任务：为盖比
  和塞巴斯蒂安这对姐弟加油打气，他们正为搬到新城镇
@@ -37,9 +37,39 @@ DESCRIPTION:戴帽子的猫（比尔·哈德尔配音）接下了想像力
  的魔法帽。\n豆瓣链接：https://movie.douban.com/subject/23774856/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《麻将女王》
+DTSTART;VALUE=DATE:20261106
+DTSTAMP:20261104T170425Z
+DESCRIPTION:龙家村村长龙卷峰（许绍雄饰）育有三女一子
+ ，分别名叫龙小东（高海宁饰）、龙小南（陈静饰）、
+ 龙小茜（郭佩文饰）和龙小北（文佐匡饰）大家姐小东
+ 是连续五年晋身最佳业绩的百万元桌级经理。外表事业
+ 女王的小东却是一个“天生麻将狂”，更偏偏恋上科学
+ 家男友马壮（马国明饰）马壮对小东情深一往，只是他
+ 一世人最憎人打麻雀，为了不让爱郎失望，小东竭力隐
+ 瞒自己是麻雀狂的真相二妹小南攻读戏剧，毕业后当不
+ 了演员，却在片场担任“亲密指导员”，遇上了躁狂影
+ 帝千红哥（陈家乐饰），二人对戏剧追求南辕北辙，但
+ 两个火星撞地球的人偏偏在相处过程由欢喜冤家变成擦
+ 出爱火花。三妹小茜一天竟被小北老板，胸围厂太子爷
+ 林雨云（李尚正饰）落力追求，以为大团圆结局之际谁
+ 知真相峰回路转，小茜和雨云相爱背后，其实也暗藏一
+ 个惊天秘密。三对男女，情场上各有各精彩，如何收场
+ ？\n豆瓣链接：https://movie.douban.com/subject/37096668/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:《一朵山花别样红》
+DTSTART;VALUE=DATE:20261106
+DTSTAMP:20261104T170425Z
+DESCRIPTION:影片着眼于陕北黄土高原风貌，聚焦于新时代
+ 发展变迁中的众生群像，将榆林特有的草原以及秦晋文
+ 化交融的特有风情融入其中，讲述一段啼笑皆非的故事
+ 。\n豆瓣链接：https://movie.douban.com/subject/36641112/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《手捧繁星》
 DTSTART;VALUE=DATE:20261106
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:影片以援疆教师姚思平与学生艾迪娜、斯塔拉
  的十年命运羁绊为主线，融合温暖治愈与轻度悬疑元素
  ——既有师生相互救赎的动人瞬间，也有年轻人直面人
@@ -48,18 +78,9 @@ DESCRIPTION:影片以援疆教师姚思平与学生艾迪娜、斯塔拉
  e.douban.com/subject/37659649/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:《一朵山花别样红》
-DTSTART;VALUE=DATE:20261106
-DTSTAMP:20261103T170421Z
-DESCRIPTION:影片着眼于陕北黄土高原风貌，聚焦于新时代
- 发展变迁中的众生群像，将榆林特有的草原以及秦晋文
- 化交融的特有风情融入其中，讲述一段啼笑皆非的故事
- 。\n豆瓣链接：https://movie.douban.com/subject/36641112/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《感恩号·大篷车》
 DTSTART;VALUE=DATE:20261106
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:王凯、王锐兄弟俩为完成父亲的遗愿，实现因
  眩晕症不能乘坐机动交通工具的老母亲畅游全国的心愿
  ，手工制作一辆“大篷车”，徒步拉着80多岁的老母亲踏
@@ -69,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我们仅有一次的人生》
 DTSTART;VALUE=DATE:20261107
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:黄燕（宋佳饰）在按部就班的火化工作中逐渐
  失去了对生活的期待，变得悲观麻木。直到她意识到自
  己终将死亡，才决定更勇敢、更大胆地活出自我。一次
@@ -82,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《心迷宫之三重罪》
 DTSTART;VALUE=DATE:20261107
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:小小山村人人心怀鬼胎。德高望重的村长肖卫
  国，与儿子肖宗耀反目成仇；寡言老实的大壮心底暗藏
  不可告人的隐秘；常年困在婚姻炼狱的丽琴忍耐已至极
@@ -96,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《乡归》
 DTSTART;VALUE=DATE:20261107
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:影片讲述了湘南山村里一群归乡者的故事——
  北漂多年后决意“带艺术回家”的中年夫妻刘休、周燕
  ，在理想与现实之间重新寻找生活的方向；在广东出生
@@ -112,7 +133,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《清气满乾坤》
 DTSTART;VALUE=DATE:20261108
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:影片以浙江省纪委榜样人物余延安等先进事迹
  为原型，讲述基层纪检干部靳宇轩率队暗访调查，从一
  桩蹊跷跳楼案顺藤摸瓜，层层撕开房地产领域政商勾结
@@ -122,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《爷爷奶奶那些事》
 DTSTART;VALUE=DATE:20261110
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:八十岁的奶奶结束与爷爷六十年的婚姻，离婚
  后依旧争吵不断，却又在夕阳岁月里彼此牵绊，导演杨
  骊珠以孙女的视角，用镜头记录下这一切。\n豆瓣链接：
@@ -131,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《海上钢琴师》
 DTSTART;VALUE=DATE:20261113
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:本片讲述了一个钢琴天才传奇的一生。1900年，V
  irginian号豪华邮轮上，一个孤儿被遗弃在头等舱，由船上
  的水手抚养长大，取名1900（蒂姆•罗斯饰）。1900慢慢长
@@ -148,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《夫妻一场》
 DTSTART;VALUE=DATE:20261113
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:相识于原博的还俗派对时，李欣冉还是位身患
  抑郁症的女演员。处于人生低谷的俩人一见钟情，他们
  迅速走到一起，迎来第一个孩子。带着几百万积蓄，他
@@ -163,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《向阳青春》
 DTSTART;VALUE=DATE:20261114
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:高中生夏薇零（肖雨晴饰），长期困在母亲（
  李颖饰）的严密管控里，学业、选择、交友全都被安排
  妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗
@@ -179,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《深度安静》
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:影片改编自林秀赫同名短篇小说。讲述谕明与
  依庭相遇于大学图书馆里的深度安静区，两人相爱并走
  入婚姻，正期待迎接第一个孩子。然而，依庭的意外自
@@ -192,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《霹雳英雄：素还真》
 DTSTART;VALUE=DATE:20261120
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:影片讲述了少年素还真初涉江湖，便被卷入权
  谋纷争，恩师蒙难。随着真相层层揭开，他执剑向前，
  一段江湖传奇就此展开。\n豆瓣链接：https://movie.douban.com
@@ -201,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《试探》
 DTSTART;VALUE=DATE:20261121
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:空无一人的房间，忽明忽暗的灯光，黑暗之中
  身影交叠纠缠，那张陌生又熟悉的面孔若隐若现。丁伯
  阳（冯绍峰饰）、马娅（陈雨锶饰）、万影（李梦饰）
@@ -214,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《魔法秘境》
 DTSTART;VALUE=DATE:20261127
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:冲动又特立独行的16岁少女比莉（海莉·斯坦菲
  尔德配音）一直以为自己只是一个普通女孩，直到一次
  意外唤醒了体内沉睡已久的魔法力量，将她卷入“魔法
@@ -230,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《时间里的爱人》
 DTSTART;VALUE=DATE:20261128
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:前途无量的女主厨Almut（弗洛伦丝·皮尤FlorencePu
  gh饰），遇上失婚男子Tobias（安德鲁·加菲尔德AndrewGarfiel
  d饰），一次邂逅，改变了余生。就在两人相爱成家之后
@@ -240,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《复仇者联盟5》
 DTSTART;VALUE=DATE:20261216
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:影片讲述了来自三个不同宇宙的英雄面对前所
  未有的生存威胁，跨宇宙集结再掀对决的传奇故事。\n豆
  瓣链接：https://movie.douban.com/subject/36011202/
@@ -248,7 +269,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《沙丘3》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:故事发生在保罗·厄崔迪掌控帝国近二十年后，
  此时的他已是一位冷酷无情的皇帝。当过去的盟友神秘
  回归，新的威胁接踵而至，反叛阴谋危机四伏…他必须
@@ -262,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《活久久》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:改编自感动全网的“霍九九”真实故事：乐观
  开朗的律所女孩许倩（张艺凡饰）与逗趣幽默的广告公
  司经理乔一泽（陈立农饰）在网络因共同爱好结识并陷
@@ -277,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《狼牙行动》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:退伍侦察兵尊言在境外遭遇突发冲突与恶意诬
  陷。为营救身陷险境的同伴陈旭、洗刷自身污名、守护
  无辜人质，尊言凭借专业能力与坚定意志组建临时小队
@@ -288,7 +309,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
@@ -298,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《河的女儿》
 DTSTART;VALUE=DATE:20270308
-DTSTAMP:20261103T170421Z
+DTSTAMP:20261104T170425Z
 DESCRIPTION:这是一部与国际知名作家虹影的生命经历息息
  相关的纪录片，改编自她的自传《饥饿的女儿》，是虹
  影的真实经历，通过三代女性之间不可重复的生命往事
