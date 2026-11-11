@@ -4,7 +4,7 @@ PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:《海上钢琴师》
 DTSTART;VALUE=DATE:20261113
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:本片讲述了一个钢琴天才传奇的一生。1900年，V
  irginian号豪华邮轮上，一个孤儿被遗弃在头等舱，由船上
  的水手抚养长大，取名1900（蒂姆•罗斯饰）。1900慢慢长
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《夫妻一场》
 DTSTART;VALUE=DATE:20261113
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:相识于原博的还俗派对时，李欣冉还是位身患
  抑郁症的女演员。处于人生低谷的俩人一见钟情，他们
  迅速走到一起，迎来第一个孩子。带着几百万积蓄，他
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《我没错！》
 DTSTART;VALUE=DATE:20261114
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:黎响（佟丽娅饰）遇到人生中最大的危机，她
  和一位无名小律师韩铮（王皓饰）结伴，想要证明自己
  做个好人的行为没有错，却意外与王海燕（王智饰）、
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《向阳青春》
 DTSTART;VALUE=DATE:20261114
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:高中生夏薇零（肖雨晴饰），长期困在母亲（
  李颖饰）的严密管控里，学业、选择、交友全都被安排
  妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《深度安静》
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:影片改编自林秀赫同名短篇小说。讲述谕明与
  依庭相遇于大学图书馆里的深度安静区，两人相爱并走
  入婚姻，正期待迎接第一个孩子。然而，依庭的意外自
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《霹雳英雄：素还真》
 DTSTART;VALUE=DATE:20261120
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:影片讲述了少年素还真初涉江湖，便被卷入权
  谋纷争，恩师蒙难。随着真相层层揭开，他执剑向前，
  一段江湖传奇就此展开。\n豆瓣链接：https://movie.douban.com
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《金哲》
 DTSTART;VALUE=DATE:20261120
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:1983年夏，七岁的尚民到吉童村姥姥家过暑假，
  遇见了被全村叫作"傻子"的金哲。山野间的疯跑嬉戏，抓
  河蚌、捉迷藏，让尚民读懂了他藏在"傻"背后的孤独，而
@@ -100,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《试探》
 DTSTART;VALUE=DATE:20261121
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:空无一人的房间，忽明忽暗的灯光，黑暗之中
  身影交叠纠缠，那张陌生又熟悉的面孔若隐若现。丁伯
  阳（冯绍峰饰）、马娅（陈雨锶饰）、万影（李梦饰）
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《悲伤逆流成河》
 DTSTART;VALUE=DATE:20261127
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:多组校园欺凌事件，打破了5位主角本应该美好
  的青春校园生活。齐铭（赵英博饰）清俊帅气，是人人
  称颂的优等生，而易遥（任敏饰）却是大家口中的“赔
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《魔法秘境》
 DTSTART;VALUE=DATE:20261127
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:冲动又特立独行的16岁少女比莉（海莉·斯坦菲
  尔德配音）一直以为自己只是一个普通女孩，直到一次
  意外唤醒了体内沉睡已久的魔法力量，将她卷入“魔法
@@ -145,9 +145,23 @@ DESCRIPTION:冲动又特立独行的16岁少女比莉（海莉·斯坦菲
  接：https://movie.douban.com/subject/37503053/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《二十四味》
+DTSTART;VALUE=DATE:20261127
+DTSTAMP:20261111T170346Z
+DESCRIPTION:出国多年后回到故土的四月（袁澧林饰），发
+ 现早已离异的父母重拾旧好，年少时她以极端自虐的方
+ 式挽留出轨父亲（钟镇涛饰）的记忆再度浮现。凉茶铺
+ 正面临拆迁，四月要带巧珍（张艾嘉饰）出国生活，巧
+ 珍却希望继续经营凉茶铺。重回家庭的落魄永堂默默为
+ 巧珍筹措重开凉茶铺的资金，拼尽全力却误中骗局。一
+ 团乱麻时，四月又遇野蛮生长、同父异母的妹妹小景。
+ 她将过去逃避的生活、时间以及自省一点点拾起。\n豆瓣
+ 链接：https://movie.douban.com/subject/33412900/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《时间里的爱人》
 DTSTART;VALUE=DATE:20261128
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:前途无量的女主厨Almut（弗洛伦丝·皮尤FlorencePu
  gh饰），遇上失婚男子Tobias（安德鲁·加菲尔德AndrewGarfiel
  d饰），一次邂逅，改变了余生。就在两人相爱成家之后
@@ -155,9 +169,19 @@ DESCRIPTION:前途无量的女主厨Almut（弗洛伦丝·皮尤FlorencePu
  豆瓣链接：https://movie.douban.com/subject/36313679/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《顾炎武》
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20261111T170346Z
+DESCRIPTION:主要讲述了顾炎武还乡途中，回忆平生：“誓
+ 不仕清”；身陷文字狱却因书未成不敢轻生；将弟子送
+ 进清朝“博学鸿儒科”考场；生命终时向少年康熙解读
+ “何谓亡国，何谓亡天下”的故事。\n豆瓣链接：https://m
+ ovie.douban.com/subject/37505711/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《偷偷藏不住》
 DTSTART;VALUE=DATE:20261212
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:暗恋这件事，偷偷藏不住。桑稚青春里最隐秘
  的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这
  份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地
@@ -170,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《复仇者联盟5》
 DTSTART;VALUE=DATE:20261216
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:影片讲述了来自三个不同宇宙的英雄面对前所
  未有的生存威胁，跨宇宙集结再掀对决的传奇故事。\n豆
  瓣链接：https://movie.douban.com/subject/36011202/
@@ -178,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《沙丘3》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:故事发生在保罗·厄崔迪掌控帝国近二十年后，
  此时的他已是一位冷酷无情的皇帝。当过去的盟友神秘
  回归，新的威胁接踵而至，反叛阴谋危机四伏…他必须
@@ -192,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《活久久》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:改编自感动全网的“霍九九”真实故事：乐观
  开朗的律所女孩许倩（张艺凡饰）与逗趣幽默的广告公
  司经理乔一泽（陈立农饰）在网络因共同爱好结识并陷
@@ -207,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《狼牙行动》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:退伍侦察兵尊言在境外遭遇突发冲突与恶意诬
  陷。为营救身陷险境的同伴陈旭、洗刷自身污名、守护
  无辜人质，尊言凭借专业能力与坚定意志组建临时小队
@@ -218,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
@@ -228,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《河的女儿》
 DTSTART;VALUE=DATE:20270308
-DTSTAMP:20261110T170327Z
+DTSTAMP:20261111T170346Z
 DESCRIPTION:这是一部与国际知名作家虹影的生命经历息息
  相关的纪录片，改编自她的自传《饥饿的女儿》，是虹
  影的真实经历，通过三代女性之间不可重复的生命往事
