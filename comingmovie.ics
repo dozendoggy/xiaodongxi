@@ -2,24 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:《琴弓师》
-DTSTART;VALUE=DATE:20261117
-DTSTAMP:20261115T170346Z
-DESCRIPTION:八十年代，苏州水乡木匠朱渭华被小提琴琴弓
- 的精巧所吸引，苦心研究琴弓制作，多次失败后立下制
- 作世界名弓的志向。他顶着“泥腿子不懂音乐”的偏见
- 考入上海音乐学院，却因家庭变故辍学返乡。朱渭华坚
- 守精工细作，将明式家具榫卯的工艺融入制弓技艺，潜
- 心数载后斩获国际琴弓大赛金奖。朱渭华怀揣匠心跨越
- 认知壁垒、填补技术空白，历经寒来暑往，终成一代制
- 弓大师，以工匠精神奏响了一曲将“琴弓制作技艺”推
- 向世界的壮丽凯歌。\n豆瓣链接：https://movie.douban.com/subje
- ct/37150166/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:《深度安静》
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:影片改编自林秀赫同名短篇小说。讲述谕明与
  依庭相遇于大学图书馆里的深度安静区，两人相爱并走
  入婚姻，正期待迎接第一个孩子。然而，依庭的意外自
@@ -32,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《饥饿游戏：收获日出》
 DTSTART;VALUE=DATE:20261120
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:第50届饥饿游戏（第二届世纪极限赛）收割仪式
  开启，看似生机盎然的竞技场，实则步步杀机。贡品数
  量翻倍，存活难度升级！48名少男少女展开极致大逃杀！
@@ -48,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《霹雳英雄：素还真》
 DTSTART;VALUE=DATE:20261120
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:影片讲述了少年素还真初涉江湖，便被卷入权
  谋纷争，恩师蒙难。随着真相层层揭开，他执剑向前，
  一段江湖传奇就此展开。\n豆瓣链接：https://movie.douban.com
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《金哲》
 DTSTART;VALUE=DATE:20261120
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:1983年夏，七岁的尚民到吉童村姥姥家过暑假，
  遇见了被全村叫作"傻子"的金哲。山野间的疯跑嬉戏，抓
  河蚌、捉迷藏，让尚民读懂了他藏在"傻"背后的孤独，而
@@ -69,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《试探》
 DTSTART;VALUE=DATE:20261121
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:空无一人的房间，忽明忽暗的灯光，黑暗之中
  身影交叠纠缠，那张陌生又熟悉的面孔若隐若现。丁伯
  阳（冯绍峰饰）、马娅（陈雨锶饰）、万影（李梦饰）
@@ -80,9 +65,22 @@ DESCRIPTION:空无一人的房间，忽明忽暗的灯光，黑暗之中
  8655/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《沙丘》
+DTSTART;VALUE=DATE:20261127
+DTSTAMP:20261116T170408Z
+DESCRIPTION:电影《沙丘》为观众呈现了一段神秘而感人至
+ 深的英雄之旅。天赋异禀的少年保罗·厄崔迪（提莫西·
+ 查拉梅饰）被命运指引，为了保卫自己的家族和人民，
+ 决心前往浩瀚宇宙间最危险的星球，开启一场惊心动魄
+ 的冒险。与此同时，各路势力为了抢夺这颗星球上一种
+ 能够释放人类最大潜力的珍贵资源而纷纷加入战场。最
+ 终，唯有那些能够战胜内心恐惧的人才能生存下去。\n豆
+ 瓣链接：https://movie.douban.com/subject/3001114/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《悲伤逆流成河》
 DTSTART;VALUE=DATE:20261127
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:多组校园欺凌事件，打破了5位主角本应该美好
  的青春校园生活。齐铭（赵英博饰）清俊帅气，是人人
  称颂的优等生，而易遥（任敏饰）却是大家口中的“赔
@@ -100,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《魔法秘境》
 DTSTART;VALUE=DATE:20261127
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:冲动又特立独行的16岁少女比莉（海莉·斯坦菲
  尔德配音）一直以为自己只是一个普通女孩，直到一次
  意外唤醒了体内沉睡已久的魔法力量，将她卷入“魔法
@@ -116,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《二十四味》
 DTSTART;VALUE=DATE:20261127
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:出国多年后回到故土的四月（袁澧林饰），发
  现早已离异的父母重拾旧好，年少时她以极端自虐的方
  式挽留出轨父亲（钟镇涛饰）的记忆再度浮现。凉茶铺
@@ -128,9 +126,18 @@ DESCRIPTION:出国多年后回到故土的四月（袁澧林饰），发
  链接：https://movie.douban.com/subject/33412900/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《像风一样自由》
+DTSTART;VALUE=DATE:20261127
+DTSTAMP:20261116T170408Z
+DESCRIPTION:女主角伊娜(屈菁菁饰)和未婚夫古兵(范逸臣饰)
+ 历经7年的爱情长跑后，终于决定走入婚姻的殿堂。然而
+ 在婚礼前夕，伊娜却打包行装只身奔赴古老的村落……\n
+ 豆瓣链接：https://movie.douban.com/subject/27661975/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《时间里的爱人》
 DTSTART;VALUE=DATE:20261128
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:前途无量的女主厨Almut（弗洛伦丝·皮尤FlorencePu
  gh饰），遇上失婚男子Tobias（安德鲁·加菲尔德AndrewGarfiel
  d饰），一次邂逅，改变了余生。就在两人相爱成家之后
@@ -140,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《顾炎武》
 DTSTART;VALUE=DATE:20261201
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:主要讲述了顾炎武还乡途中，回忆平生：“誓
  不仕清”；身陷文字狱却因书未成不敢轻生；将弟子送
  进清朝“博学鸿儒科”考场；生命终时向少年康熙解读
@@ -148,9 +155,21 @@ DESCRIPTION:主要讲述了顾炎武还乡途中，回忆平生：“誓
  ovie.douban.com/subject/37505711/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《沙丘2》
+DTSTART;VALUE=DATE:20261204
+DTSTAMP:20261116T170408Z
+DESCRIPTION:《沙丘2》承接第一部剧情，讲述保罗·厄崔迪
+ （提莫西·查拉梅TimothéeChalamet饰）被帕迪沙皇帝和哈克
+ 南人联手灭族后，在厄拉科斯星球遇到弗雷曼女战士契
+ 妮（赞达亚Zendaya饰）以及加入弗雷曼人后展开的传奇旅
+ 程。保罗与让他家破人亡的阴谋家们开战，同时面临着
+ 一生所爱与已知宇宙命运的两难选择。\n豆瓣链接：https:
+ //movie.douban.com/subject/35575567/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《喜欢了你一整个青春》
 DTSTART;VALUE=DATE:20261205
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:高中联考失手的小爱被妈妈安排升读名校“一
  女中”的夜校部，但即使与日校生共享课室和书桌，成
  绩上的差距却总让小爱心存距离感，自卑感油然而生。
@@ -164,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《偷偷藏不住》
 DTSTART;VALUE=DATE:20261212
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:暗恋这件事，偷偷藏不住。桑稚青春里最隐秘
  的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这
  份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地
@@ -177,15 +196,25 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《复仇者联盟5》
 DTSTART;VALUE=DATE:20261216
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:影片讲述了来自三个不同宇宙的英雄面对前所
  未有的生存威胁，跨宇宙集结再掀对决的传奇故事。\n豆
  瓣链接：https://movie.douban.com/subject/36011202/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:《师生》
+DTSTART;VALUE=DATE:20261218
+DTSTAMP:20261116T170408Z
+DESCRIPTION:1914年，一代伟人毛泽东来到湖南第一师范学校
+ 求学。在这里，他遇到了影响他一生的四位老师，杨昌
+ 济，徐特立，袁吉六，张干。在与老师的交流学习中，
+ 毛泽东同四位老师产生了感人至深的师生之情。\n豆瓣链
+ 接：https://movie.douban.com/subject/37365832/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:《沙丘3》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:故事发生在保罗·厄崔迪掌控帝国近二十年后，
  此时的他已是一位冷酷无情的皇帝。当过去的盟友神秘
  回归，新的威胁接踵而至，反叛阴谋危机四伏…他必须
@@ -199,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《活久久》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:改编自感动全网的“霍九九”真实故事：乐观
  开朗的律所女孩许倩（张艺凡饰）与逗趣幽默的广告公
  司经理乔一泽（陈立农饰）在网络因共同爱好结识并陷
@@ -214,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《狼牙行动》
 DTSTART;VALUE=DATE:20261231
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:退伍侦察兵尊言在境外遭遇突发冲突与恶意诬
  陷。为营救身陷险境的同伴陈旭、洗刷自身污名、守护
  无辜人质，尊言凭借专业能力与坚定意志组建临时小队
@@ -225,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《流浪地球3(上)》
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:太阳即将毁灭，人类在地球表面建造出巨大的
  推进器，寻找新的家园。然而宇宙之路危机四伏，为了
  拯救地球，为了人类能在漫长的2500年后抵达新家园，最
@@ -235,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:《河的女儿》
 DTSTART;VALUE=DATE:20270308
-DTSTAMP:20261115T170346Z
+DTSTAMP:20261116T170408Z
 DESCRIPTION:这是一部与国际知名作家虹影的生命经历息息
  相关的纪录片，改编自她的自传《饥饿的女儿》，是虹
  影的真实经历，通过三代女性之间不可重复的生命往事
